@@ -1,0 +1,10247 @@
+{
+ "_source": "Imported from IITH Academic Office \"Classroom Details\" sheet (classroom-details-jul-nov-2026.csv) on 2026-09-28. Registered counts and room capacities are from the sheet.",
+ "calendar": {
+  "_source": "IITH Academic Calendar Jul-Nov 2026 (iith.ac.in/academics/assets/files/calendars/academic_calendar_2026_27_jul_nov_2026.pdf)",
+  "segments": {
+   "1": [
+    "2026-07-27",
+    "2026-08-11"
+   ],
+   "2": [
+    "2026-08-12",
+    "2026-08-28"
+   ],
+   "3": [
+    "2026-08-31",
+    "2026-09-16"
+   ],
+   "4": [
+    "2026-09-17",
+    "2026-10-05"
+   ],
+   "5": [
+    "2026-10-06",
+    "2026-10-28"
+   ],
+   "6": [
+    "2026-10-29",
+    "2026-11-13"
+   ]
+  },
+  "holidays": [
+   "2026-08-26",
+   "2026-09-14",
+   "2026-10-02",
+   "2026-10-19",
+   "2026-10-20",
+   "2026-10-21",
+   "2026-10-22",
+   "2026-10-23"
+  ],
+  "examWeeks": [
+   [
+    "2026-11-14",
+    "2026-11-18"
+   ]
+  ]
+ },
+ "rooms": [
+  {
+   "id": "BT/BM-009",
+   "placeId": "acad",
+   "building": "BT/BM",
+   "seats": 24
+  },
+  {
+   "id": "BT/BM-010",
+   "placeId": "acad",
+   "building": "BT/BM",
+   "seats": 24
+  },
+  {
+   "id": "BT/BM-118",
+   "placeId": "acad",
+   "building": "BT/BM",
+   "seats": 60
+  },
+  {
+   "id": "CHE-111",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 70
+  },
+  {
+   "id": "CHE-112",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 80
+  },
+  {
+   "id": "CHE-114",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 36
+  },
+  {
+   "id": "CHE-117",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 84
+  },
+  {
+   "id": "CHE-118",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 84
+  },
+  {
+   "id": "CHE-119",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 108
+  },
+  {
+   "id": "CHE-220",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 40
+  },
+  {
+   "id": "CHE-221",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 120
+  },
+  {
+   "id": "CHE-320",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 80
+  },
+  {
+   "id": "CHE-LH-1",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 184
+  },
+  {
+   "id": "CHE-LH-2",
+   "placeId": "acad",
+   "building": "CHE",
+   "seats": 184
+  },
+  {
+   "id": "CSE-LH-01",
+   "placeId": "acad",
+   "building": "CSE",
+   "seats": 70
+  },
+  {
+   "id": "CSE-LH-02",
+   "placeId": "acad",
+   "building": "CSE",
+   "seats": 70
+  },
+  {
+   "id": "CSE-LH-03",
+   "placeId": "acad",
+   "building": "CSE",
+   "seats": 70
+  },
+  {
+   "id": "CY-LH-1",
+   "placeId": "acad",
+   "building": "CY",
+   "seats": 30
+  },
+  {
+   "id": "CY-LH-2",
+   "placeId": "acad",
+   "building": "CY",
+   "seats": 40
+  },
+  {
+   "id": "CY-LH-3",
+   "placeId": "acad",
+   "building": "CY",
+   "seats": 90
+  },
+  {
+   "id": "EE-002",
+   "placeId": "acad",
+   "building": "EE",
+   "seats": 80
+  },
+  {
+   "id": "EE-003",
+   "placeId": "acad",
+   "building": "EE",
+   "seats": 40
+  },
+  {
+   "id": "EE-004",
+   "placeId": "acad",
+   "building": "EE",
+   "seats": 80
+  },
+  {
+   "id": "EE-20",
+   "placeId": "acad",
+   "building": "EE",
+   "seats": 60
+  },
+  {
+   "id": "LA-003",
+   "placeId": "acad",
+   "building": "LA",
+   "seats": 80
+  },
+  {
+   "id": "LA-005",
+   "placeId": "acad",
+   "building": "LA",
+   "seats": 75
+  },
+  {
+   "id": "LHC-01",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 72
+  },
+  {
+   "id": "LHC-02",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 72
+  },
+  {
+   "id": "LHC-03",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 120
+  },
+  {
+   "id": "LHC-04",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 200
+  },
+  {
+   "id": "LHC-05",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 800
+  },
+  {
+   "id": "LHC-06",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 320
+  },
+  {
+   "id": "LHC-07",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 200
+  },
+  {
+   "id": "LHC-08",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 120
+  },
+  {
+   "id": "LHC-09",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 72
+  },
+  {
+   "id": "LHC-10",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 72
+  },
+  {
+   "id": "LHC-11",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 120
+  },
+  {
+   "id": "LHC-12",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 200
+  },
+  {
+   "id": "LHC-13",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 320
+  },
+  {
+   "id": "LHC-14",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 200
+  },
+  {
+   "id": "LHC-15",
+   "placeId": "lhc",
+   "building": "LHC",
+   "seats": 120
+  },
+  {
+   "id": "MA-01",
+   "placeId": "acad",
+   "building": "MA",
+   "seats": 56
+  },
+  {
+   "id": "MA-02",
+   "placeId": "acad",
+   "building": "MA",
+   "seats": 56
+  },
+  {
+   "id": "MA-114",
+   "placeId": "acad",
+   "building": "MA",
+   "seats": 30
+  },
+  {
+   "id": "MAE-LH-0",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 68
+  },
+  {
+   "id": "MAE-LH-2",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 138
+  },
+  {
+   "id": "MAE-LH-3",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 100
+  },
+  {
+   "id": "MAE-LH-4",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 68
+  },
+  {
+   "id": "MAE-LH-5",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 60
+  },
+  {
+   "id": "MAE-LH-6",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 68
+  },
+  {
+   "id": "MAE-LH-7",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 70
+  },
+  {
+   "id": "MAE-LH-8",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 40
+  },
+  {
+   "id": "MAE-LH-9",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 68
+  },
+  {
+   "id": "MAE-LH-10",
+   "placeId": "acad",
+   "building": "MAE",
+   "seats": 68
+  },
+  {
+   "id": "MSME-LH-1",
+   "placeId": "acad",
+   "building": "MSME",
+   "seats": 36
+  },
+  {
+   "id": "MSME-LH-2",
+   "placeId": "acad",
+   "building": "MSME",
+   "seats": 60
+  },
+  {
+   "id": "MSME-LH-3",
+   "placeId": "acad",
+   "building": "MSME",
+   "seats": 106
+  },
+  {
+   "id": "PH-1",
+   "placeId": "acad",
+   "building": "PH",
+   "seats": 80
+  },
+  {
+   "id": "PH-2",
+   "placeId": "acad",
+   "building": "PH",
+   "seats": 60
+  },
+  {
+   "id": "PH-3",
+   "placeId": "acad",
+   "building": "PH",
+   "seats": 50
+  }
+ ],
+ "classes": [
+  {
+   "course": "AE3110",
+   "name": "Introduction to Aerospace vehicles",
+   "room": "MAE-LH-7",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "AE3120",
+   "name": "Flight Mechanics",
+   "room": "MAE-LH-3",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "AE5110",
+   "name": "Aerodynamics and Propulsion",
+   "room": "MAE-LH-2",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 25
+  },
+  {
+   "course": "AE5120",
+   "name": "Flight dynamics and Structures",
+   "room": "MAE-LH-3",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "AI1000",
+   "name": "Matrix Theory",
+   "room": "LHC-01",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 47
+  },
+  {
+   "course": "AI2000/AI5000/EE5610",
+   "name": "Foundations of Machine Learning",
+   "room": "LHC-14",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 153
+  },
+  {
+   "course": "AI2100/AI5100/EE6380",
+   "name": "Deep Learning",
+   "room": "LHC-11",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 60
+  },
+  {
+   "course": "AI2200",
+   "name": "Concentration Inequalities",
+   "room": "LHC-03",
+   "slot": "Q",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 73
+  },
+  {
+   "course": "AI3000",
+   "name": "Reinforcement Learning",
+   "room": "LHC-04",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 84
+  },
+  {
+   "course": "AI3403/LW5020",
+   "name": "Multi-Agent Systems (MAS)",
+   "room": "MAE-LH-7",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 70
+  },
+  {
+   "course": "AI4000",
+   "name": "Robotics",
+   "room": "LHC-07",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 54
+  },
+  {
+   "course": "AI4403",
+   "name": "AI in Finance",
+   "room": "LHC-12",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 29
+  },
+  {
+   "course": "AI5030",
+   "name": "Probability and Stochastic Processes",
+   "room": "LHC-10",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 45
+  },
+  {
+   "course": "AI5040",
+   "name": "Game Theory and Mechanism Design",
+   "room": "LHC-11",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 57
+  },
+  {
+   "course": "AI5110",
+   "name": "Linear Algebra and Applications",
+   "room": "LHC-09",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 41
+  },
+  {
+   "course": "AM5010",
+   "name": "Fundamentals of Additive Manufacturing",
+   "room": "MAE-LH-6",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "AM5010",
+   "name": "Fundamentals of Additive Manufacturing",
+   "room": "MAE-LH-6",
+   "slot": "D",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "AM5020",
+   "name": "Product Design and Prototyping",
+   "room": "MAE-LH-6",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 11
+  },
+  {
+   "course": "AM5030",
+   "name": "Materials for Additive Manufacturing",
+   "room": "MAE-LH-6",
+   "slot": "P",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "BM1000",
+   "name": "Physio-Anatomy I",
+   "room": "BT/BM-009",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BM2013",
+   "name": "Analog and Integrated Circuits",
+   "room": "BT/BM-009",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BM2053",
+   "name": "Mathematical Model and System Biology",
+   "room": "BT/BM-118",
+   "slot": "C",
+   "segment": "3-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 28
+  },
+  {
+   "course": "BM3023",
+   "name": "Cell Technology",
+   "room": "BT/BM-010",
+   "slot": "AN2",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "BM3040",
+   "name": "Introduction to Biomechanics",
+   "room": "BT/BM-009",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "BM3900",
+   "name": "Linear Systems and Signal",
+   "room": "LHC-10",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 45
+  },
+  {
+   "course": "BM4001",
+   "name": "Biomaterials Lab",
+   "room": "BT/BM-009",
+   "slot": "AN4",
+   "segment": "3-6",
+   "sessions": [
+    [
+     4,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "BM4020",
+   "name": "Biophotonics",
+   "room": "BT/BM-009",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 18
+  },
+  {
+   "course": "BM4080",
+   "name": "Medical Image Processing & Analysis",
+   "room": "LHC-01",
+   "slot": "S",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "BM4090/BM5090",
+   "name": "Biomaterials-1",
+   "room": "LHC-11",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 58
+  },
+  {
+   "course": "BM4135",
+   "name": "Biomechanical Design",
+   "room": "BT/BM-010",
+   "slot": "Q",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "BM5013",
+   "name": "Sensors and Transducers in Health Care",
+   "room": "LHC-11",
+   "slot": "Q",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "BM5023",
+   "name": "Biomedical Devices",
+   "room": "BT/BM-118",
+   "slot": "R",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 52
+  },
+  {
+   "course": "BM5030",
+   "name": "Scientific Computing",
+   "room": "BT/BM-009",
+   "slot": "E",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 7
+  },
+  {
+   "course": "BM5033",
+   "name": "Statistical Inference Methods in Bioengineering",
+   "room": "BT/BM-118",
+   "slot": "D",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 60
+  },
+  {
+   "course": "BM5040",
+   "name": "Biomechanics",
+   "room": "LHC-01",
+   "slot": "E",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 34
+  },
+  {
+   "course": "BM5070",
+   "name": "Systems Physiology",
+   "room": "LHC-01",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "BM5110",
+   "name": "Lab on Chip",
+   "room": "BT/BM-009",
+   "slot": "B",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BM5123",
+   "name": "Organ-on-chip",
+   "room": "BT/BM-009",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "BM5190",
+   "name": "Biofabrication",
+   "room": "LHC-15",
+   "slot": "G",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 62
+  },
+  {
+   "course": "BM5193",
+   "name": "Product Design and Prototyping",
+   "room": "LHC-11",
+   "slot": "B",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "BM6146",
+   "name": "Clinical Immersion",
+   "room": "BT/BM-118",
+   "slot": "W",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "17:30",
+     "18:55"
+    ],
+    [
+     4,
+     "17:30",
+     "18:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BM7106",
+   "name": "Special Topics in Microscopy",
+   "room": "BT/BM-118",
+   "slot": "X",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "19:00",
+     "20:30"
+    ],
+    [
+     4,
+     "19:00",
+     "20:30"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "BT1010",
+   "name": "Introduction to Life Sciences",
+   "room": "LHC-13",
+   "slot": "B",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "BT1020",
+   "name": "Basic Bioinformatics",
+   "room": "LHC-03",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "BT1040",
+   "name": "AI in Digital Health",
+   "room": "LHC-15",
+   "slot": "F",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 42
+  },
+  {
+   "course": "BT1110",
+   "name": "Introduction to Bio-Nanotechnology",
+   "room": "LHC-01",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 72
+  },
+  {
+   "course": "BT2030",
+   "name": "Biochemistry",
+   "room": "BT/BM-118",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 48
+  },
+  {
+   "course": "BT2040",
+   "name": "Microbiology",
+   "room": "LHC-04",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 166
+  },
+  {
+   "course": "BT2053",
+   "name": "Big Data Biology and Biological Databases",
+   "room": "LHC-10",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 69
+  },
+  {
+   "course": "BT3030",
+   "name": "Sequence Alignment Algorithms",
+   "room": "LHC-01",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "BT3043",
+   "name": "Genetic Engineering",
+   "room": "BT/BM-009",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "BT3050",
+   "name": "Genomics, Transcriptomics, Proteomics",
+   "room": "BT/BM-118",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BT3203",
+   "name": "Machine Learning in Bioinformatics",
+   "room": "BT/BM-118",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "BT4026",
+   "name": "Seminar in Biotechnology and Bioinformatics",
+   "room": "BT/BM-010",
+   "slot": "B",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BT4030",
+   "name": "Industrial Biotechnology",
+   "room": "BT/BM-010",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BT4040",
+   "name": "Immunology and Immunotechnology",
+   "room": "LHC-07",
+   "slot": "S",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "BT4150",
+   "name": "Genomic Stability and Human Disease",
+   "room": "BT/BM-010",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "BT4223",
+   "name": "Algorithms for Molecular Dynamics simulation",
+   "room": "BT/BM-118",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "BT5013",
+   "name": "Biochemistry",
+   "room": "LHC-02",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "BT5060",
+   "name": "Genome Organization and Gene Regulation",
+   "room": "BT/BM-118",
+   "slot": "Q",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 45
+  },
+  {
+   "course": "BT5253",
+   "name": "Artificial Intelligence for Bioinformatics",
+   "room": "LHC-15",
+   "slot": "E",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 17
+  },
+  {
+   "course": "BT6040",
+   "name": "Bioindustry Lecture",
+   "room": "LHC-02",
+   "slot": "G",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "BT6060",
+   "name": "Protein Misfolding in Neurodegenerative Diseases",
+   "room": "BT/BM-118",
+   "slot": "P",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "BT6070",
+   "name": "Molecular mechanisms of aging and age-related disorders",
+   "room": "LHC-10",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 29
+  },
+  {
+   "course": "BT6113",
+   "name": "Structural Bioinformatics",
+   "room": "LHC-09",
+   "slot": "E",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "BT6143",
+   "name": "Gene Technology",
+   "room": "LHC-10",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "BT6303",
+   "name": "Proteomics: Techniques and Applications",
+   "room": "MAE-LH-5",
+   "slot": "S",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 42
+  },
+  {
+   "course": "BT6390",
+   "name": "Advanced Cell Biology",
+   "room": "LHC-09",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 37
+  },
+  {
+   "course": "BT6630",
+   "name": "RNA Biology and Therapeutics",
+   "room": "LHC-01",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "BT6873",
+   "name": "Host-Pathogen-Microbiota Interactions",
+   "room": "LHC-07",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "CC1010",
+   "name": "Introduction to Climate Change",
+   "room": "LHC-01",
+   "slot": "R",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 72
+  },
+  {
+   "course": "CH1110",
+   "name": "Introduction to Chemical Engineering",
+   "room": "CHE-112",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 54
+  },
+  {
+   "course": "CH1120",
+   "name": "Applied Chemistry",
+   "room": "CHE-112",
+   "slot": "E",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 50
+  },
+  {
+   "course": "CH2110",
+   "name": "Biological Engineering",
+   "room": "CHE-118",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 84
+  },
+  {
+   "course": "CH2120",
+   "name": "Numerical Methods",
+   "room": "LHC-08",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 92
+  },
+  {
+   "course": "CH2130",
+   "name": "Transport Phenomena",
+   "room": "CHE-118",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 84
+  },
+  {
+   "course": "CH2140",
+   "name": "Chemical Engineering Thermodynamics",
+   "room": "CHE-118",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "CH2150",
+   "name": "Applied Mathematics in Chemical Engineering",
+   "room": "CHE-118",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 47
+  },
+  {
+   "course": "CH3110",
+   "name": "Mass Transfer - I",
+   "room": "CHE-119",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "CH3120",
+   "name": "Mechanical Operations",
+   "room": "CHE-119",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 40
+  },
+  {
+   "course": "CH3130",
+   "name": "Chemical Technology",
+   "room": "CHE-119",
+   "slot": "D",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 44
+  },
+  {
+   "course": "CH3140",
+   "name": "Chemical Reaction Engineering - II",
+   "room": "CHE-119",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 40
+  },
+  {
+   "course": "CH4112",
+   "name": "Process Design and Economics",
+   "room": "CHE-112",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 46
+  },
+  {
+   "course": "CH5010",
+   "name": "Advanced Numerical Methods",
+   "room": "CHE-112",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 58
+  },
+  {
+   "course": "CH5050",
+   "name": "Heterogeneous Catalytic Reaction Engineering",
+   "room": "CHE-112",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 18
+  },
+  {
+   "course": "CH5060",
+   "name": "Advanced Process Control",
+   "room": "CHE-111",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "CH5400",
+   "name": "Introduction to Colloids and Interface Science",
+   "room": "CHE-111",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "CH5440",
+   "name": "Materials for Soft Robots",
+   "room": "CHE-111",
+   "slot": "D",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 1
+  },
+  {
+   "course": "CH5460",
+   "name": "Process Integration",
+   "room": "CHE-119",
+   "slot": "D",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 19
+  },
+  {
+   "course": "CH5480",
+   "name": "Advanced Colloids and Interfaces",
+   "room": "CHE-111",
+   "slot": "C",
+   "segment": "5-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "CH5500",
+   "name": "Introduction to Polymer Rheology",
+   "room": "CHE-119",
+   "slot": "E",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "CH5710",
+   "name": "Machine Learning Fundamentals",
+   "room": "CHE-111",
+   "slot": "E",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 60
+  },
+  {
+   "course": "CH5720",
+   "name": "AI/ML Tool Chains for Chemical Engineers",
+   "room": "CHE-119",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 62
+  },
+  {
+   "course": "CH5730",
+   "name": "Computer Vision in Chemical and Life Sciences",
+   "room": "CHE-119",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "CH5740",
+   "name": "DFT/AI for Catalyst Design",
+   "room": "CHE-111",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "CH5750",
+   "name": "Accelerating MD with AI/ML",
+   "room": "CHE-119",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "CH5860",
+   "name": "Computational Biology",
+   "room": "CHE-111",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 13
+  },
+  {
+   "course": "CH5900",
+   "name": "Computational Fluid Dynamics",
+   "room": "CHE-118",
+   "slot": "Q",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 34
+  },
+  {
+   "course": "CH5910",
+   "name": "Chemical Reactor Modeling",
+   "room": "CHE-112",
+   "slot": "W",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "17:30",
+     "18:55"
+    ],
+    [
+     4,
+     "17:30",
+     "18:55"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "CH6080",
+   "name": "Introduction to Cardiovascular Mechanics",
+   "room": "CHE-119",
+   "slot": "E",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 19
+  },
+  {
+   "course": "CH6580",
+   "name": "Advanced Mineral Processing",
+   "room": "CHE-118",
+   "slot": "E",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 11
+  },
+  {
+   "course": "CH6620",
+   "name": "Intermolecular Forces",
+   "room": "CHE-118",
+   "slot": "F",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 18
+  },
+  {
+   "course": "CH6870",
+   "name": "Machine Learning for Process Systems Engineering",
+   "room": "CHE-112",
+   "slot": "P",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "CH6910",
+   "name": "Physicochemical Fundamentals for Chemical Engineers",
+   "room": "CHE-118",
+   "slot": "F",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "CP5010",
+   "name": "Critical Minerals Deposits & Process Mineralogy",
+   "room": "CHE-220",
+   "slot": "P",
+   "segment": "3-4",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "CP5020",
+   "name": "Introduction to Critical Minerals",
+   "room": "CHE-118",
+   "slot": "E",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "CP5060",
+   "name": "Electrochemical Processing of Critical Minerals",
+   "room": "CHE-220",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "CP6010",
+   "name": "AI & ML for CMs",
+   "room": "CHE-220",
+   "slot": "P",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "CS1000",
+   "name": "Introduction to Computing",
+   "room": "LHC-03",
+   "slot": "E",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 113
+  },
+  {
+   "course": "CS1010",
+   "name": "Discrete Maths for Computer Science",
+   "room": "LHC-04",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 166
+  },
+  {
+   "course": "CS2233",
+   "name": "Data Structures",
+   "room": "CSE-LH-01",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 65
+  },
+  {
+   "course": "CS2323",
+   "name": "Computer Architecture",
+   "room": "LHC-08",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 114
+  },
+  {
+   "course": "CS3390",
+   "name": "Foundations of Machine Learning",
+   "room": "CHE-LH-2",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 80
+  },
+  {
+   "course": "CS3423",
+   "name": "Compilers-II",
+   "room": "CSE-LH-01",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 70
+  },
+  {
+   "course": "CS3510",
+   "name": "Operating Systems I",
+   "room": "LHC-04",
+   "slot": "Q",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 200
+  },
+  {
+   "course": "CS3530",
+   "name": "Computer Networks",
+   "room": "CHE-LH-2",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 74
+  },
+  {
+   "course": "CS3550",
+   "name": "Database Management Systems 1",
+   "room": "LHC-04",
+   "slot": "R",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 144
+  },
+  {
+   "course": "CS5013",
+   "name": "GPU Programming",
+   "room": "CSE-LH-03",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "CS5040",
+   "name": "Linear Optimization",
+   "room": "LHC-12",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 173
+  },
+  {
+   "course": "CS5060",
+   "name": "Advanced Computer Networks",
+   "room": "CSE-LH-02",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 70
+  },
+  {
+   "course": "CS5100/CS5103",
+   "name": "Quantum Computing",
+   "room": "CSE-LH-02",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 55
+  },
+  {
+   "course": "CS5280",
+   "name": "Concurrency Control in Transactional Systems",
+   "room": "CSE-LH-02",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 19
+  },
+  {
+   "course": "CS5363",
+   "name": "Advanced Computer Architecture",
+   "room": "CSE-LH-02",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 51
+  },
+  {
+   "course": "CS5590",
+   "name": "Foundations of Machine Learning",
+   "room": "CSE-LH-01",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 70
+  },
+  {
+   "course": "CS5600",
+   "name": "Data Mining",
+   "room": "CSE-LH-03",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 70
+  },
+  {
+   "course": "CS5610",
+   "name": "Computational Number Theory & Algebra",
+   "room": "CSE-LH-01",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "CS5653",
+   "name": "Secure Software Engineering",
+   "room": "CSE-LH-03",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 29
+  },
+  {
+   "course": "CS5663",
+   "name": "AI for Databases",
+   "room": "CSE-LH-03",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "CS5903",
+   "name": "Distributed AI Training in a large-scale GPU cluster",
+   "room": "CSE-LH-03",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 59
+  },
+  {
+   "course": "CS6013",
+   "name": "Advanced Data Structures and Algorithms",
+   "room": "LHC-03",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 120
+  },
+  {
+   "course": "CS6113",
+   "name": "Representation Learning",
+   "room": "CSE-LH-03",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "CS6123",
+   "name": "Systems for Machine Learning",
+   "room": "CSE-LH-02",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 46
+  },
+  {
+   "course": "CS6160",
+   "name": "Cryptology",
+   "room": "LHC-02",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "CS6340",
+   "name": "Topics in Quantum Computing",
+   "room": "CSE-LH-01",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "CS6803",
+   "name": "Topics in Natural Language Processing",
+   "room": "CSE-LH-01",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "CS6843",
+   "name": "Compilers for Machine Learning",
+   "room": "CSE-LH-02",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 1
+  },
+  {
+   "course": "CY1010",
+   "name": "Environmental Chemistry",
+   "room": "LHC-13",
+   "slot": "P",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "CY5010",
+   "name": "Stereochemistry, Reaction Mechanism and Aromaticity",
+   "room": "CY-LH-3",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 40
+  },
+  {
+   "course": "CY5060",
+   "name": "Pharmaceutical Solid-State Chemistry and Formulation",
+   "room": "CY-LH-1",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 30
+  },
+  {
+   "course": "CY5110",
+   "name": "Concepts in Inorganic Chemistry",
+   "room": "CY-LH-3",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "CY5210",
+   "name": "Electrochemistry and Chemical Kinetics",
+   "room": "CY-LH-3",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 47
+  },
+  {
+   "course": "CY5220",
+   "name": "Solid State Chemistry",
+   "room": "CY-LH-3",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 53
+  },
+  {
+   "course": "CY5240",
+   "name": "Quantum Chemistry and Molecular Spectroscopy",
+   "room": "CY-LH-3",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 47
+  },
+  {
+   "course": "CY6010",
+   "name": "Synthetic Methodology in Organic Chemistry",
+   "room": "CY-LH-3",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "CY6110",
+   "name": "Metals in Biological Systems",
+   "room": "CY-LH-3",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 48
+  },
+  {
+   "course": "CY6120",
+   "name": "Advanced Organometallic Chemistry",
+   "room": "CY-LH-1",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "CY6220",
+   "name": "Physical Methods in Chemistry",
+   "room": "CY-LH-3",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 54
+  },
+  {
+   "course": "CY6700",
+   "name": "Nanochemistry and Applications",
+   "room": "CY-LH-1",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "CY6730",
+   "name": "Advanced Molecular Spectroscopy",
+   "room": "CY-LH-3",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "CY6750",
+   "name": "Energy Storage Devices",
+   "room": "CY-LH-3",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "DT5010",
+   "name": "AI for Tactical Systems",
+   "room": "MAE-LH-7",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "DT5020",
+   "name": "Sensors for Defence Applications",
+   "room": "MAE-LH-7",
+   "slot": "D",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "DT5030",
+   "name": "Control Systems Engineering",
+   "room": "MAE-LH-9",
+   "slot": "D",
+   "segment": "3-4",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "DT5040",
+   "name": "Product Realization Processes",
+   "room": "MAE-LH-7",
+   "slot": "E",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "DT5050",
+   "name": "Aerospace Vehicles & Systems",
+   "room": "MAE-LH-6",
+   "slot": "E",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "DT5060",
+   "name": "Introduction to Properties of Materials",
+   "room": "MAE-LH-10",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "EE1010",
+   "name": "Mathematics for Electrical Engineers",
+   "room": "LHC-08",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 104
+  },
+  {
+   "course": "EE1010",
+   "name": "Mathematics for Electrical Engineers",
+   "room": "LHC-01",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 72
+  },
+  {
+   "course": "EE1030/EE2100",
+   "name": "Matrix Theory",
+   "room": "LHC-03",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 104
+  },
+  {
+   "course": "EE1101",
+   "name": "Circuits and Network Analysis",
+   "room": "LHC-07",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 104
+  },
+  {
+   "course": "EE1202",
+   "name": "Digital Circuits",
+   "room": "LHC-12",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 135
+  },
+  {
+   "course": "EE1206/EE3900",
+   "name": "Linear Systems & Signal Processing",
+   "room": "LHC-04",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 81
+  },
+  {
+   "course": "EE2000",
+   "name": "Signal Processing",
+   "room": "LHC-10",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 72
+  },
+  {
+   "course": "EE2080",
+   "name": "Random Processes",
+   "room": "CHE-221",
+   "slot": "D",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 118
+  },
+  {
+   "course": "EE2104",
+   "name": "Semiconductor Device Fundamentals",
+   "room": "CHE-LH-1",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 95
+  },
+  {
+   "course": "EE2200",
+   "name": "Electrical Machines",
+   "room": "CHE-LH-1",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 184
+  },
+  {
+   "course": "EE2503",
+   "name": "Numerical Methods for Device Modeling",
+   "room": "CHE-LH-1",
+   "slot": "S",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 30
+  },
+  {
+   "course": "EE2510",
+   "name": "Productivity Tools for IC Design",
+   "room": "CHE-221",
+   "slot": "Q",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 30
+  },
+  {
+   "course": "EE3004",
+   "name": "Current trends in EE",
+   "room": "EE-20",
+   "slot": "E",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 60
+  },
+  {
+   "course": "EE3140",
+   "name": "Waveguides and Antennas",
+   "room": "EE-004",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "EE3150",
+   "name": "CMOS digital design",
+   "room": "EE-003",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 1
+  },
+  {
+   "course": "EE3300",
+   "name": "Analog Circuits",
+   "room": "CHE-LH-1",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 17
+  },
+  {
+   "course": "EE3301",
+   "name": "Introduction to VLSI Design",
+   "room": "CHE-LH-1",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 102
+  },
+  {
+   "course": "EE3501",
+   "name": "Power Electronics",
+   "room": "EE-004",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 77
+  },
+  {
+   "course": "EE3510",
+   "name": "RTL Design and Verification",
+   "room": "EE-004",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 38
+  },
+  {
+   "course": "EE3520",
+   "name": "Analog IC Design",
+   "room": "EE-002",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 25
+  },
+  {
+   "course": "EE3700",
+   "name": "Communication Systems",
+   "room": "CHE-LH-1",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 78
+  },
+  {
+   "course": "EE4500",
+   "name": "Embedded Systems",
+   "room": "EE-002",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "EE4502",
+   "name": "IC Design Test and Characterisation",
+   "room": "EE-20",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 25
+  },
+  {
+   "course": "EE5033",
+   "name": "IoT",
+   "room": "EE-003",
+   "slot": "R",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "EE5110",
+   "name": "Semiconductor Devices and Modelling",
+   "room": "CHE-221",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 81
+  },
+  {
+   "course": "EE5182",
+   "name": "VLSI Technology",
+   "room": "CHE-221",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 67
+  },
+  {
+   "course": "EE5183/SM5043",
+   "name": "Analog IC Design",
+   "room": "EE-004",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 44
+  },
+  {
+   "course": "EE5193",
+   "name": "CMOS Digital Design",
+   "room": "EE-002",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 52
+  },
+  {
+   "course": "EE5200",
+   "name": "Steady State Power System Analysis",
+   "room": "EE-20",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "EE5210",
+   "name": "Power Converter Design",
+   "room": "EE-20",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 17
+  },
+  {
+   "course": "EE5230",
+   "name": "Power System Dynamics and Control",
+   "room": "EE-20",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "EE5240",
+   "name": "Electrical Machine Analysis and Control",
+   "room": "EE-003",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "EE5350",
+   "name": "Error Correcting Codes",
+   "room": "CHE-221",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "EE5540",
+   "name": "Optimal Control",
+   "room": "EE-004",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "EE5552",
+   "name": "Memory Design",
+   "room": "EE-20",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 1
+  },
+  {
+   "course": "EE5609",
+   "name": "Matrix Theory",
+   "room": "EE-004",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "EE5670",
+   "name": "High speed Semiconductor Optoelectronics",
+   "room": "EE-20",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "EE5750",
+   "name": "Quantum Error Correction",
+   "room": "EE-20",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 11
+  },
+  {
+   "course": "EE5817",
+   "name": "Random Variables and Stochastic Processes",
+   "room": "CHE-LH-2",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 28
+  },
+  {
+   "course": "EE5837",
+   "name": "Principles of Digital Communication",
+   "room": "EE-004",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "EE5848",
+   "name": "Topics in Information Theory & Coding",
+   "room": "EE-20",
+   "slot": "R",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 5
+  },
+  {
+   "course": "EE5900",
+   "name": "Advanced DSP",
+   "room": "EE-004",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 11
+  },
+  {
+   "course": "EE6190",
+   "name": "Introduction to Advanced Packaging",
+   "room": "CHE-221",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "EE6307",
+   "name": "Speech Systems",
+   "room": "EE-004",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 21
+  },
+  {
+   "course": "EM4040",
+   "name": "Lean Startups",
+   "room": "LHC-09",
+   "slot": "Q",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "EM5010",
+   "name": "Competitive Strategy for Startup",
+   "room": "MAE-LH-10",
+   "slot": "Q",
+   "segment": "3-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 46
+  },
+  {
+   "course": "EM5013",
+   "name": "Visual Analytics",
+   "room": "LHC-14",
+   "slot": "E",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 64
+  },
+  {
+   "course": "EM5020",
+   "name": "Innovation Management",
+   "room": "LHC-14",
+   "slot": "P",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 85
+  },
+  {
+   "course": "EM5040",
+   "name": "Game Theory for Startups",
+   "room": "MAE-LH-10",
+   "slot": "E",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 46
+  },
+  {
+   "course": "EM5050",
+   "name": "Decision Modelling",
+   "room": "MAE-LH-10",
+   "slot": "P",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 45
+  },
+  {
+   "course": "EM5090/LA6680/ME5130",
+   "name": "Accounting and Finance for Entrepreneurs",
+   "room": "MAE-LH-6",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "EM5110",
+   "name": "Foundations of Techno-Entrepreneurship",
+   "room": "MAE-LH-10",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "EM5180",
+   "name": "Finance for Engineers",
+   "room": "LHC-11",
+   "slot": "C",
+   "segment": "5-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 95
+  },
+  {
+   "course": "EM5270",
+   "name": "Entrepreneurial Marketing",
+   "room": "LHC-11",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "EP1108",
+   "name": "Modern Physics",
+   "room": "LHC-06",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "EP1118",
+   "name": "Maths for Physics",
+   "room": "LHC-13",
+   "slot": "D",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 249
+  },
+  {
+   "course": "EP1128",
+   "name": "Basic Electric Circuits",
+   "room": "PH-3",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "EP2041",
+   "name": "Physics Lab EP-2",
+   "room": "LHC-04",
+   "slot": "AN5",
+   "segment": "1-6",
+   "sessions": [
+    [
+     5,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "EP2100",
+   "name": "Classical Mechanics",
+   "room": "PH-3",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 50
+  },
+  {
+   "course": "EP2108",
+   "name": "Special Relativity",
+   "room": "LHC-10",
+   "slot": "D",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "EP2118",
+   "name": "Analog Electronics",
+   "room": "PH-3",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 40
+  },
+  {
+   "course": "EP2130",
+   "name": "Mathematical Physics",
+   "room": "LHC-09",
+   "slot": "G",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 42
+  },
+  {
+   "course": "EP3110",
+   "name": "Electrodynamics",
+   "room": "PH-2",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "EP3120",
+   "name": "Statistical Mechanics",
+   "room": "PH-3",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "EP3200",
+   "name": "Solid State Physics",
+   "room": "PH-1",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "EP3210",
+   "name": "Quantum Mechanics-II",
+   "room": "PH-1",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "EP3230",
+   "name": "Atomic and Molecular Physics",
+   "room": "PH-2",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 34
+  },
+  {
+   "course": "EP4108",
+   "name": "Nuclear Physics",
+   "room": "PH-2",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 32
+  },
+  {
+   "course": "EP4210",
+   "name": "Computational Physics",
+   "room": "PH-3",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 40
+  },
+  {
+   "course": "EP4350/PH6450",
+   "name": "Gravitation and Cosmology",
+   "room": "MAE-LH-9",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "EP4710",
+   "name": "Particle Physics",
+   "room": "PH-2",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "EP5201",
+   "name": "Core-EP Lab-5",
+   "room": "LHC-04",
+   "slot": "FN3",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "09:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 28
+  },
+  {
+   "course": "ET5010",
+   "name": "Fundamentals of Electrochemistry",
+   "room": "MAE-LH-9",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 11
+  },
+  {
+   "course": "ET5020",
+   "name": "Electrochemical Energy Storage Systems: Batteries, Fuel Cells and",
+   "room": "MAE-LH-9",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "ET5030",
+   "name": "Non-Conventional Energy Sources and Environment",
+   "room": "MAE-LH-9",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "ET5040",
+   "name": "Energy Management",
+   "room": "MAE-LH-9",
+   "slot": "S",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "ET5050",
+   "name": "Material Synthesis and Characterization",
+   "room": "MAE-LH-9",
+   "slot": "R",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "ET5060",
+   "name": "Bio-Energy",
+   "room": "MAE-LH-9",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "EW5010",
+   "name": "Introduction to Waste Management",
+   "room": "CHE-112",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "EW5033",
+   "name": "Life Cycle Analysis in Waste Management",
+   "room": "CHE-111",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "EW5140",
+   "name": "Physical Separation Technique for Recycling",
+   "room": "CHE-111",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 5
+  },
+  {
+   "course": "EW6101",
+   "name": "E-Waste Laboratory",
+   "room": "CHE-119",
+   "slot": "S",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "IC1010",
+   "name": "Industrial Organic Chemistry-I",
+   "room": "CY-LH-2",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 34
+  },
+  {
+   "course": "IC2010",
+   "name": "Industrial Organic Chemistry-II",
+   "room": "LHC-12",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 28
+  },
+  {
+   "course": "IC2011",
+   "name": "Industrial Chemistry Lab-I",
+   "room": "LHC-04",
+   "slot": "AN1",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 30
+  },
+  {
+   "course": "IC2020",
+   "name": "Introduction to Biochemistry",
+   "room": "CY-LH-1",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 30
+  },
+  {
+   "course": "IC2030",
+   "name": "Thermodynamics-II",
+   "room": "LHC-02",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 28
+  },
+  {
+   "course": "IC3010",
+   "name": "Material Science-I",
+   "room": "CY-LH-2",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 25
+  },
+  {
+   "course": "IC3011/IC4016",
+   "name": "Industrial Chemical Methods Lab",
+   "room": "LHC-04",
+   "slot": "AN3",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "15:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 47
+  },
+  {
+   "course": "IC3013",
+   "name": "Numerical and Computational Chemistry",
+   "room": "LHC-04",
+   "slot": "FN2",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "09:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 26
+  },
+  {
+   "course": "IC3023",
+   "name": "Machine Learning in Chemistry",
+   "room": "LHC-04",
+   "slot": "FN5",
+   "segment": "1-6",
+   "sessions": [
+    [
+     5,
+     "09:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "IC3030",
+   "name": "Chemical Kinetics and Surface Chemistry",
+   "room": "CY-LH-2",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 25
+  },
+  {
+   "course": "IC4010",
+   "name": "Introduction to Drug Design",
+   "room": "CY-LH-2",
+   "slot": "D",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "IC4020",
+   "name": "Materials Science-II",
+   "room": "CY-LH-2",
+   "slot": "F",
+   "segment": "6-Jan",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "IC4030",
+   "name": "Polymer Science-II",
+   "room": "LHC-09",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "ID1006",
+   "name": "Ethics for Engineering Education",
+   "room": "LHC-08",
+   "slot": "A",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "ID1041",
+   "name": "Engineering Drawing",
+   "room": "LHC-06",
+   "slot": "AN2",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 233
+  },
+  {
+   "course": "ID1063",
+   "name": "Introduction to Programming",
+   "room": "LHC-05",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 655
+  },
+  {
+   "course": "ID1171",
+   "name": "Fabrication Lab - I",
+   "room": "LHC-04",
+   "slot": "ID1171",
+   "segment": "1-6",
+   "sessions": [
+    [
+     4,
+     "11:00",
+     "12:55"
+    ],
+    [
+     4,
+     "13:00",
+     "14:00"
+    ]
+   ],
+   "enrollment": 157
+  },
+  {
+   "course": "ID2230",
+   "name": "Data Structures & Applications",
+   "room": "LHC-05",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 351
+  },
+  {
+   "course": "LA1030",
+   "name": "Introductory Economics",
+   "room": "LHC-07",
+   "slot": "G",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 149
+  },
+  {
+   "course": "LA1210",
+   "name": "Spoken Japanese Basics",
+   "room": "LHC-04",
+   "slot": "LA1210",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "17:31",
+     "19:00"
+    ],
+    [
+     3,
+     "17:31",
+     "19:00"
+    ],
+    [
+     5,
+     "17:31",
+     "19:00"
+    ],
+    [
+     4,
+     "17:31",
+     "19:00"
+    ]
+   ],
+   "enrollment": 200
+  },
+  {
+   "course": "LA1260",
+   "name": "Fundamentals of Organizational Structure",
+   "room": "LHC-08",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 120
+  },
+  {
+   "course": "LA1760",
+   "name": "Communication Skills",
+   "room": "LHC-13",
+   "slot": "G",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "LA1760",
+   "name": "Communication Skills",
+   "room": "LHC-06",
+   "slot": "G",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "LA1760",
+   "name": "Communication Skills",
+   "room": "LHC-05",
+   "slot": "G",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 708
+  },
+  {
+   "course": "LA1830",
+   "name": "Introduction to Cognitive Science",
+   "room": "LHC-04",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 150
+  },
+  {
+   "course": "LA1860",
+   "name": "Psychology for Everyday Life",
+   "room": "LHC-08",
+   "slot": "G",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 120
+  },
+  {
+   "course": "LA1910",
+   "name": "Introduction to Queer Studies",
+   "room": "LHC-08",
+   "slot": "G",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 120
+  },
+  {
+   "course": "LA1920",
+   "name": "Courts and Lawyers",
+   "room": "LHC-11",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 120
+  },
+  {
+   "course": "LA1930",
+   "name": "The Biology of Language",
+   "room": "LHC-11",
+   "slot": "G",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 120
+  },
+  {
+   "course": "LA2010",
+   "name": "Biodiversity Conservation in Contemporary India",
+   "room": "LHC-07",
+   "slot": "LA2010",
+   "segment": "1-2",
+   "sessions": [
+    [
+     6,
+     "10:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 111
+  },
+  {
+   "course": "LA2200",
+   "name": "Introduction to Health Economics",
+   "room": "LHC-06",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 150
+  },
+  {
+   "course": "LA4110",
+   "name": "Work, Technology and Society: Assembly Lines to Algorithms",
+   "room": "LHC-10",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 67
+  },
+  {
+   "course": "LA4120",
+   "name": "Working in Cross-Cultural Context",
+   "room": "LHC-09",
+   "slot": "S",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 50
+  },
+  {
+   "course": "LA4130",
+   "name": "Ancient and Medieval Plitical Philosohpy and the Questions of",
+   "room": "LA-003",
+   "slot": "LA4130",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     1,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 80
+  },
+  {
+   "course": "LA5010",
+   "name": "Macroeconomics",
+   "room": "LHC-02",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 72
+  },
+  {
+   "course": "LA5030",
+   "name": "Basic Econometrics and Forecasting",
+   "room": "LA-003",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 28
+  },
+  {
+   "course": "LA5080",
+   "name": "Cultural Perspectives on Development: Race, Class, Gender",
+   "room": "LA-005",
+   "slot": "LA5080",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "09:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 2
+  },
+  {
+   "course": "LA5090",
+   "name": "Media and Development",
+   "room": "LHC-14",
+   "slot": "LA 5090",
+   "segment": "1-6",
+   "sessions": [
+    [
+     5,
+     "10:00",
+     "13:00"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "LA5110",
+   "name": "Principles of Economics",
+   "room": "MAE-LH-7",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "LA5120",
+   "name": "Health and Society",
+   "room": "CHE-114",
+   "slot": "LA5120",
+   "segment": "1-6",
+   "sessions": [
+    [
+     5,
+     "10:31",
+     "11:55"
+    ],
+    [
+     3,
+     "10:31",
+     "11:55"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "LA6090",
+   "name": "Contemporary India",
+   "room": "LA-003",
+   "slot": "LA6090",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "13:00"
+    ]
+   ],
+   "enrollment": 13
+  },
+  {
+   "course": "LA6143",
+   "name": "Quantitative Research Methods for Behavioural Sciences",
+   "room": "LA-005",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "LA6270",
+   "name": "Chronic Disease Management",
+   "room": "LA-003",
+   "slot": "LA6270",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "09:00",
+     "10:25"
+    ],
+    [
+     3,
+     "08:00",
+     "08:59"
+    ]
+   ],
+   "enrollment": 3
+  },
+  {
+   "course": "LA6510",
+   "name": "Development Theory and Practice",
+   "room": "LA-005",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 5
+  },
+  {
+   "course": "LA6610",
+   "name": "Labour and Development",
+   "room": "MAE-LH-8",
+   "slot": "LA6610",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:30",
+     "13:25"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "LA6770",
+   "name": "Feminisms in India",
+   "room": "CHE-114",
+   "slot": "LA6770",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:00",
+     "15:30"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "LW5010",
+   "name": "Introduction to Lightweighting",
+   "room": "MAE-LH-4",
+   "slot": "S",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "LW5030",
+   "name": "Fundamentals of light weight alloys",
+   "room": "MSME-LH-2",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "LW5130",
+   "name": "Fracture Fatigue and Creep",
+   "room": "MSME-LH-3",
+   "slot": "R",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 5
+  },
+  {
+   "course": "MA1000",
+   "name": "Math Foundation",
+   "room": "MA-01",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "MA1110",
+   "name": "Calculus-I",
+   "room": "LHC-06",
+   "slot": "B",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "MA1130",
+   "name": "Vector Calculus",
+   "room": "LHC-06",
+   "slot": "D",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "MA1220",
+   "name": "Calculus-II",
+   "room": "LHC-06",
+   "slot": "B",
+   "segment": "3-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 320
+  },
+  {
+   "course": "MA2110",
+   "name": "Introduction to Probability",
+   "room": "LHC-04",
+   "slot": "D",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 200
+  },
+  {
+   "course": "MA2120",
+   "name": "Transform Techniques",
+   "room": "LHC-05",
+   "slot": "D",
+   "segment": "3-4",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 343
+  },
+  {
+   "course": "MA2150",
+   "name": "Introduction to Metric Spaces",
+   "room": "LHC-04",
+   "slot": "D",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 91
+  },
+  {
+   "course": "MA2233/MP5010",
+   "name": "Data Structures and Applications Lab",
+   "room": "MAE-LH-9",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "MA2540/PH6270",
+   "name": "Probability Theory",
+   "room": "MAE-LH-10",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "MA2550",
+   "name": "Linear Algebra",
+   "room": "LHC-03",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 111
+  },
+  {
+   "course": "MA3010",
+   "name": "Real Analysis",
+   "room": "MA-02",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "MA3060/MA5060",
+   "name": "Numerical Analysis",
+   "room": "LHC-04",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 162
+  },
+  {
+   "course": "MA3070",
+   "name": "Algebra I - Groups and Rings",
+   "room": "MA-02",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "MA4010",
+   "name": "Real Analysis",
+   "room": "MA-01",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "MA4020",
+   "name": "Linear Algebra",
+   "room": "MA-01",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 52
+  },
+  {
+   "course": "MA4040",
+   "name": "Probability Theory",
+   "room": "MA-01",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "MA4050",
+   "name": "Combinatorics and Graph Theory",
+   "room": "MA-01",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 29
+  },
+  {
+   "course": "MA4060",
+   "name": "Complex Analysis",
+   "room": "MA-02",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 30
+  },
+  {
+   "course": "MA4070",
+   "name": "Algebra I - Groups and Rings",
+   "room": "MA-01",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "MA4520",
+   "name": "Positive Definite Matrices",
+   "room": "MA-114",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 13
+  },
+  {
+   "course": "MA5010",
+   "name": "Combinatorics and Graph theory",
+   "room": "MA-01",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "MA5020",
+   "name": "Functional Analysis",
+   "room": "MA-01",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 56
+  },
+  {
+   "course": "MA5030",
+   "name": "Partial Differential Equations",
+   "room": "MA-01",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 56
+  },
+  {
+   "course": "MA5120",
+   "name": "Numerical Linear Algebra",
+   "room": "MA-01",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 27
+  },
+  {
+   "course": "MA5143",
+   "name": "Predictive Modelling",
+   "room": "MA-02",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 56
+  },
+  {
+   "course": "MA5570",
+   "name": "Commutative Algebra",
+   "room": "MA-02",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "MA6040",
+   "name": "Fuzzy Logic Connectives And Application",
+   "room": "MA-02",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 21
+  },
+  {
+   "course": "MA6200",
+   "name": "Topics in Differential Equations",
+   "room": "MA-02",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "MA7020",
+   "name": "Commutative Algebra II",
+   "room": "MA-114",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 1
+  },
+  {
+   "course": "MA7143",
+   "name": "Topics in Statistics",
+   "room": "MA-114",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "MD5520",
+   "name": "Physio-Anatomy and Patho-Physiology of Diseases",
+   "room": "CHE-117",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 12
+  },
+  {
+   "course": "MD6193",
+   "name": "3-D Rapid Prototyping and Modelling",
+   "room": "LHC-08",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 16
+  },
+  {
+   "course": "ME1060",
+   "name": "Introduction to Mechanical and Aerospace Engineering",
+   "room": "LHC-15",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 65
+  },
+  {
+   "course": "ME2050",
+   "name": "Instrumentation",
+   "room": "MAE-LH-4",
+   "slot": "Q",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "ME2110",
+   "name": "Mechanics of Solids",
+   "room": "LHC-12",
+   "slot": "Q",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 138
+  },
+  {
+   "course": "ME2240",
+   "name": "Fluid Mechanics",
+   "room": "LHC-12",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 170
+  },
+  {
+   "course": "ME3010",
+   "name": "Manufacturing Science - II",
+   "room": "MAE-LH-3",
+   "slot": "G",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "ME3030",
+   "name": "Modelling and Simulation",
+   "room": "LHC-03",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 89
+  },
+  {
+   "course": "ME3040",
+   "name": "Mathematical Elements for Geometrical Modeling",
+   "room": "MAE-LH-2",
+   "slot": "B",
+   "segment": "1-3",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "ME3050",
+   "name": "Computer Integrated Manufacturing",
+   "room": "MAE-LH-2",
+   "slot": "B",
+   "segment": "4-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "ME3140",
+   "name": "IC Engines",
+   "room": "MAE-LH-2",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 63
+  },
+  {
+   "course": "ME3160",
+   "name": "Power and Refrigeration System",
+   "room": "MAE-LH-4",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "ME3170",
+   "name": "Design of Machine Elements",
+   "room": "MAE-LH-3",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "ME3180",
+   "name": "FEM and CFD Theory",
+   "room": "LHC-03",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 90
+  },
+  {
+   "course": "ME3210",
+   "name": "Control Systems.",
+   "room": "MAE-LH-4",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "ME3220",
+   "name": "Industrial Engineering and Operations Research",
+   "room": "LHC-08",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "ME3445",
+   "name": "Finite Element Methods Lab",
+   "room": "LHC-07",
+   "slot": "AN3",
+   "segment": "1-3",
+   "sessions": [
+    [
+     3,
+     "15:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 97
+  },
+  {
+   "course": "ME3455",
+   "name": "Computational Fluid Dynamics Lab",
+   "room": "LHC-07",
+   "slot": "AN3",
+   "segment": "4-6",
+   "sessions": [
+    [
+     3,
+     "15:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 94
+  },
+  {
+   "course": "ME3465",
+   "name": "Manufacturing Lab",
+   "room": "LHC-04",
+   "slot": "FN2",
+   "segment": "1-3",
+   "sessions": [
+    [
+     2,
+     "09:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 64
+  },
+  {
+   "course": "ME4435",
+   "name": "Dynamics Lab",
+   "room": "LHC-04",
+   "slot": "AN3",
+   "segment": "4-6",
+   "sessions": [
+    [
+     3,
+     "15:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 70
+  },
+  {
+   "course": "ME4445",
+   "name": "Heat Transfer Lab",
+   "room": "LHC-04",
+   "slot": "FN2",
+   "segment": "4-6",
+   "sessions": [
+    [
+     2,
+     "09:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 65
+  },
+  {
+   "course": "ME5010",
+   "name": "Mathematical Methods for Engineers",
+   "room": "MAE-LH-10",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 68
+  },
+  {
+   "course": "ME5011",
+   "name": "Data Acquisition and Control Lab",
+   "room": "LHC-04",
+   "slot": "AN2",
+   "segment": "4-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "ME5051",
+   "name": "Sensors and Actuators",
+   "room": "LHC-04",
+   "slot": "AN5",
+   "segment": "1-3",
+   "sessions": [
+    [
+     5,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "ME5061",
+   "name": "Robotics and Automation Lab",
+   "room": "LHC-04",
+   "slot": "AN5",
+   "segment": "4-6",
+   "sessions": [
+    [
+     5,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "ME5080",
+   "name": "Scaling Laws & Multi-scale Manufacture",
+   "room": "MAE-LH-4",
+   "slot": "C",
+   "segment": "4-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "ME5110",
+   "name": "Advanced Mechanics of Solids",
+   "room": "MAE-LH-4",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "ME5120",
+   "name": "Dynamics and Vibration",
+   "room": "MAE-LH-3",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 20
+  },
+  {
+   "course": "ME5210",
+   "name": "CAD/CAM",
+   "room": "MAE-LH-0",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "ME5310",
+   "name": "Incompressible Fluid Flow",
+   "room": "MAE-LH-2",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 29
+  },
+  {
+   "course": "ME5320",
+   "name": "Advanced Heat Transfer",
+   "room": "MAE-LH-3",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "ME5330",
+   "name": "Computational Fluid Dynamics",
+   "room": "MAE-LH-2",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 53
+  },
+  {
+   "course": "ME5340",
+   "name": "IC Engine Combustion and Pollution",
+   "room": "MAE-LH-3",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "ME5480",
+   "name": "Sustainable Energy Technology: Energy Sources, Energy Efficiency,",
+   "room": "MAE-LH-3",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 45
+  },
+  {
+   "course": "ME5770",
+   "name": "Fundamentals of Robotics",
+   "room": "MAE-LH-6",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "ME5780",
+   "name": "Control Systems Design",
+   "room": "LHC-11",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 17
+  },
+  {
+   "course": "ME5880",
+   "name": "Probability and Optimization",
+   "room": "MAE-LH-2",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 25
+  },
+  {
+   "course": "ME5890",
+   "name": "Advanced Refrigeration and Thermal Systems",
+   "room": "MAE-LH-4",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "ME5920",
+   "name": "Experimental Methods in Fluid Mechanics",
+   "room": "MAE-LH-5",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 19
+  },
+  {
+   "course": "ME6040",
+   "name": "Machine Learning and its Applications",
+   "room": "MAE-LH-2",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 76
+  },
+  {
+   "course": "ME6145",
+   "name": "M.tech (3-year) Thesis (sem-3)-6",
+   "room": "LHC-04",
+   "slot": "LA6090",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "13:00"
+    ]
+   ],
+   "enrollment": 2
+  },
+  {
+   "course": "MP5001",
+   "name": "MSc Physics Lab",
+   "room": "LHC-04",
+   "slot": "AN4",
+   "segment": "1-6",
+   "sessions": [
+    [
+     4,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MP5100/MP6040",
+   "name": "Radiation Biology",
+   "room": "MAE-LH-0",
+   "slot": "B",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "MP5130",
+   "name": "Radiation Measuring & Monitoring Instruments",
+   "room": "MAE-LH-10",
+   "slot": "E",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MP6000",
+   "name": "Radiological Mathematics",
+   "room": "MAE-LH-6",
+   "slot": "Q",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MP6001",
+   "name": "Biomedical Devices (Lab)",
+   "room": "MAE-LH-10",
+   "slot": "S",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "MP6010/PH6278",
+   "name": "Lasers and Photonics in Medicine",
+   "room": "MAE-LH-10",
+   "slot": "R",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 42
+  },
+  {
+   "course": "MP6020",
+   "name": "Computational Modeling of Biological Systems",
+   "room": "MAE-LH-4",
+   "slot": "P",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MP6030",
+   "name": "Biological Basis of Radiotherapy & Biological Models",
+   "room": "MAE-LH-9",
+   "slot": "A",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MP6070",
+   "name": "Physics of Nuclear Medicine",
+   "room": "MAE-LH-2",
+   "slot": "D",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MS1830",
+   "name": "Physical Metallurgy",
+   "room": "LHC-07",
+   "slot": "C",
+   "segment": "3-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 104
+  },
+  {
+   "course": "MS1980",
+   "name": "Fundamentals of Scientific Computing",
+   "room": "LHC-14",
+   "slot": "E",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 77
+  },
+  {
+   "course": "MS1990",
+   "name": "Introduction to Materials Science and Engineering",
+   "room": "LHC-07",
+   "slot": "C",
+   "segment": "1-2",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 149
+  },
+  {
+   "course": "MS2031",
+   "name": "Microstructure and Properties Lab",
+   "room": "MSME-LH-1",
+   "slot": "Wednesday-14:30-17:30",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "14:30",
+     "17:30"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "MS2110",
+   "name": "Semiconductor Materials",
+   "room": "MSME-LH-2",
+   "slot": "C",
+   "segment": "3-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "MS2120",
+   "name": "Iron Making",
+   "room": "MSME-LH-2",
+   "slot": "A",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "MS2280",
+   "name": "Transport Phenomena in Materials Processing",
+   "room": "MSME-LH-1",
+   "slot": "Q",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "MS2330",
+   "name": "Fundamentals of Extractive Metallurgy",
+   "room": "LHC-03",
+   "slot": "W",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "17:30",
+     "18:55"
+    ],
+    [
+     4,
+     "17:30",
+     "18:55"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "MS2860/MS5860",
+   "name": "Computational Methods in Materials Science",
+   "room": "LHC-04",
+   "slot": "S",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 80
+  },
+  {
+   "course": "MS2930",
+   "name": "Imaging in Materials Science",
+   "room": "MSME-LH-3",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "MS2970/MS5970",
+   "name": "Materials Thermodynamics and Kinetics",
+   "room": "LHC-03",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 51
+  },
+  {
+   "course": "MS3013",
+   "name": "Soft and Porous Materials",
+   "room": "MSME-LH-3",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 34
+  },
+  {
+   "course": "MS3150",
+   "name": "Corrosion",
+   "room": "MSME-LH-2",
+   "slot": "R",
+   "segment": "5-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 44
+  },
+  {
+   "course": "MS3363",
+   "name": "Powder Metallurgy Processing",
+   "room": "MSME-LH-2",
+   "slot": "G",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 32
+  },
+  {
+   "course": "MS3410",
+   "name": "Electrochemical Processing of Materials",
+   "room": "MAE-LH-0",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "MS3890",
+   "name": "Properties of Materials",
+   "room": "MSME-LH-3",
+   "slot": "D",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "MS5150",
+   "name": "Biomaterials- Materials in Medicine",
+   "room": "MSME-LH-1",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "MS5330",
+   "name": "Role of Microstructure in Materials Selection",
+   "room": "LHC-02",
+   "slot": "MS5330",
+   "segment": "3-6",
+   "sessions": [
+    [
+     2,
+     "18:00",
+     "19:25"
+    ],
+    [
+     4,
+     "18:00",
+     "19:25"
+    ]
+   ],
+   "enrollment": 35
+  },
+  {
+   "course": "MS5390",
+   "name": "Electrometallurgy",
+   "room": "LHC-03",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "MS5460",
+   "name": "Metal Additive Manufacturing",
+   "room": "MSME-LH-3",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 51
+  },
+  {
+   "course": "MS5753",
+   "name": "Sustainable Chemical Metallurgy",
+   "room": "MAE-LH-9",
+   "slot": "W",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "17:30",
+     "18:55"
+    ],
+    [
+     4,
+     "17:30",
+     "18:55"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "MS5760",
+   "name": "Elements of Metallurgy and Manufacturing of Superalloys and",
+   "room": "MSME-LH-3",
+   "slot": "G",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 32
+  },
+  {
+   "course": "MS5770",
+   "name": "Powder Metallurgy of Nano, Micro and Additive Manufacturing",
+   "room": "MSME-LH-3",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "MS5810",
+   "name": "Theory and Practice of Atom Probe Tomography",
+   "room": "LHC-01",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 29
+  },
+  {
+   "course": "MS5820",
+   "name": "Emerging Spin Based Memories",
+   "room": "MSME-LH-1",
+   "slot": "D",
+   "segment": "5-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "MS5830",
+   "name": "Physical Metallurgy",
+   "room": "LHC-08",
+   "slot": "C",
+   "segment": "3-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 21
+  },
+  {
+   "course": "MS5880",
+   "name": "Imperfections in Crystalline solids",
+   "room": "MSME-LH-2",
+   "slot": "B",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 19
+  },
+  {
+   "course": "MS5920",
+   "name": "Fundamentals of Electronic Packaging Materials",
+   "room": "MSME-LH-2",
+   "slot": "P",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 32
+  },
+  {
+   "course": "MS5930",
+   "name": "Imaging in Materials Science",
+   "room": "MAE-LH-10",
+   "slot": "B",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 38
+  },
+  {
+   "course": "MS5990",
+   "name": "Introduction to Materials Science and Engineering",
+   "room": "MSME-LH-3",
+   "slot": "A",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 62
+  },
+  {
+   "course": "MS5991",
+   "name": "Materials PG Lab",
+   "room": "MSME-LH-3",
+   "slot": "MS5991",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "16:00",
+     "19:00"
+    ]
+   ],
+   "enrollment": 18
+  },
+  {
+   "course": "OP5010",
+   "name": "Introduction to Engineering Principles",
+   "room": "MAE-LH-8",
+   "slot": "Q",
+   "segment": "1-2",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 1
+  },
+  {
+   "course": "OP5130",
+   "name": "AI in Ophthalmic Informatics",
+   "room": "MAE-LH-8",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "OP5133",
+   "name": "Stress Analysis & Biomechanics",
+   "room": "MAE-LH-8",
+   "slot": "E",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "OP5153",
+   "name": "Lasers for Ophthalmic Engineering",
+   "room": "MAE-LH-8",
+   "slot": "S",
+   "segment": "1-2",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "OP5163",
+   "name": "Optoelectronics",
+   "room": "MAE-LH-8",
+   "slot": "R",
+   "segment": "3-4",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "PH5110",
+   "name": "Classical Mechanics",
+   "room": "PH-1",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 39
+  },
+  {
+   "course": "PH5120",
+   "name": "Mathematical Physics - I",
+   "room": "PH-1",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 43
+  },
+  {
+   "course": "PH5130",
+   "name": "Quantum Mechanics - I",
+   "room": "PH-1",
+   "slot": "F",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "PH5140",
+   "name": "Electronics",
+   "room": "LHC-04",
+   "slot": "PH5140",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 37
+  },
+  {
+   "course": "PH5210",
+   "name": "Electrodynamics",
+   "room": "PH-1",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 44
+  },
+  {
+   "course": "PH5240",
+   "name": "Statistical Mechanics",
+   "room": "PH-1",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 40
+  },
+  {
+   "course": "PH5250",
+   "name": "Optics & Photonics",
+   "room": "PH-1",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 49
+  },
+  {
+   "course": "PH5311",
+   "name": "Physics Lab (MSc2)",
+   "room": "LHC-04",
+   "slot": "PH5311",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "11:55"
+    ],
+    [
+     3,
+     "14:30",
+     "17:30"
+    ]
+   ],
+   "enrollment": 37
+  },
+  {
+   "course": "PH53170",
+   "name": "Nanophotonic Devices",
+   "room": "PH-1",
+   "slot": "Q",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 13
+  },
+  {
+   "course": "PH5380",
+   "name": "Fundamentals of Semiconductors Physics and Devices",
+   "room": "PH-1",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "PH5393",
+   "name": "Machine Learning for Physical Sciences",
+   "room": "LHC-11",
+   "slot": "W",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "17:30",
+     "18:55"
+    ],
+    [
+     4,
+     "17:30",
+     "18:55"
+    ]
+   ],
+   "enrollment": 66
+  },
+  {
+   "course": "PH5430",
+   "name": "Spintronics",
+   "room": "PH-3",
+   "slot": "G",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 6
+  },
+  {
+   "course": "PH5460",
+   "name": "Open Quantum Systems",
+   "room": "PH-2",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 19
+  },
+  {
+   "course": "PH5490",
+   "name": "Fiber Optics",
+   "room": "CHE-320",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 7
+  },
+  {
+   "course": "PH5510",
+   "name": "Laser Engineering and Technology",
+   "room": "CHE-320",
+   "slot": "S",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "16:00",
+     "17:25"
+    ],
+    [
+     5,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 8
+  },
+  {
+   "course": "PH5600",
+   "name": "Quantum Physics for Engineers",
+   "room": "PH-2",
+   "slot": "C",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 15
+  },
+  {
+   "course": "PH5610",
+   "name": "Mathematical and Computational Methods for Quantum Devices",
+   "room": "PH-2",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 22
+  },
+  {
+   "course": "PH5620",
+   "name": "Quantum devices - II (Quantum optical devices)",
+   "room": "PH-2",
+   "slot": "A",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 11
+  },
+  {
+   "course": "PH5630",
+   "name": "Solid State Devices",
+   "room": "PH-2",
+   "slot": "G",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "12:00",
+     "12:55"
+    ],
+    [
+     3,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "12:00",
+     "12:55"
+    ]
+   ],
+   "enrollment": 9
+  },
+  {
+   "course": "PH5720",
+   "name": "Quantum devices - I (Physics of low dimensional systems and quantum",
+   "room": "PH-2",
+   "slot": "B",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "09:00",
+     "09:55"
+    ],
+    [
+     4,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 18
+  },
+  {
+   "course": "PH5850",
+   "name": "Machine Learning for High Energy Physics",
+   "room": "PH-3",
+   "slot": "P",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "14:30",
+     "15:55"
+    ],
+    [
+     4,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 31
+  },
+  {
+   "course": "PH6120",
+   "name": "Introduction to Astrophysics",
+   "room": "MAE-LH-6",
+   "slot": "Q",
+   "segment": "3-6",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "PH6710",
+   "name": "High Energy Particle Astrophysics",
+   "room": "PH-3",
+   "slot": "D",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "12:00",
+     "12:55"
+    ],
+    [
+     2,
+     "09:00",
+     "09:55"
+    ],
+    [
+     5,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 23
+  },
+  {
+   "course": "PH6730",
+   "name": "Plasma Physics and MHD",
+   "room": "PH-2",
+   "slot": "E",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "12:00",
+     "12:55"
+    ],
+    [
+     5,
+     "09:00",
+     "09:55"
+    ]
+   ],
+   "enrollment": 4
+  },
+  {
+   "course": "SD5010",
+   "name": "Fundamentals of Semiconductor Materials",
+   "room": "MSME-LH-1",
+   "slot": "R",
+   "segment": "1-6",
+   "sessions": [
+    [
+     2,
+     "14:30",
+     "15:55"
+    ],
+    [
+     5,
+     "16:00",
+     "17:25"
+    ]
+   ],
+   "enrollment": 36
+  },
+  {
+   "course": "SD5011",
+   "name": "Semiconductor Materials Characterization Lab",
+   "room": "LHC-04",
+   "slot": "Wednesday-14:30-17:30",
+   "segment": "1-4",
+   "sessions": [
+    [
+     3,
+     "14:30",
+     "17:30"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "SD5020",
+   "name": "Semiconductor Extraction, Purification and Growth",
+   "room": "MSME-LH-2",
+   "slot": "Q",
+   "segment": "1-4",
+   "sessions": [
+    [
+     1,
+     "16:00",
+     "17:25"
+    ],
+    [
+     4,
+     "14:30",
+     "15:55"
+    ]
+   ],
+   "enrollment": 33
+  },
+  {
+   "course": "SD5113",
+   "name": "Vaccum Technology in Semiconductor",
+   "room": "MSME-LH-3",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 24
+  },
+  {
+   "course": "SE5100",
+   "name": "Sustainable Building Materials",
+   "room": "CHE-117",
+   "slot": "C",
+   "segment": "1-6",
+   "sessions": [
+    [
+     3,
+     "10:00",
+     "10:55"
+    ],
+    [
+     4,
+     "09:00",
+     "09:55"
+    ],
+    [
+     1,
+     "11:00",
+     "11:55"
+    ]
+   ],
+   "enrollment": 14
+  },
+  {
+   "course": "SE5500",
+   "name": "Green Chemistry and Industrial Processes",
+   "room": "CHE-117",
+   "slot": "F",
+   "segment": "1-4",
+   "sessions": [
+    [
+     2,
+     "11:00",
+     "11:55"
+    ],
+    [
+     5,
+     "10:00",
+     "10:55"
+    ],
+    [
+     3,
+     "14:30",
+     "15:29"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "SE5713",
+   "name": "Analysis and Methods for Sustainable Engineering",
+   "room": "CHE-117",
+   "slot": "AN4",
+   "segment": "3-6",
+   "sessions": [
+    [
+     4,
+     "14:30",
+     "17:25"
+    ]
+   ],
+   "enrollment": 10
+  },
+  {
+   "course": "SE5723",
+   "name": "Concepts in Sustainable Engineering",
+   "room": "CHE-117",
+   "slot": "A",
+   "segment": "1-6",
+   "sessions": [
+    [
+     1,
+     "09:00",
+     "09:55"
+    ],
+    [
+     3,
+     "11:00",
+     "11:55"
+    ],
+    [
+     4,
+     "10:00",
+     "10:55"
+    ]
+   ],
+   "enrollment": 22
+  }
+ ]
+}

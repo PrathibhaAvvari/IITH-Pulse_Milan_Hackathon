@@ -1,0 +1,20 @@
+# One-click deploy on Render: New > Blueprint > pick this repo.
+# Free instances have no persistent disk: the JSON datastore is wiped on every restart/redeploy and
+# the server re-seeds demo data on boot (server/src/index.js). Fine for a demo; use a disk or Postgres for real use.
+services:
+  - type: web
+    name: iith-pulse
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: DEMO_MODE
+        value: "true"
+      - key: ADMIN_PIN
+        generateValue: true # read it in the Render dashboard; don't ship the default PIN publicly
+      - key: SESSION_SECRET
+        generateValue: true

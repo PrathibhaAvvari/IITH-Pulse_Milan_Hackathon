@@ -1,0 +1,870 @@
+Department,Period,Course Code,Course Name,Credits,Coordinator Name,Instructor name,Registered Students Count,Max Reg Count,Segment Name,Course Slot Code,Class Timings,Room No.
+Mechanical and Aerospace Engineering,JUL26-NOV26,AE3110,Introduction to Aerospace vehicles,3.00,Dr. Mahesh M S,Dr. Mahesh M S,9,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MAE-LH-7-Capacity:70
+Mechanical and Aerospace Engineering,JUL26-NOV26,AE3120,Flight Mechanics,3.00,Dr. Karthick S K,"Dr. Gnanaprakash, Dr. Karthick S K",26,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MAE-LH-3-Capacity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,AE5101,Aerospace computational laboratory,1.00,Dr. Karthick S K,Dr. Karthick S K,17,,1-6,FN3_JUL26-NOV26,Wednesday-09:00-11:55,
+Mechanical and Aerospace Engineering,JUL26-NOV26,AE5110,Aerodynamics and Propulsion,3.00,Dr. Karthick S K,"Dr. Gnanaprakash, Dr. Karthick S K",25,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,AE5120,Flight dynamics and Structures,3.00,Dr. Vishnu Rajasekharan Unni,"Dr. Vishnu Rajasekharan Unni, Dr. Gangadharan R",22,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-3-Capacity:100
+Artificial Intelligence,JUL26-NOV26,AI1000,Matrix Theory,3.00,Dr. Mopuri Konda Reddy,Dr. Mopuri Konda Reddy,47,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-01-Capacity:72
+Artificial Intelligence,JUL26-NOV26,AI1001,Introduction to Modern AI,1.00,Dr. Ganesh Sambhaji Ghalme,Dr. Ganesh Sambhaji Ghalme,140,,5-6,,,
+Artificial Intelligence,JUL26-NOV26,AI2000,Foundations of Machine Learning,3.00,Dr. Soumya Jana,Dr. Soumya Jana,81,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-14-Capacity:200
+Artificial Intelligence,JUL26-NOV26,AI2100,Deep Learning,3.00,Dr. Shashank Vatedka,Dr. Shashank Vatedka,9,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-11-Capacity:120
+Artificial Intelligence,JUL26-NOV26,AI2200,Concentration Inequalities,1.00,Dr. Karthik P N,Dr. Karthik P N,73,,1-2,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-03-Capacity:120
+Artificial Intelligence,JUL26-NOV26,AI3000,Reinforcement Learning,3.00,Dr. Karthik P N,Dr. Karthik P N,84,99,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-04-Capacity:200
+Artificial Intelligence,JUL26-NOV26,AI3005,Mini Project,3.00,Unspecified,Unspecified,40,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI3403,Multi-Agent Systems (MAS),3.00,Dr. Venkatraman Renganathan,Dr. Venkatraman Renganathan,128,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-7-Capacity:70
+Artificial Intelligence,JUL26-NOV26,AI3405,Semester Internship,6.00,Unspecified,Unspecified,0,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI4000,Robotics,3.00,Dr. R.Prasanth Kumar,Dr. R.Prasanth Kumar,54,55,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-07-Capacity:200
+Artificial Intelligence,JUL26-NOV26,AI4005,Mini Project,3.00,Unspecified,Unspecified,9,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI4403,AI in Finance,3.00,Dr. Ganesh Sambhaji Ghalme,Dr. Ganesh Sambhaji Ghalme,29,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-12 Capacity:200
+Artificial Intelligence,JUL26-NOV26,AI5000,Foundations of Machine Learning,3.00,Dr. Soumya Jana,Dr. Soumya Jana,52,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-14-Capacity:200
+Artificial Intelligence,JUL26-NOV26,AI5030,Probability and Stochastic Processes,3.00,Dr. Pechetti Sasi Vinay,Dr. Pechetti Sasi Vinay,45,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-10-Capacity:72
+Artificial Intelligence,JUL26-NOV26,AI5040,Game Theory and Mechanism Design,3.00,Dr. Gogulapati Sreedurga,"Dr. Gogulapati Sreedurga, Dr. Ganesh Sambhaji Ghalme",57,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-11-Capacity:120
+Artificial Intelligence,JUL26-NOV26,AI5100,Deep Learning,3.00,Dr. Shashank Vatedka,Dr. Shashank Vatedka,6,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-11-Capacity:120
+Artificial Intelligence,JUL26-NOV26,AI5110,Linear Algebra and Applications,3.00,Dr. Phanindra Varma Jampana,Dr. Phanindra Varma Jampana,41,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-09-Capacity:72
+Artificial Intelligence,JUL26-NOV26,AI6105,Thesis Stage - I,3.00,Unspecified,Unspecified,5,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI6115,Thesis Stage - I,3.00,Unspecified,Unspecified,10,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI6205,Thesis Stage-II,9.00,Unspecified,Unspecified,18,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI6215,Thesis Stage - II,6.00,Unspecified,Unspecified,0,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI6305,Thesis Stage - III,12.00,Unspecified,Unspecified,0,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI6315,Thesis stage - III,12.00,Unspecified,Unspecified,12,,1-6,,,
+Artificial Intelligence,JUL26-NOV26,AI6415,Thesis Stage - IV,9.00,Unspecified,Unspecified,3,,1-6,,,
+Additive Manufacturing,JUL26-NOV26,AM5010,Fundamentals of Additive Manufacturing,3.00,Prof. Venkata Reddy N,"Dr. Anurup Datta, Prof. Venkata Reddy N",12,,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-6-Capacity:60
+Additive Manufacturing,JUL26-NOV26,AM5010,Fundamentals of Additive Manufacturing,3.00,Prof. Venkata Reddy N,"Dr. Anurup Datta, Prof. Venkata Reddy N",12,,3-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-6-Capacity:60
+Additive Manufacturing,JUL26-NOV26,AM5020,Product Design and Prototyping,2.00,Dr. Prasad S Onkar,Dr. Prasad S Onkar,11,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-6-Capacity:60
+Additive Manufacturing,JUL26-NOV26,AM5030,Materials for Additive Manufacturing,2.00,Dr. Viswanath Chinthapenta,Dr. Viswanath Chinthapenta,14,,1-4,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MAE-LH-6-Capacity:60
+Additive Manufacturing,JUL26-NOV26,AM5100,Industrial Lectures,1.00,Dr. Anirban Naskar,Dr. Anirban Naskar,11,,1-6,,,
+Additive Manufacturing,JUL26-NOV26,AM6015,Thesis-I,12.00,Unspecified,Unspecified,17,,1-6,,,
+BioMedical Engineering,JUL26-NOV26,BM1000,Physio-Anatomy I,2.00,Dr. Subha Narayan Rath,Dr. Subha Narayan Rath,35,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM2013,Analog and Integrated Circuits,3.00,Dr. Kousik Sarathy Sridharan,Dr. Kousik Sarathy Sridharan,27,30,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM2043,Algorithms and Data Structure Lab,2.00,Dr. Nagarajan Ganapathy,Dr. Nagarajan Ganapathy,0,23,3-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM2053,Mathematical Model and System Biology,2.00,Dr. Mohd Suhail Rizvi,Dr. Mohd Suhail Rizvi,28,,3-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",BT/BM-118-Capacity:60
+BioMedical Engineering,JUL26-NOV26,BM3023,Cell Technology,3.00,Dr. Aravind Kumar Rengan,Dr. Aravind Kumar Rengan,22,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,BT/BM-010-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM3040,Introduction to Biomechanics,2.00,Dr. Harikrishnan Narayanan Unni,Dr. Harikrishnan Narayanan Unni,23,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM3900,Linear Systems and Signal,3.00,Dr. Neelavalli Jaladhar,Dr. Neelavalli Jaladhar,45,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-10-Capacity:72
+BioMedical Engineering,JUL26-NOV26,BM4001,Biomaterials Lab,2.00,Dr. Jyotsnendu Giri,Dr. Jyotsnendu Giri,8,,3-6,AN4_JUL26-NOV26,Thursday-14:30-17:25,BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM4020,Biophotonics,3.00,Dr. Renu John,Dr. Renu John,18,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM4021,Medical Image Processing Lab,2.00,Dr. Avinash Eranki,"Dr. Avinash Eranki, Dr. Renu John",12,,3-6,AN1_JUL26-NOV26,Monday-14:30-17:25,
+BioMedical Engineering,JUL26-NOV26,BM4051,Computational Biomechanics Lab,2.00,Dr. Mohd Suhail Rizvi,Dr. Mohd Suhail Rizvi,7,,3-6,W_JUL26-NOV26,"Monday-17:30-18:55,Thursday-17:30-18:55",
+BioMedical Engineering,JUL26-NOV26,BM4080,Medical Image Processing & Analysis,2.00,Dr. Avinash Eranki,Dr. Avinash Eranki,16,,1-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-01-Capacity:72
+BioMedical Engineering,JUL26-NOV26,BM4090,Biomaterials-1,2.00,Dr. Jyotsnendu Giri,Dr. Jyotsnendu Giri,30,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-11-Capacity:120
+BioMedical Engineering,JUL26-NOV26,BM4135,Biomechanical Design,2.00,Dr. Harikrishnan Narayanan Unni,Dr. Harikrishnan Narayanan Unni,4,,3-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",BT/BM-010-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM5013,Sensors and Transducers in Health Care,2.00,Dr. Nagarajan Ganapathy,Dr. Nagarajan Ganapathy,49,,1-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-11-Capacity:120
+BioMedical Engineering,JUL26-NOV26,BM5023,Biomedical Devices,2.00,Dr. Renu John,Dr. Renu John,52,,3-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",BT/BM-118-Capacity:60
+BioMedical Engineering,JUL26-NOV26,BM5030,Scientific Computing,1.00,Dr. Mohan Raghavan,Dr. Mohan Raghavan,7,,1-2,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM5033,Statistical Inference Methods in Bioengineering,2.00,Dr. Mohd Suhail Rizvi,Dr. Mohd Suhail Rizvi,64,,1-4,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",BT/BM-118-Capacity:60
+BioMedical Engineering,JUL26-NOV26,BM5040,Biomechanics,1.00,Dr. Harikrishnan Narayanan Unni,Dr. Harikrishnan Narayanan Unni,34,,3-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-01-Capacity:72
+BioMedical Engineering,JUL26-NOV26,BM5070,Systems Physiology,2.00,Dr. Subha Narayan Rath,"Dr. Aravind Kumar Rengan, Dr. Subha Narayan Rath",23,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-01-Capacity:72
+BioMedical Engineering,JUL26-NOV26,BM5090,Biomaterials: Materials in Medicine,1.00,Dr. Jyotsnendu Giri,Dr. Jyotsnendu Giri,28,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-11-Capacity:120
+BioMedical Engineering,JUL26-NOV26,BM5105,Thesis Stage 1,12.00,Unspecified,Unspecified,22,,1-6,,,
+BioMedical Engineering,JUL26-NOV26,BM5110,Lab on Chip,1.00,Dr. Harikrishnan Narayanan Unni,Dr. Harikrishnan Narayanan Unni,53,,5-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM5123,Organ-on-chip,2.00,Dr. Subha Narayan Rath,Dr. Subha Narayan Rath,20,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",BT/BM-009-Capacity:24
+BioMedical Engineering,JUL26-NOV26,BM5190,Biofabrication,2.00,Dr. Falguni Pati,Dr. Falguni Pati,62,,3-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-15-Capacity-120
+BioMedical Engineering,JUL26-NOV26,BM5193,Product Design and Prototyping,1.00,Dr. Falguni Pati,Dr. Falguni Pati,39,,1-2,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-11-Capacity:120
+BioMedical Engineering,JUL26-NOV26,BM5270,Advanced topics in MRI & Beyond – 1,1.00,Dr. Jaladhar Neelavalli,Dr. Jaladhar Neelavalli,,,5-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-01-Capacity:72
+BioMedical Engineering,JUL26-NOV26,BM6125,Independent Research Proposal,3.00,Unspecified,Unspecified,11,,1-6,,,
+BioMedical Engineering,JUL26-NOV26,BM6146,Clinical Immersion,1.00,Dr. Renu John,Dr. Renu John,24,,1-6,W_JUL26-NOV26,"Monday-17:30-18:55,Thursday-17:30-18:55",BT/BM-118-Capacity:60
+BioMedical Engineering,JUL26-NOV26,BM7106,Special Topics in Microscopy,3.00,Dr. Renu John,Dr. Renu John,6,,1-6,X_JUL26-NOV26,"Monday-19:00-20:30,Thursday-19:00-20:30",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT1010,Introduction to Life Sciences,1.00,Dr. Gunjan Mehta,"Dr. Savita Devi, Dr. Gunjan Mehta",559,,5-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-13-Capacity:320
+Biotechnology,JUL26-NOV26,BT1010,Introduction to Life Sciences,1.00,Dr. Gunjan Mehta,"Dr. Savita Devi, Dr. Gunjan Mehta",,,5-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-05-Capacity:800
+Biotechnology,JUL26-NOV26,BT1020,Basic Bioinformatics,2.00,Dr. Thenmalarchelvi Rathinavelan,Dr. Thenmalarchelvi Rathinavelan,66,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-03-Capacity:120
+Biotechnology,JUL26-NOV26,BT1040,AI in Digital Health,2.00,Dr. Rahul Kumar,"Prof. G Narahari Sastry, Dr. Rahul Kumar",42,,3-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-15-Capacity:120
+Biotechnology,JUL26-NOV26,BT1110,Introduction to Bio-Nanotechnology,1.00,Dr. Himanshu Joshi,Dr. Himanshu Joshi,74,,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-01-Capacity:72
+Biotechnology,JUL26-NOV26,BT2011,Basic Biotechnology Lab,3.00,Dr. Ashish Misra,Dr. Ashish Misra,28,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Biotechnology,JUL26-NOV26,BT2030,Biochemistry,3.00,Dr. Anindya Roy,Dr. Anindya Roy,48,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT2040,Microbiology,2.00,Dr. Sandipan Ray,Dr. Sandipan Ray,166,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-04-Capacity:200
+Biotechnology,JUL26-NOV26,BT2053,Big Data Biology and Biological Databases,3.00,Dr. Rahul Kumar,Dr. Rahul Kumar,69,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-10-Capacity:72
+Biotechnology,JUL26-NOV26,BT3030,Sequence Alignment Algorithms,2.00,Dr. Gaurav Sharma,Dr. Gaurav Sharma,23,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",LHC-01-Capacity:72
+Biotechnology,JUL26-NOV26,BT3043,Genetic Engineering,3.00,Dr. Raghavendra Nidhanapati Karanam,Dr. Raghavendra Nidhanapati Karanam,23,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",BT/BM-009-Capacity:24
+Biotechnology,JUL26-NOV26,BT3050,"Genomics, Transcriptomics, Proteomics",3.00,Dr. Gaurav Sharma,"Dr. Gaurav Sharma, Dr. Sandipan Ray",24,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT3203,Machine Learning in Bioinformatics,2.00,Dr. Abhishek Subramanian,Dr. Abhishek Subramanian,43,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT4026,Seminar in Biotechnology and Bioinformatics,1.00,Dr. Indranil Mailk,Dr. Indranil Mailk,26,,5-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",BT/BM-010-Capacity:24
+Biotechnology,JUL26-NOV26,BT4030,Industrial Biotechnology,3.00,Dr. Avanthi Althuri,Dr. Avanthi Althuri,28,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",BT/BM-010-Capacity:24
+Biotechnology,JUL26-NOV26,BT4040,Immunology and Immunotechnology,2.00,Dr. Anamika Bhargava,Dr. Anamika Bhargava,24,,1-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-07-Capacity:200
+Biotechnology,JUL26-NOV26,BT4130,Neuroscience and Technology,3.00,Dr. Neeraj . Kumar,Dr. Neeraj . Kumar,28,,1-6,"Every Wednesday 
+Every Thursday","Every Wednesday 16:00 to 17:25
+Every Thursday     17:30 to 19:00  ",LA-003 (Capacity -80)
+Biotechnology,JUL26-NOV26,BT4150,Genomic Stability and Human Disease,2.00,Dr. Anindya Roy,Dr. Anindya Roy,23,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",BT/BM-010-Capacity:24
+Biotechnology,JUL26-NOV26,BT4223,Algorithms for Molecular Dynamics simulation,2.00,Dr. Himanshu Joshi,Dr. Himanshu Joshi,26,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT5013,Biochemistry,3.00,Dr. Rajakumara Eerappa,Dr. Rajakumara Eerappa,36,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-02-Capacity:72
+Biotechnology,JUL26-NOV26,BT5060,Genome Organization and Gene Regulation,2.00,Dr. Gunjan Mehta,Dr. Gunjan Mehta,45,,1-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT5230,Artificial Intelligence in Drug Discory,3.00,Prof. G Narahari Sastry,Prof. G Narahari Sastry,67,,1-6,,Every Tuesday 17:30 to 20:30,LHC-08-Capacity:120
+Biotechnology,JUL26-NOV26,BT5253,Artificial Intelligence for Bioinformatics,2.00,Dr. Abhishek Subramanian,Dr. Abhishek Subramanian,17,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-15-Capacity:120
+Biotechnology,JUL26-NOV26,BT6035,MTech Thesis-1,12.00,Unspecified,Unspecified,29,,1-6,,,
+Biotechnology,JUL26-NOV26,BT6040,Bioindustry Lecture,1.00,Dr. Savita Devi,Dr. Savita Devi,26,,5-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-02-Capacity:72
+Biotechnology,JUL26-NOV26,BT6060,Protein Misfolding in Neurodegenerative Diseases,2.00,Dr. Basant Kumar Patel,Dr. Basant Kumar Patel,16,,1-4,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",BT/BM-118-Capacity:60
+Biotechnology,JUL26-NOV26,BT6070,Molecular mechanisms of aging and age-related disorders,2.00,Dr. Indranil Mailk,Dr. Indranil Mailk,29,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",LHC-10-Capacity:72
+Biotechnology,JUL26-NOV26,BT6113,Structural Bioinformatics,2.00,Dr. Thenmalarchelvi Rathinavelan,Dr. Thenmalarchelvi Rathinavelan,27,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-09-Capacity:72
+Biotechnology,JUL26-NOV26,BT6143,Gene Technology,2.00,Dr. Raghavendra Nidhanapati Karanam,Dr. Raghavendra Nidhanapati Karanam,22,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-10-Capacity:72
+Biotechnology,JUL26-NOV26,BT6303,Proteomics: Techniques and Applications,2.00,Dr. Sandipan Ray,Dr. Sandipan Ray,42,,1-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-5-Capacity:60
+Biotechnology,JUL26-NOV26,BT6390,Advanced Cell Biology,3.00,Dr. Ashish Misra,Dr. Ashish Misra,37,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-09-Capacity:72
+Biotechnology,JUL26-NOV26,BT6630,RNA Biology and Therapeutics,2.00,Dr. Ashish Misra,Dr. Ashish Misra,16,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-01-Capacity:72
+Biotechnology,JUL26-NOV26,BT6873,Host-Pathogen-Microbiota Interactions,2.00,Dr. Savita Devi,Dr. Savita Devi,20,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-07-Capacity:200
+Liberal Arts,JUL26-NOV26,CA1023,Introduction to Karnatic Music,1.00,Unspecified,Unspecified,30,30,3-4,"Monday to Friday (17:30 to 19:00)
+
+Saturday (10:00 to 13:00)","07-09-2026, 08-09-2026, 09-09-2026, 10-09-2026, 11-09-2026 - 17:30 to 19:00
+
+12-09-2026 -10:00 to 13:00",LHC-05-Capacity:800
+Liberal Arts,JUL26-NOV26,CA1028,Introduction to Creative Writing,1.00,Unspecified,Unspecified,99,99,3-4,"Only Saturday 
+from (10:00 to 13:00)","05-09-2026, 12-09-2026, 19-09-2026",LHC-11
+Liberal Arts,JUL26-NOV26,CA1094,Cheriyal Doll Making,1.00,Unspecified,Unspecified,99,99,3-4,"Only Saturday 
+from (10:00 to 13:00)","05-09-2026, 12-09-2026, 19-09-2026
+26-09-2026","LHC-15-Capacity-120
+LHC-07-Capacity-200"
+Liberal Arts,JUL26-NOV26,CA2053,Introduction to Mridangam,3.00,Dr. Haripriya Narasimhan,Dr. Haripriya Narasimhan,25,25,1-6,,,LA-005
+Liberal Arts,JUL26-NOV26,CA2063,Introduction to Veena,3.00,Dr. Haripriya Narasimhan,Dr. Haripriya Narasimhan,25,25,1-6,,,LA-003
+Liberal Arts,JUL26-NOV26,CA2073,Introduction to violin,3.00,Dr. Haripriya Narasimhan,Dr. Haripriya Narasimhan,25,25,1-6,,All Saturday ,LA-005
+Liberal Arts,JUL26-NOV26,CA2083,Carnatic Vocal Music,3.00,Dr. Haripriya Narasimhan,Dr. Haripriya Narasimhan,29,30,1-6,,,LA-003
+Liberal Arts,JUL26-NOV26,CA3040,"Carnatic Music: Tradition, Innovation and Expression",1.00,Dr. Haripriya Narasimhan,Dr. Haripriya Narasimhan,,,3-4,,"17-08-2026, 18-08-2026, 19-08-2026,
+03-09-2026, 04-09-2026, 05-09-2026",LHC-05
+Liberal Arts,JUL26-NOV26,CA3050,Classical Bharatanatyam Appreciation,1.00,Dr. Anandita Pan,Dr. Anandita Pan,32,30,5-6,,,
+Liberal Arts,JUL26-NOV26,CA5053,Creativity using oil pastels,3.00,Dr. Anandita Pan,Dr. Anandita Pan,100,100,1-6,Saturday,"15-08-2026,  22-08-2026,  29-08-2026, 05-09-2026, 12-09-2026, 19-09-2026, 26-09-2026",LHC-03-Capacity-120
+Liberal Arts,JUL26-NOV26,CA5063,Music Performance and Ensemble Studies,3.00,Dr. Anandita Pan,Dr. Anandita Pan,24,100,1-6,Saturday,,LHC-08- Capacity-120
+Climate Change,JUL26-NOV26,CC1010,Introduction to Climate Change,1.00,Unspecified,Unspecified,93,,5-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",LHC-01-Capacity:72
+Climate Change,JUL26-NOV26,CC5140,Climate Governance,2.00,Dr. Aalok Dinkar Khandekar,Dr. Aalok Dinkar Khandekar,14,,3-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",
+Climate Change,JUL26-NOV26,CC5200,"RS, GIS and Climate Change",3.00,Dr. Anamitra Saha,Dr. Anamitra Saha,11,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",
+Climate Change,JUL26-NOV26,CC5320,Introduction to Climate Science and Climate Monitoring,3.00,Dr. Sayak Banerjee.,Dr. Sayak Banerjee.,16,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",
+Climate Change,JUL26-NOV26,CC5350,Translational Science for Collaborative Research,3.00,Dr. Anindita Majumdar,Dr. Anindita Majumdar,2,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",
+Climate Change,JUL26-NOV26,CC5360,Applied Mathematics and Scientific Computing for Climate Science,3.00,Dr. Anamitra Saha,Dr. Anamitra Saha,11,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Climate Change,JUL26-NOV26,CC5370,Essentials of Meteorology,2.00,Dr. Jalihal Chetankumar Adappa,Dr. Jalihal Chetankumar Adappa,9,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",
+Climate Change,JUL26-NOV26,CC5380,Paleoclimatology: a peek into ancient climate change,1.00,Dr. Jalihal Chetankumar Adappa,Dr. Jalihal Chetankumar Adappa,7,,5-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",
+Climate Change,JUL26-NOV26,CC6015,M. Tech. Thesis Stage-II,10.00,Unspecified,Unspecified,7,,1-6,,,
+Climate Change,JUL26-NOV26,CC9010,"An Introduction to Climate Dynamics, Variability and",3.00,Dr. Sayak Banerjee.,Dr. Sayak Banerjee.,2,,1-6,,,
+Climate Change,JUL26-NOV26,CC9030,Machine Learning for Engineering and Science Applications,3.00,Dr. Anamitra Saha,Dr. Anamitra Saha,3,,1-6,,,
+Civil Engineering,JUL26-NOV26,CE2121,Construction Materials Lab,2.00,Dr. Meenakshi Sharma,Dr. Meenakshi Sharma,58,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Civil Engineering,JUL26-NOV26,CE2130,Mechanics of Solids and Structures,3.00,Dr. Sourav Das,Dr. Sourav Das,62,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",
+Civil Engineering,JUL26-NOV26,CE2420,Fluid Mechanics.,3.00,Dr. Seetha N,"Dr. Sk Zeeshan Ali, Dr. Seetha N",59,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",
+Civil Engineering,JUL26-NOV26,CE2510,Environmental Systems Engineering I,3.00,Prof. Asif Qureshi,"Prof. Asif Qureshi, Dr. D. V. Sai Praneeth",61,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",
+Civil Engineering,JUL26-NOV26,CE2600,Introduction to Sustainability in Civil Engineering,1.00,Dr. Ambika S,Dr. Ambika S,58,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",
+Civil Engineering,JUL26-NOV26,CE2900,Construction Management,2.00,Dr. Meenakshi Sharma,Dr. Meenakshi Sharma,61,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",
+Civil Engineering,JUL26-NOV26,CE2920,Surveying,3.00,Dr. Subhojit Kadia,Dr. Subhojit Kadia,58,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",
+Civil Engineering,JUL26-NOV26,CE3212,Reinforced Concrete Design,3.00,Prof. Subramaniam K V L,Prof. Subramaniam K V L,60,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",
+Civil Engineering,JUL26-NOV26,CE3242,Structural Steel Design,3.00,Dr. Mahendra Kumar Madhavan,Dr. Mahendra Kumar Madhavan,62,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",
+Civil Engineering,JUL26-NOV26,CE3330,Foundation Engineering,3.00,Dr. Sireesh Saride,Dr. Sireesh Saride,60,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",
+Civil Engineering,JUL26-NOV26,CE3400,Engineering Hydrology,2.00,Dr. Satish Kumar Regonda,Dr. Satish Kumar Regonda,61,,1-4,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",
+Civil Engineering,JUL26-NOV26,CE3401,Hydraulic Engineering Lab,1.00,Dr. Subhojit Kadia,Dr. Subhojit Kadia,58,,5-6,AN5_JUL26-NOV26,Friday-14:30-17:25,
+Civil Engineering,JUL26-NOV26,CE3411,Fluid Mechanics Lab,1.00,Dr. Sk Zeeshan Ali,Dr. Sk Zeeshan Ali,59,,1-4,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Civil Engineering,JUL26-NOV26,CE3511,Environmental Engineering Lab,2.00,Prof. Asif Qureshi,"Prof. Asif Qureshi, Dr. Debraj Bhattacharyya",59,,3-6,Wednesday-14:30-17:30,Wednesday-14:30-17:30,
+Civil Engineering,JUL26-NOV26,CE3820,Highway Design and Materials,2.00,Dr. Prasanna R,Dr. Prasanna R,63,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",
+Civil Engineering,JUL26-NOV26,CE3821,Highway Materials Lab,1.00,Dr. Prasanna R,Dr. Prasanna R,61,,5-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Civil Engineering,JUL26-NOV26,CE4025,Departmental Core Elective(Project),3.00,Unspecified,Unspecified,20,,1-6,,,
+Civil Engineering,JUL26-NOV26,CE4400,Water Resources Engineering,2.00,Dr. Satish Kumar Regonda,Dr. Satish Kumar Regonda,59,,1-4,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",
+Civil Engineering,JUL26-NOV26,CE4830,Railway and Airport Engineering,1.00,Dr. Roshan Khan,"Dr. Roshan Khan, Dr. Ramya Mullapudi",61,,5-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",
+Civil Engineering,JUL26-NOV26,CE4840,Traffic Engineering and Planning,2.00,Dr. D. V. Sai Praneeth,Dr. D. V. Sai Praneeth,30,,1-4,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",
+Academic,JUL26-NOV26,CE4841,Traffic Engineering Lab,2.00,Dr. D. V. Sai Praneeth,Dr. D. V. Sai Praneeth,58,,5-6,Wednesday-14:30-17:30,Wednesday-14:30-17:30,
+Civil Engineering,JUL26-NOV26,CE5141,Structural Engineering Lab,1.00,Dr. Surendra Nadh Somala,Dr. Surendra Nadh Somala,10,,1-6,Wednesday-14:30-17:30,Wednesday-14:30-17:30,
+Civil Engineering,JUL26-NOV26,CE5170,Mathematical Methods in Civil Engineering,3.00,Dr. Biswarup Bhattacharyya,Dr. Biswarup Bhattacharyya,7,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE5190,Advanced Concrete Technology.,3.00,Dr. Meenakshi Sharma,Dr. Meenakshi Sharma,8,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE5212,Advanced Reinforced Concrete Design,3.00,Dr. Suriya Prakash S,Dr. Suriya Prakash S,19,,1-6,CE5212_JUL26-NOV26,"Monday-10:01-11:29,Thursday-10:01-11:29",
+Civil Engineering,JUL26-NOV26,CE5220,Solid Waste Management,3.00,Dr. Debraj Bhattacharyya,Dr. Debraj Bhattacharyya,11,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE5232,Advanced Structural Steel Design,3.00,Dr. Anil Agarwal,Dr. Anil Agarwal,9,,1-6,CE5232_JUL26-NOV26,"Monday-11:31-12:59,Thursday-11:31-12:59",
+Civil Engineering,JUL26-NOV26,CE5250,Advanced Structural Mechanics,3.00,Dr. Mahendra Kumar Madhavan,Dr. Mahendra Kumar Madhavan,18,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE5290,Applied Elasticity and Plasticity,3.00,Dr. Amirtham Rajagopal,Dr. Amirtham Rajagopal,20,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE5310,Advanced Soil Mechanics,3.00,Dr. Umashankar Balunaini,Dr. Umashankar Balunaini,7,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE5330,Soil Dynamics,3.00,Prof. Munwar Basha B,Prof. Munwar Basha B,10,,1-6,CE5330_JUL26-NOV26,"Tuesday-12:00-13:25,Wednesday-12:00-13:25",
+Civil Engineering,JUL26-NOV26,CE5352,Design of Earth Structures,3.00,Dr. Shwetabh Yadav,Dr. Shwetabh Yadav,6,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE5730,Urban Transportation Systems,3.00,Dr. Digvijay S Pawar,Dr. Digvijay S Pawar,10,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE6015,Masters Thesis,12.00,Unspecified,Unspecified,42,,1-6,,,
+Civil Engineering,JUL26-NOV26,CE6025,Masters Thesis,15.00,Unspecified,Unspecified,0,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",
+Civil Engineering,JUL26-NOV26,CE6035,Masters Thesis,10.00,Unspecified,Unspecified,6,,1-6,,,
+Civil Engineering,JUL26-NOV26,CE6045,Masters Thesis,10.00,Unspecified,Unspecified,1,,1-6,,,
+Civil Engineering,JUL26-NOV26,CE6145,Masters RA Thesis-II (RA),5.00,Unspecified,Unspecified,2,,1-6,,,
+Civil Engineering,JUL26-NOV26,CE6160,Advanced Finite Element Method,3.00,Dr. Amirtham Rajagopal,Dr. Amirtham Rajagopal,11,,1-6,CE6160_JUL26-NOV26,"Friday-10:00-11:30,Tuesday-10:01-11:29",
+Civil Engineering,JUL26-NOV26,CE6243,Life Cycle Sustainability Analysis,3.00,Dr. Ambika S,Dr. Ambika S,12,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE6380,Finite Element Modelling in Geotechnics,3.00,Dr. Roshan Khan,Dr. Roshan Khan,7,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",
+Civil Engineering,JUL26-NOV26,CE6500,Engineering Hydrology and Hydrologic Systems,3.00,Dr. Maheswaran Rathinasamy,Dr. Maheswaran Rathinasamy,13,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE6501,Applied Computational Laboratory,2.00,Dr. Satish Kumar Regonda,Dr. Satish Kumar Regonda,21,,1-6,Wednesday-14:30-17:30,Wednesday-14:30-17:30,
+Civil Engineering,JUL26-NOV26,CE6520,Irrigation Water Management,2.00,Dr. Phanindra K B V N,Dr. Phanindra K B V N,9,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE6540,Contaminant Hydrology and Remediation,3.00,Dr. Shashidhar T,Dr. Shashidhar T,7,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",
+Civil Engineering,JUL26-NOV26,CE6590,Air Pollution & Control,3.00,Prof. Asif Qureshi,Prof. Asif Qureshi,6,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE6683,Analysis of Water Distribution Systems,3.00,Dr. Seetha N,Dr. Seetha N,12,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",
+Civil Engineering,JUL26-NOV26,CE6710,Advanced Traffic Engineering and ITS,3.00,Dr. Digvijay S Pawar,Dr. Digvijay S Pawar,4,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",
+Civil Engineering,JUL26-NOV26,CE6711,Traffic Engineering and Studio Lab,3.00,Dr. Digvijay S Pawar,Dr. Digvijay S Pawar,3,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Civil Engineering,JUL26-NOV26,CE6720,Advanced Pavement Materials,3.00,Dr. Ramya Mullapudi,Dr. Ramya Mullapudi,2,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",
+Chemical Engineering,JUL26-NOV26,CH1110,Introduction to Chemical Engineering,2.00,Dr. Alan Ranjit Jacob,Dr. Alan Ranjit Jacob,54,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-Class Room 112-Capacity:80
+Chemical Engineering,JUL26-NOV26,CH1120,Applied Chemistry,2.00,Dr. Satyavrata Samavedi,Dr. Satyavrata Samavedi,50,,3-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 112-Capacity:80
+Chemical Engineering,JUL26-NOV26,CH2110,Biological Engineering,3.00,Dr. Devarai Santhosh Kumar,Dr. Devarai Santhosh Kumar,438,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH2120,Numerical Methods,3.00,Dr. Vinod M Janardhanan,Dr. Vinod M Janardhanan,92,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-08-Capacity:120
+Chemical Engineering,JUL26-NOV26,CH2130,Transport Phenomena,3.00,Dr. Parag Dinesh Pawar,Dr. Parag Dinesh Pawar,92,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH2140,Chemical Engineering Thermodynamics,3.00,Dr. Ramkarn Patne,Dr. Ramkarn Patne,49,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH2150,Applied Mathematics in Chemical Engineering,3.00,Dr. Balaji Iyer Vaidyanathan Shantha,"Dr. Mahesh Ganesan, Dr. Balaji Iyer Vaidyanathan Shantha",47,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH3110,Mass Transfer - I,3.00,Dr. Shelaka Gupata,Dr. Shelaka Gupata,43,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH3120,Mechanical Operations,3.00,Dr. Suhanya Duraiswamy,Dr. Suhanya Duraiswamy,40,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH3121,HT & FM Lab,2.00,Prof. Kirti Chandra Sahu,"Dr. Ranajit Mondal, Prof. Kirti Chandra Sahu",40,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Chemical Engineering,JUL26-NOV26,CH3130,Chemical Technology,2.00,Dr. Gande Vamsi Vikram,Dr. Gande Vamsi Vikram,44,,3-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH3140,Chemical Reaction Engineering - II,3.00,Dr. Gande Vamsi Vikram,Dr. Gande Vamsi Vikram,40,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH4015,Mini Project,3.00,Unspecified,Unspecified,2,,1-6,,,
+Chemical Engineering,JUL26-NOV26,CH4111,Process Simulation Lab,2.00,Dr. Suhanya Duraiswamy,Dr. Suhanya Duraiswamy,43,,1-6,AN5_JUL26-NOV26,Friday-14:30-17:25,
+Chemical Engineering,JUL26-NOV26,CH4112,Process Design and Economics,3.00,Dr. Sunil Kumar Maity,Dr. Sunil Kumar Maity,46,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 112-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH4121,MT and Control Lab,2.00,Dr. Anand Mohan,"Dr. Satyavrata Samavedi, Dr. Anand Mohan",46,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Chemical Engineering,JUL26-NOV26,CH4415,Honours (Thesis Stage-I),3.00,Unspecified,Unspecified,2,,1-6,,,
+Chemical Engineering,JUL26-NOV26,CH5010,Advanced Numerical Methods,3.00,Dr. Kishalay Mitra,Dr. Kishalay Mitra,58,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-Class Room 112-Capacity:80
+Chemical Engineering,JUL26-NOV26,CH5025,Thesis (Stage 2),9.00,Unspecified,Unspecified,25,,1-6,,,
+Chemical Engineering,JUL26-NOV26,CH5050,Heterogeneous Catalytic Reaction Engineering,3.00,Dr. Debaprasad Shee,Dr. Debaprasad Shee,18,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CHE-Class Room 112-Capacity:80
+Chemical Engineering,JUL26-NOV26,CH5060,Advanced Process Control,3.00,Dr. Mahesh Ganesan,Dr. Mahesh Ganesan,20,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5091,Process Engineering Lab,2.00,Dr. Chandrasekhar Sharma,Dr. Chandrasekhar Sharma,17,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Chemical Engineering,JUL26-NOV26,CH5115,MTech (RA) Thesis Stage 1,2.00,Unspecified,Unspecified,2,,1-6,,,
+Chemical Engineering,JUL26-NOV26,CH5125,MTech (RA) Thesis Stage 2,2.00,Unspecified,Unspecified,2,,1-6,,,
+Chemical Engineering,JUL26-NOV26,CH5135,MTech (RA) Thesis Stage 3,4.00,Unspecified,Unspecified,4,,1-6,,,
+Chemical Engineering,JUL26-NOV26,CH5400,Introduction to Colloids and Interface Science,2.00,Dr. Ranajit Mondal,Dr. Ranajit Mondal,27,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5440,Materials for Soft Robots,2.00,Dr. Alan Ranjit Jacob,Dr. Alan Ranjit Jacob,1,,3-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5460,Process Integration,1.00,Dr. Sunil Kumar Maity,Dr. Sunil Kumar Maity,19,,1-2,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH5480,Advanced Colloids and Interfaces,1.00,Dr. Ranajit Mondal,Dr. Ranajit Mondal,14,,5-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5500,Introduction to Polymer Rheology,1.00,Dr. Balaji Iyer Vaidyanathan Shantha,Dr. Balaji Iyer Vaidyanathan Shantha,16,,5-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH5710,Machine Learning Fundamentals,2.00,Dr. Lopamudra Giri,Dr. Lopamudra Giri,60,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5720,AI/ML Tool Chains for Chemical Engineers,3.00,Dr. Kishalay Mitra,Dr. Kishalay Mitra,62,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH5730,Computer Vision in Chemical and Life Sciences,3.00,Dr. Lopamudra Giri,Dr. Lopamudra Giri,20,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH5740,DFT/AI for Catalyst Design,3.00,Dr. Shelaka Gupata,Dr. Shelaka Gupata,12,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5750,Accelerating MD with AI/ML,3.00,Dr. Krishan Kanhaiya,Dr. Krishan Kanhaiya,35,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH5860,Computational Biology,3.00,Dr. Anand Mohan,Dr. Anand Mohan,13,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-Class Room 111-Capacity:70
+Chemical Engineering,JUL26-NOV26,CH5900,Computational Fluid Dynamics,2.00,Prof. Kirti Chandra Sahu,Prof. Kirti Chandra Sahu,34,,1-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH5910,Chemical Reactor Modeling,2.00,Dr. Vinod M Janardhanan,Dr. Vinod M Janardhanan,16,,3-6,W_JUL26-NOV26,"Monday-17:30-18:55,Thursday-17:30-18:55",CHE-Class Room 112-Capacity:80
+Chemical Engineering,JUL26-NOV26,CH6080,Introduction to Cardiovascular Mechanics,1.00,Dr. Anand Mohan,Dr. Anand Mohan,19,,3-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 119-Capacity:108
+Chemical Engineering,JUL26-NOV26,CH6580,Advanced Mineral Processing,2.00,Dr. Narasimha Mangadoddy,Dr. Narasimha Mangadoddy,11,,3-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH6620,Intermolecular Forces,1.00,Dr. Saptarshi Majumdar,Dr. Saptarshi Majumdar,18,,1-2,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 118-Capacity:84
+Chemical Engineering,JUL26-NOV26,CH6870,Machine Learning for Process Systems Engineering,1.00,Dr. Kishalay Mitra,Dr. Kishalay Mitra,31,,1-2,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-Class Room 112-Capacity:80
+Chemical Engineering,JUL26-NOV26,CH6910,Physicochemical Fundamentals for Chemical Engineers,2.00,Dr. Saptarshi Majumdar,Dr. Saptarshi Majumdar,8,,3-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 118-Capacity:84
+Academic,JUL26-NOV26,CI101,Clean India,1.00,Unspecified,Unspecified,356,,1-6,,,
+Academic,JUL26-NOV26,CO4015,Miniproject,3.00,Unspecified,Unspecified,6,,1-6,,,
+Center for Interdisciplinary Programs,JUL26-NOV26,CP5010,Critical Minerals Deposits & Process Mineralogy,1.00,Dr. Narasimha Mangadoddy,Dr. Narasimha Mangadoddy,10,,3-4,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-Class Room 220-Capacity:40
+Center for Interdisciplinary Programs,JUL26-NOV26,CP5016,Industry Lecture series,1.00,Unspecified,Unspecified,6,,1-6,,,
+Center for Interdisciplinary Programs,JUL26-NOV26,CP5020,Introduction to Critical Minerals,1.00,Dr. Narasimha Mangadoddy,Dr. Narasimha Mangadoddy,15,,1-2,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-118 Class Room 118-Capacity-84
+Center for Interdisciplinary Programs,JUL26-NOV26,CP5030,"Critical Minerals: Intro, Economics & Geopolitics",1.00,Dr. Mohan Raghavan,Dr. Mohan Raghavan,0,,5-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CHE-Class Room 220-Capacity:40
+Center for Interdisciplinary Programs,JUL26-NOV26,CP5040,Sustainability in Pyrometallurgical Processes,1.00,Dr. Ashok K,Dr. Ashok K,4,,1-6,X_JUL26-NOV26,"Monday-19:00-20:30,Thursday-19:00-20:30",
+Center for Interdisciplinary Programs,JUL26-NOV26,CP5060,Electrochemical Processing of Critical Minerals,2.00,Dr. Suhash Ranjan Dey,Dr. Suhash Ranjan Dey,6,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CHE-Class Room 220-Capacity:40
+Center for Interdisciplinary Programs,JUL26-NOV26,CP6010,AI & ML for CMs,1.00,Dr. Kishalay Mitra,Dr. Kishalay Mitra,4,,1-2,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-Class Room 220-Capacity:40 Chairs
+Computer Science and Engineering,JUL26-NOV26,CS1000,Introduction to Computing,1.00,Unspecified,Unspecified,113,,3-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-03-Capacity:120
+Computer Science and Engineering,JUL26-NOV26,CS1010,Discrete Maths for Computer Science,3.00,Dr. Rogers Mathew,"Dr. Rogers Mathew, Dr. Shibam Ghosh",166,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-04-Capacity:200
+Computer Science and Engineering,JUL26-NOV26,CS2233,Data Structures,5.00,Dr. Manaswi Paraashar,Dr. Manaswi Paraashar,65,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CSE-LH-01 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS2323,Computer Architecture,4.00,Dr. Rajesh Kedia,Dr. Rajesh Kedia,114,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-08-Capacity:120
+Computer Science and Engineering,JUL26-NOV26,CS3035,Mini Project,3.00,Dr. Sathya Peri,Dr. Sathya Peri,0,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS3390,Foundations of Machine Learning,3.00,Dr. Sandipan Dandapat,"Dr. Srijith P K, Dr. Sandipan Dandapat",80,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CHE-LH-2-Capacity:184
+Computer Science and Engineering,JUL26-NOV26,CS3423,Compilers-II,3.00,Dr. Ashish Mishra,"Dr. Upadrasta Ramakrishna, Dr. Ashish Mishra",70,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CSE-LH-01 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS3510,Operating Systems I,1.00,Dr. Bheemarjuna Reddy Tamma,"Prof. Siva Ram Murthy C, Dr. Bheemarjuna Reddy Tamma",217,,5-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-04-Capacity:200
+Computer Science and Engineering,JUL26-NOV26,CS3530,Computer Networks,4.00,Dr. Kotaro Kataoka,Dr. Kotaro Kataoka,74,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-LH-2-Capacity:184
+Computer Science and Engineering,JUL26-NOV26,CS3550,Database Management Systems 1,1.00,Dr. Anupam Sanghi,Dr. Anupam Sanghi,144,,3-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",LHC-04-Capacity:200
+Computer Science and Engineering,JUL26-NOV26,CS4025,Honors Project (Stage 1),3.00,Dr. Upadrasta Ramakrishna,Dr. Upadrasta Ramakrishna,6,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS4035,Mini Project,3.00,Dr. Upadrasta Ramakrishna,Dr. Upadrasta Ramakrishna,31,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS5013,GPU Programming,3.00,Dr. Jyothi Vedurada,Dr. Jyothi Vedurada,27,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CSE-LH-03 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5040,Linear Optimization,3.00,Dr. Sobhan Babu Chintapalli,Dr. Sobhan Babu Chintapalli,173,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-12 Capacity-200
+Computer Science and Engineering,JUL26-NOV26,CS5060,Advanced Computer Networks,3.00,Dr. Antony Franklin,Dr. Antony Franklin,82,90,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CSE-LH-02 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5100,Quantum Computing,3.00,Dr. Panduranga Rao M V,Dr. Panduranga Rao M V,14,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CSE-LH-02 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5103,Practical Malware Analysis,3.00,Dr. Saurabh Kumar,Dr. Saurabh Kumar,41,69,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CSE-LH-02 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5280,Concurrency Control in Transactional Systems,3.00,Dr. Sathya Peri,Dr. Sathya Peri,19,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CSE-LH-02 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5363,Advanced Computer Architecture,3.00,Dr. Shirshendu Das,Dr. Shirshendu Das,51,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CSE-LH-02 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5500,Reinforcement Learning (RL),3.00,Dr. Maunendra Sankar Desarkar,Dr. Maunendra Sankar Desarkar,21,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS5590,Foundations of Machine Learning,3.00,Dr. Srijith P K,"Dr. Srijith P K, Dr. Sandipan Dandapat",100,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CSE-LH-01 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5600,Data Mining,3.00,Dr. Manish Singh,Dr. Manish Singh,99,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CSE-LH-03 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5610,Computational Number Theory & Algebra,3.00,Dr. N R Aravind,Dr. N R Aravind,49,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CSE-LH-01 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5653,Secure Software Engineering,3.00,Dr. Bheemarjuna Reddy Tamma,Dr. Bheemarjuna Reddy Tamma,29,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CSE-LH-03 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5660,Convex Optimization 2: Algorithms,3.00,Dr. Sakethanath Jagarlapudi,Dr. Sakethanath Jagarlapudi,13,,1-6,X_JUL26-NOV26,"Monday-19:00-20:30,Thursday-19:00-20:30",
+Computer Science and Engineering,JUL26-NOV26,CS5663,AI for Databases,3.00,Dr. Anupam Sanghi,Dr. Anupam Sanghi,20,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CSE-LH-03 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS5903,Distributed AI Training in a large-scale GPU cluster,3.00,Dr. Praveen Aravind Babu Tammana,Dr. Praveen Aravind Babu Tammana,59,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CSE-LH-03 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS6013,Advanced Data Structures and Algorithms,3.00,Dr. Rameshwar Pratap,Dr. Rameshwar Pratap,137,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-03-Capacity:120
+Computer Science and Engineering,JUL26-NOV26,CS6020,Mathematics for Cryptography,1.00,Dr. Panduranga Rao M V,Dr. Panduranga Rao M V,8,,1-2,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",
+Computer Science and Engineering,JUL26-NOV26,CS6035,M.Tech Thesis (Stage-1),4.00,Unspecified,Unspecified,5,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS6045,M.Tech Thesis (Stage-2),8.00,Unspecified,Unspecified,76,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS6055,M.Tech Thesis (Stage-3),12.00,Unspecified,Unspecified,5,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS6113,Representation Learning,3.00,Dr. Krishna Mohan C,Dr. Krishna Mohan C,33,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CSE-LH-03 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS6123,Systems for Machine Learning,3.00,Dr. Abhijit Das,Dr. Abhijit Das,46,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CSE-LH-02 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS6160,Cryptology,3.00,Dr. Maria Francis,"Dr. Maria Francis, Dr. Shibam Ghosh",49,71,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-02-Capacity:72
+Computer Science and Engineering,JUL26-NOV26,CS6340,Topics in Quantum Computing,3.00,Dr. Nitin Saurabh,Dr. Nitin Saurabh,15,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CSE-LH-01 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS6660,Mathematical Foundations of Data Science,3.00,Dr. Rameshwar Pratap,"Dr. Rameshwar Pratap, Dr. Karthik P N",14,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS6695,Capstone Project-1,12.00,Unspecified,Unspecified,33,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS6705,Capstone Project 2,12.00,Unspecified,Unspecified,0,,1-6,,,
+Computer Science and Engineering,JUL26-NOV26,CS6803,Topics in Natural Language Processing,3.00,Dr. Maunendra Sankar Desarkar,Dr. Maunendra Sankar Desarkar,22,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CSE-LH-01 (Capacity - 70)
+Computer Science and Engineering,JUL26-NOV26,CS6843,Compilers for Machine Learning,3.00,Dr. Upadrasta Ramakrishna,Dr. Upadrasta Ramakrishna,1,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CSE-LH-02 (Capacity - 70)
+Chemistry,JUL26-NOV26,CY1010,Environmental Chemistry,2.00,Dr. Abhijit Sau,"Dr. M Annadhasan, Dr. Anup Bhunia, Dr. Natte Kishore, Dr. Abhijit Sau",446,,1-4,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-13-Capacity:320
+,,,,,,,,,,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-05-Capacity:800
+Chemistry,JUL26-NOV26,CY5010,"Stereochemistry, Reaction Mechanism and Aromaticity",3.00,Dr. Ashutosh Kumar Mishra,Dr. Ashutosh Kumar Mishra,40,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY5011,Organic Chemistry Practical,2.00,Dr. Satyanarayana G,Dr. Satyanarayana G,39,,1-4,FN3_JUL26-NOV26,Wednesday-09:00-11:55,
+Chemistry,JUL26-NOV26,CY5060,Pharmaceutical Solid-State Chemistry and Formulation,3.00,Prof. C Malla Reddy,Prof. C Malla Reddy,35,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CY-LH-1-Capacity:30
+Chemistry,JUL26-NOV26,CY5110,Concepts in Inorganic Chemistry,3.00,Dr. Tarun Kanti Panda,"Dr. Saurabh Kumar Singh, Dr. Tarun Kanti Panda",39,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY5111,Inorganic Chemistry Practicals,2.00,Dr. Somnath Maji,Dr. Somnath Maji,39,,1-4,FN4_JUL26-NOV26,Thursday-09:00-11:55,
+Chemistry,JUL26-NOV26,CY5210,Electrochemistry and Chemical Kinetics,3.00,Dr. Narendra Kurra,Dr. Narendra Kurra,47,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY5220,Solid State Chemistry,3.00,Dr. Sivakumar Vaidyanathan,Dr. Sivakumar Vaidyanathan,53,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY5240,Quantum Chemistry and Molecular Spectroscopy,3.00,Dr. Arup Mahata,Dr. Arup Mahata,47,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY6010,Synthetic Methodology in Organic Chemistry,3.00,Dr. Venkata Rao Kotagiri,Dr. Venkata Rao Kotagiri,43,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY6015,Project,0.00,Dr. Krishna Gavvala,Dr. Krishna Gavvala,36,,1-6,,,
+Chemistry,JUL26-NOV26,CY6110,Metals in Biological Systems,3.00,Dr. Tarali Devi,Dr. Tarali Devi,48,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY6120,Advanced Organometallic Chemistry,3.00,Dr. G Prabu Sankar,Dr. G Prabu Sankar,20,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CY-LH-1-Capacity:30
+Chemistry,JUL26-NOV26,CY6211,Advanced Laboratory Techniques in Chemistry,3.00,Dr. Jai Prakash,"Dr. Priyadarshi Chakraborty, Dr. Jai Prakash, Dr. Abhijit Sau",36,,1-6,AN5_JUL26-NOV26,Friday-14:30-17:25,
+Chemistry,JUL26-NOV26,CY6220,Physical Methods in Chemistry,3.00,Dr. Krishna Gavvala,"Dr. Krishna Gavvala, Dr. Surajit Maity",54,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY6700,Nanochemistry and Applications,3.00,Dr. Sudarsanam Putla,"Dr. Sudarsanam Putla, Prof. Subrahmanyam Challapalli",20,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CY-LH-1-Capacity:30
+Chemistry,JUL26-NOV26,CY6730,Advanced Molecular Spectroscopy,3.00,Dr. Surajit Maity,Dr. Surajit Maity,8,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY6750,Energy Storage Devices,3.00,Dr. Surendra Kumar Martha,Dr. Surendra Kumar Martha,14,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CY-LH-3-Capacity:90
+Chemistry,JUL26-NOV26,CY6903,Molecular Modeling of Complex Chemical Systems,3.00,Dr. Bhabani Shankar Malik,Dr. Bhabani Shankar Malik,15,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",
+Design,JUL26-NOV26,DS1013,Elements of Design,3.00,Dr. Satpute Pranav Ashok,Dr. Satpute Pranav Ashok,28,,1-6,,,
+Design,JUL26-NOV26,DS1020,Design Culture and Society,2.00,Dr. Anusmita Das,Dr. Anusmita Das,28,,1-6,,,
+Design,JUL26-NOV26,DS1063,Principles of Design,2.00,Dr. Saurav Khuttiya Deori,Dr. Saurav Khuttiya Deori,28,,1-6,,,
+Design,JUL26-NOV26,DS1070,Evolution of Design,2.00,Prof. Deepak John Mathew,Prof. Deepak John Mathew,28,,1-6,,,
+Design,JUL26-NOV26,DS1130,Film Appreciation,1.00,Dr. Sonali Srivastav,Dr. Sonali Srivastav,28,,1-6,,,
+Design,JUL26-NOV26,DS2012,Illustrations and Drawing,2.00,Dr. ANKITA ROY,Dr. ANKITA ROY,28,,1-6,,,
+Design,JUL26-NOV26,DS2023,Basic Typography,2.00,Dr. Saurav Khuttiya Deori,Dr. Saurav Khuttiya Deori,28,,1-6,,,
+Design,JUL26-NOV26,DS2033,Introduction to Ergonomics,2.00,Mr Srikar A V R,Mr Srikar A V R,28,,1-6,,,
+Design,JUL26-NOV26,DS2043,Programming for Designers,1.00,Dr. Seema Krishnakumar,Dr. Seema Krishnakumar,28,,1-6,,,
+Design,JUL26-NOV26,DS2053,Storyboarding,2.00,Mr Delwyn Jude Remedios,Mr Delwyn Jude Remedios,28,,1-6,,,
+Design,JUL26-NOV26,DS2062,Form Language,2.00,Dr. Satpute Pranav Ashok,Dr. Satpute Pranav Ashok,16,,1-6,,,
+Design,JUL26-NOV26,DS2073,Advanced Graphic Design,1.00,Dr. ANKITA ROY,Dr. ANKITA ROY,26,,1-6,,,
+Design,JUL26-NOV26,DS2083,Print Making,1.00,Prof. Deepak John Mathew,Prof. Deepak John Mathew,23,,1-6,,,
+Design,JUL26-NOV26,DS2103,Web & Interaction,1.00,Dr. Seema Krishnakumar,Dr. Seema Krishnakumar,16,,1-6,,,
+Design,JUL26-NOV26,DS2113,Elements of Film Making,1.00,Dr. Sonali Srivastav,Dr. Sonali Srivastav,25,,1-6,,,
+Design,JUL26-NOV26,DS2123,Script Writing,1.00,Mr Delwyn Jude Remedios,Mr Delwyn Jude Remedios,24,,1-6,,,
+Design,JUL26-NOV26,DS3080,Semiotics,1.00,Prof. Deepak John Mathew,Prof. Deepak John Mathew,25,,1-6,,,
+Design,JUL26-NOV26,DS3093,AI in Design,2.00,Dr. Md Haseen Akhtar,Dr. Md Haseen Akhtar,25,,1-6,,,
+Design,JUL26-NOV26,DS3105,Project 2,3.00,Mr Srikar A V R,Mr Srikar A V R,24,,1-6,,,
+Design,JUL26-NOV26,DS3133,Nature and Form,2.00,Dr. Shiva Ji,Dr. Shiva Ji,20,,1-6,,,
+Design,JUL26-NOV26,DS3143,Furniture Design,2.00,Dr. Satpute Pranav Ashok,Dr. Satpute Pranav Ashok,17,,1-6,,,
+Design,JUL26-NOV26,DS3153,Type Design,2.00,Dr. Mohammad Shahid,Dr. Mohammad Shahid,16,,1-6,,,
+Design,JUL26-NOV26,DS3163,Graphic Narratives,2.00,Mr Delwyn Jude Remedios,Mr Delwyn Jude Remedios,14,,1-6,,,
+Design,JUL26-NOV26,DS3183,Documentary Photography,2.00,Dr. Seema Krishnakumar,Dr. Seema Krishnakumar,13,,1-6,,,
+Design,JUL26-NOV26,DS3203,Digital Heritage,2.00,Dr. Shiva Ji,Dr. Shiva Ji,5,,1-6,,,
+Design,JUL26-NOV26,DS3213,Design for Education,2.00,Prof. Deepak John Mathew,Prof. Deepak John Mathew,11,,1-6,,,
+Design,JUL26-NOV26,DS3223,Game Design,2.00,Dr. Prasad S Onkar,Dr. Prasad S Onkar,24,,1-6,,,
+Design,JUL26-NOV26,DS3253,Film Making,2.00,Dr. Sonali Srivastav,Dr. Sonali Srivastav,10,,1-6,,,
+Design,JUL26-NOV26,DS3263,System Design,3.00,Dr. Seema Krishnakumar,Dr. Seema Krishnakumar,22,,1-6,,,
+Design,JUL26-NOV26,DS3813,Basics of Design,3.00,Mr Srikar A V R,Mr Srikar A V R,0,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",
+Design,JUL26-NOV26,DS3853,The Art of Paper Engineering,2.00,Dr. Satpute Pranav Ashok,Dr. Satpute Pranav Ashok,2,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",
+Design,JUL26-NOV26,DS4030,Design Management and IPR,2.00,Mr Srikar A V R,Mr Srikar A V R,24,,1-6,,,
+Design,JUL26-NOV26,DS4040,Professional Practice,2.00,Dr. Prasad S Onkar,Dr. Prasad S Onkar,23,,1-6,,,
+Design,JUL26-NOV26,DS4050,Entrepreneurship and Business Planning,2.00,Dr. Md Haseen Akhtar,"Dr. Anusmita Das, Dr. Md Haseen Akhtar",23,,1-6,,,
+Design,JUL26-NOV26,DS4060,Design Research Seminar,2.00,Dr. Anusmita Das,Dr. Anusmita Das,24,,1-6,,,
+Design,JUL26-NOV26,DS4085,Project 4,3.00,Unspecified,Unspecified,23,,1-6,,,
+Design,JUL26-NOV26,DS5010,Film Language,3.00,Dr. Sonali Srivastav,Dr. Sonali Srivastav,10,,1-6,,,
+Design,JUL26-NOV26,DS5013,Design Fundamentals,3.00,Dr. ANKITA ROY,"Dr. ANKITA ROY, Dr. Saurav Khuttiya Deori",24,,1-6,,,
+Design,JUL26-NOV26,DS5019,Design Fundamentals,3.00,Dr. ANKITA ROY,"Dr. Saurav Khuttiya Deori, Dr. ANKITA ROY",14,,1-6,,,
+Design,JUL26-NOV26,DS5020,History of Art & Design,3.00,Prof. Deepak John Mathew,"Dr. Anusmita Das, Prof. Deepak John Mathew",19,,1-6,,,
+Design,JUL26-NOV26,DS5029,History of Design,3.00,Prof. Deepak John Mathew,"Dr. Anusmita Das, Prof. Deepak John Mathew",15,,1-6,,,
+Design,JUL26-NOV26,DS5033,Design Process and Methodology,3.00,Dr. Md Haseen Akhtar,"Dr. Shiva Ji, Dr. Md Haseen Akhtar",24,,1-6,,,
+Design,JUL26-NOV26,DS5039,Design Process and Methodology,3.00,Dr. Md Haseen Akhtar,"Dr. Md Haseen Akhtar, Dr. Shiva Ji",15,,1-6,,,
+Design,JUL26-NOV26,DS5053,Sketchbooks,3.00,Mr Delwyn Jude Remedios,Mr Delwyn Jude Remedios,6,,1-6,,,
+Design,JUL26-NOV26,DS5064,Design Drawing & Sketching,1.00,Mr Delwyn Jude Remedios,Mr Delwyn Jude Remedios,22,,1-6,,,
+Design,JUL26-NOV26,DS5076,Design Lecture Series,1.00,Dr. Sonali Srivastav,Unspecified,34,,1-6,,,
+Design,JUL26-NOV26,DS5086,Internship,2.00,Mr Srikar A V R,Mr Srikar A V R,46,,1-6,,,
+Design,JUL26-NOV26,DS5113,Studio Photography,3.00,Prof. Deepak John Mathew,Prof. Deepak John Mathew,6,,1-6,,,
+Design,JUL26-NOV26,DS5133,Principles of Animation,3.00,Mr Delwyn Jude Remedios,Mr Delwyn Jude Remedios,9,,1-6,,,
+Design,JUL26-NOV26,DS5233,Contemporary Visual Culture,3.00,Mr Neelakantan P K,Mr Neelakantan P K,22,,1-6,,,
+Design,JUL26-NOV26,DS5239,Contemporary Visual Culture,3.00,Mr Neelakantan P K,Mr Neelakantan P K,18,,1-6,,,
+Design,JUL26-NOV26,DS5353,Ergonomics for Industrial Designers,3.00,Mr Srikar A V R,Mr Srikar A V R,6,,1-6,,,
+Design,JUL26-NOV26,DS6076,Design Research Seminar,2.00,Dr. Prasad S Onkar,Dr. Prasad S Onkar,46,,1-6,,,
+Design,JUL26-NOV26,DS6080,Entrepreneurship Skills,2.00,Dr. Anusmita Das,Dr. Anusmita Das,46,,1-6,,,
+Design,JUL26-NOV26,DS6119,MDes Thesis Part 1,12.00,Unspecified,Unspecified,23,,1-6,,,
+Design,JUL26-NOV26,DS6129,MDes Thesis Part 2,12.00,Unspecified,Unspecified,0,,1-6,,,
+Design,JUL26-NOV26,DS6205,Specialization Project 2,3.00,Unspecified,Unspecified,49,,1-6,,,
+Design,JUL26-NOV26,DS6225,Specialization Project 1,3.00,Unspecified,Unspecified,48,,1-6,,,
+Design,JUL26-NOV26,DS7010,Design Research,3.00,Dr. Prasad S Onkar,Dr. Prasad S Onkar,12,,1-6,,,
+Design,JUL26-NOV26,DS7024,Research Project 1,3.00,Prof. Deepak John Mathew,Unspecified,12,,1-6,,,
+Academic,JUL26-NOV26,DT5010,AI for Tactical Systems,3.00,Dr. Nagarajan Ganapathy,Dr. Nagarajan Ganapathy,15,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-7-Capacity:70
+Academic,JUL26-NOV26,DT5020,Sensors for Defence Applications,1.00,Dr. Sushmee Badhulika,Dr. Sushmee Badhulika,16,,1-2,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-7-Capacity:70
+Academic,JUL26-NOV26,DT5030,Control Systems Engineering,1.00,Dr. Allaka Himabindu,Dr. Allaka Himabindu,14,,3-4,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-9-Capacity:66
+Academic,JUL26-NOV26,DT5040,Product Realization Processes,1.00,Prof. Suryakumar S,Prof. Suryakumar S,12,,1-2,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-7-Capacity:70
+Academic,JUL26-NOV26,DT5050,Aerospace Vehicles & Systems,2.00,Dr. Mahesh M S,Dr. Mahesh M S,12,,3-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-6 Capacity:60
+Academic,JUL26-NOV26,DT5060,Introduction to Properties of Materials,2.00,Dr. Shourya Dutta Gupta,"Dr. Rajesh Korla, Dr. Shourya Dutta Gupta, Dr. Varanasi Rama Srinivas",12,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-10-Capacity:68
+Academic,JUL26-NOV26,DT5110,Industry Lectures,1.00,Dr. Suhash Ranjan Dey,Dr. Suhash Ranjan Dey,12,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",
+Electrical Engineering,JUL26-NOV26,EE1010,Mathematics for Electrical Engineers,3.00,Dr. Aditya T Siripuram.,"Dr. Aditya T Siripuram., Dr. Sharma G V V",104,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-08-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE1010,Mathematics for Electrical Engineers,3.00,Dr. Aditya T Siripuram.,"Dr. Aditya T Siripuram., Dr. Sharma G V V",104,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-01-Capacity:72
+Electrical Engineering,JUL26-NOV26,EE1030,Matrix Theory,3.00,Dr. V. Seshadri Sravan Kumar,Dr. V. Seshadri Sravan Kumar,69,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-03-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE1101,Circuits and Network Analysis,3.00,Dr. Vaskar Sarkar,Dr. Vaskar Sarkar,104,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHc-07-Capacity:200
+Electrical Engineering,JUL26-NOV26,EE1202,Digital Circuits,3.00,Dr. Ashudeb Dutta,Dr. Ashudeb Dutta,135,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-12-Capacity:200
+Electrical Engineering,JUL26-NOV26,EE1206,Linear Systems & Signal Processing,3.00,Dr. Vajha Myna,"Dr. Sundaram Vanka, Dr. Vajha Myna",79,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-04-Capacity:200
+Electrical Engineering,JUL26-NOV26,EE1330,Digital Signal Processing,1.00,Dr. Sumohana S Channappayya,Dr. Sumohana S Channappayya,12,,1-2,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",
+Electrical Engineering,JUL26-NOV26,EE2000,Signal Processing,3.00,Dr. Sumohana S Channappayya,Dr. Sumohana S Channappayya,99,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-10-Capacity:72
+Electrical Engineering,JUL26-NOV26,EE2080,Random Processes,1.00,Dr. Anjana A M,Dr. Anjana A M,118,,1-2,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE2100,Matrix Theory,3.00,Dr. V. Seshadri Sravan Kumar,Dr. V. Seshadri Sravan Kumar,35,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-03-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE2104,Semiconductor Device Fundamentals,3.00,Dr. Oves Mohammed Hussein Badami,"Dr. Oves Mohammed Hussein Badami, Dr. Shubhadeep Bhattacharjee",95,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-LH-1-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE2200,Electrical Machines,3.00,Dr. Yemula Pradeep Kumar,Dr. Yemula Pradeep Kumar,291,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CHE-LH-1-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE2301,Electronic Devices and Circuits Lab,2.00,Dr. Gajendranath Chaudhury,Dr. Gajendranath Chaudhury,67,,1-6,AN5_JUL26-NOV26,Friday-14:30-17:25,
+Electrical Engineering,JUL26-NOV26,EE2501,Semiconductor Devices Lab,2.00,Dr. Shubhadeep Bhattacharjee,Dr. Shubhadeep Bhattacharjee,30,,1-6,AN3_JUL26-NOV26,Wednesday-15:30-17:25,
+Electrical Engineering,JUL26-NOV26,EE2503,Numerical Methods for Device Modeling,2.00,Dr. Oves Mohammed Hussein Badami,Dr. Oves Mohammed Hussein Badami,30,,1-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CHE-LH-1-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE2510,Productivity Tools for IC Design,1.00,Dr. Shishir Kumar,Dr. Shishir Kumar,30,,5-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE3004,Current trends in EE,1.00,Dr. Abhinav Kumar,Dr. Abhinav Kumar,98,,1-2,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE3140,Waveguides and Antennas,3.00,Dr. Aneesh S,Dr. Aneesh S,26,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE3150,CMOS digital design,3.00,Dr. Kapil Jainwal,Dr. Kapil Jainwal,1,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",EE-003-GF (40)
+Electrical Engineering,JUL26-NOV26,EE3300,Analog Circuits,3.00,Dr. Abhishek Kumar,Dr. Abhishek Kumar,17,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-LH-1-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE3301,Introduction to VLSI Design,3.00,Dr. Kapil Jainwal,Dr. Kapil Jainwal,102,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-LH-1-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE3500,Electrical Machines Lab,2.00,Dr. Ravikumar Bhimasingu,Dr. Ravikumar Bhimasingu,64,,1-6,AN5_JUL26-NOV26,Friday-14:30-17:25,
+Electrical Engineering,JUL26-NOV26,EE3501,Power Electronics,3.00,Dr. Rupesh Ganpatrao Wandhare,Dr. Rupesh Ganpatrao Wandhare,77,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE3502,IC Design Tapeout,2.00,Dr. Ashudeb Dutta,Dr. Ashudeb Dutta,24,,1-4,,,
+Electrical Engineering,JUL26-NOV26,EE3510,RTL Design and Verification,2.00,Dr. Amit Acharyya,Dr. Amit Acharyya,38,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE3520,Analog IC Design,3.00,Dr. Abhishek Kumar,Dr. Abhishek Kumar,25,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",EE-002(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE3700,Communication Systems,3.00,Dr. Sundaram Vanka,Dr. Sundaram Vanka,78,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",CHE-LH-1-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE3900,Linear Systems and Signal Processing,3.00,Dr. Vajha Myna,"Dr. Vajha Myna, Dr. Sundaram Vanka",2,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-04-Capacity:200
+Electrical Engineering,JUL26-NOV26,EE4015,EE Independent Project,3.00,Unspecified,Unspecified,16,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE4025,EE Independent Project,3.00,Unspecified,Unspecified,2,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE4500,Embedded Systems,3.00,Dr. Shishir Kumar,Dr. Shishir Kumar,39,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",EE-002 GF (80)
+Electrical Engineering,JUL26-NOV26,EE4502,IC Design Test and Characterisation,2.00,Dr. Ashudeb Dutta,Dr. Ashudeb Dutta,25,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5015,MTech RA Thesis Stage 1,2.00,Unspecified,Unspecified,8,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE5025,MTech RA Thesis Stage 2,2.00,Unspecified,Unspecified,6,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE5033,IoT,2.00,Dr. Rajalakshmi P,Dr. Rajalakshmi P,23,,3-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",EE-003-GF (40)
+Electrical Engineering,JUL26-NOV26,EE5035,MTech RA Thesis Stage 3,4.00,Unspecified,Unspecified,9,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE5110,Semiconductor Devices and Modelling,3.00,Dr. KAUSHIK NAYAK,Dr. KAUSHIK NAYAK,81,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE5170,Embedded Programming,3.00,Dr. Shishir Kumar,Dr. Shishir Kumar,2,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",
+Electrical Engineering,JUL26-NOV26,EE5182,VLSI Technology,3.00,Dr. Sushmee Badhulika,Dr. Sushmee Badhulika,67,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE5183,Analog IC Design,3.00,Dr. Nitesh Singhal,Dr. Nitesh Singhal,42,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE5185,System Design Lab,2.00,Dr. Abhishek Kumar,Dr. Abhishek Kumar,1,,1-6,AN1_JUL26-NOV26,Monday-14:30-17:25,
+Electrical Engineering,JUL26-NOV26,EE5193,CMOS Digital Design,3.00,Dr. Kapil Jainwal,Dr. Kapil Jainwal,52,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",EE-002 GF (80)
+Electrical Engineering,JUL26-NOV26,EE5200,Steady State Power System Analysis,3.00,Dr. Ravikumar Bhimasingu,Dr. Ravikumar Bhimasingu,9,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5210,Power Converter Design,3.00,Dr. Jose Titus,Dr. Jose Titus,17,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5230,Power System Dynamics and Control,3.00,Dr. V. Seshadri Sravan Kumar,Dr. V. Seshadri Sravan Kumar,14,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5240,Electrical Machine Analysis and Control,3.00,Dr. Siva Kumar K,Dr. Siva Kumar K,15,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",EE-003-GF (40)
+Electrical Engineering,JUL26-NOV26,EE5350,Error Correcting Codes,3.00,Dr. Anjana A M,Dr. Anjana A M,36,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE5540,Optimal Control,3.00,Dr. Sawant Vishal Sopan,Dr. Sawant Vishal Sopan,12,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE5552,Memory Design,3.00,Dr. Gajendranath Chaudhury,Dr. Gajendranath Chaudhury,1,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5609,Matrix Theory,3.00,Prof. Mohammed Zafar Ali Khan,Prof. Mohammed Zafar Ali Khan,26,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE5610,Pattern Recognition and Machine Learning,3.00,Dr. Soumya Jana,Dr. Soumya Jana,20,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-14-Capacity:200
+Electrical Engineering,JUL26-NOV26,EE5670,High speed Semiconductor Optoelectronics,3.00,Dr. Naresh Kumar Emani,Dr. Naresh Kumar Emani,9,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5750,Quantum Error Correction,3.00,Dr. Lakshmi Prasad N,Dr. Lakshmi Prasad N,11,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5801,CSP Lab,1.00,Dr. Abhinav Kumar,Dr. Abhinav Kumar,18,,1-6,AN4_JUL26-NOV26,Thursday-14:30-17:25,
+Electrical Engineering,JUL26-NOV26,EE5802,DSP Lab,1.00,Prof. Kiran Kumar Kuchi,Prof. Kiran Kumar Kuchi,6,,1-6,AN1_JUL26-NOV26,Monday-14:30-17:25,
+Electrical Engineering,JUL26-NOV26,EE5817,Random Variables and Stochastic Processes,3.00,Dr. Pechetti Sasi Vinay,Dr. Pechetti Sasi Vinay,28,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CHE-LH-2-Capacity:184
+Electrical Engineering,JUL26-NOV26,EE5837,Principles of Digital Communication,3.00,Dr. Abhinav Kumar,Dr. Abhinav Kumar,27,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE5848,Topics in Information Theory & Coding,2.00,Dr. Vajha Myna,Dr. Vajha Myna,5,,3-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",EE-20 (SF) (60)
+Electrical Engineering,JUL26-NOV26,EE5580,Mobile Sensing and Localization,1.00,Dr. Abhinav Kumar,Dr. Abhinav Kumar,,,5-6,P_JUL26-NOV26,"Monday-14:30 -15:55, Thursday- 16:00 -17:25",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE5900,Advanced DSP,3.00,Prof. Kiran Kumar Kuchi,Prof. Kiran Kumar Kuchi,11,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE5996,Industrial Lectures,1.00,Dr. Ashudeb Dutta,Dr. Ashudeb Dutta,56,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6002,Self Study Course 2,3.00,Dr. Shubhadeep Bhattacharjee,Dr. Shubhadeep Bhattacharjee,3,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6015,MTech Thesis stage-1,12.00,Unspecified,Unspecified,33,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6045,MTech RA Thesis Stage 4,4.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6055,MTech RA Thesis Stage 5,4.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6065,MTech RA Thesis Stage 6,8.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6116,MTech Thesis Stage 0,2.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6126,Thesis Stage 1,2.00,Unspecified,Unspecified,1,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6136,Thesis_MTech_ME_VLSI(RA)_Stage-2,4.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6146,Thesis_MTech_ME_VLSI(RA)_Stage-3,4.00,Unspecified,Unspecified,2,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6156,Thesis_MTech_ME_VLSI(RA)_Stage-4,4.00,Unspecified,Unspecified,6,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6166,Thesis_MTech_ME_VLSI(RA)_Stage-5,8.00,Unspecified,Unspecified,1,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6190,Introduction to Advanced Packaging,3.00,Prof. Shiv Govind Singh,Prof. Shiv Govind Singh,14,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CHE-Class Room 221-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE6307,Speech Systems,3.00,Dr. Sri Rama Murty Kodukula,Dr. Sri Rama Murty Kodukula,21,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",EE-004(GF) (80)
+Electrical Engineering,JUL26-NOV26,EE6380,Deep Learning,3.00,Dr. Shashank Vatedka,Dr. Shashank Vatedka,45,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-11-Capacity:120
+Electrical Engineering,JUL26-NOV26,EE6515,MTech Thesis stage-1,12.00,Unspecified,Unspecified,6,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6615,MTech Thesis stage-1,12.00,Unspecified,Unspecified,8,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6635,MTech RA Thesis Stage - 1,12.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6645,MTech RA Thesis Stage - 2,12.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6655,MTech RA Thesis Stage - 3,12.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6715,MTech CSPL Thesis stage - 1,12.00,Unspecified,Unspecified,12,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6725,MTech CSPL Thesis stage - 2,12.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6815,MTech RA CSPL Thesis Stage - 1,1.00,Unspecified,Unspecified,2,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6825,MTech RA CSPL Thesis stage - 2,1.00,Unspecified,Unspecified,5,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6835,MTech RA CSPL Thesis stage - 3,2.00,Unspecified,Unspecified,9,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6845,MTech RA CSPL Thesis stage - 4,4.00,Unspecified,Unspecified,2,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6855,MTech RA CSPL Thesis stage - 5,8.00,Unspecified,Unspecified,1,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6865,MTech RA CSPL Thesis stage - 6,8.00,Unspecified,Unspecified,2,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6901,MTech Thesis Stage-1,12.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6911,MTech RA Thesis Stage-1,1.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6912,MTech RA Thesis Stage 2,2.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6913,MTech RA Thesis Stage 3,2.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6914,MTech RA Thesis Stage 4,4.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6915,MTech Thesis RA Stage 5,8.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE6916,MTech RA Thesis Stage 6,8.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,EE7119,GaN Based Power Converter Design,3.00,Dr. Ashudeb Dutta,Dr. Ashudeb Dutta,6,,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM4040,Lean Startups,1.00,Dr. Jayshree Patnaik,Dr. Jayshree Patnaik,27,59,1-2,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-09-Capacity:72
+Entrepreneurship and Management,JUL26-NOV26,EM5010,Competitive Strategy for Startup,1.00,Dr. Nakul Parameswar,Dr. Nakul Parameswar,46,59,3-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-10-Capacity:68
+Entrepreneurship and Management,JUL26-NOV26,EM5013,Visual Analytics,1.00,Dr. Puram Praveen,Dr. Puram Praveen,64,100,5-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-14-Capacity:200
+Entrepreneurship and Management,JUL26-NOV26,EM5020,Innovation Management,1.00,Dr. Nakul Parameswar,Dr. Nakul Parameswar,85,99,1-2,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-14-Capacity:200
+Entrepreneurship and Management,JUL26-NOV26,EM5040,Game Theory for Startups,1.00,Dr. Lohithaksha Maniraj Maiyar,Dr. Lohithaksha Maniraj Maiyar,46,30,1-2,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-10-Capacity:68
+Entrepreneurship and Management,JUL26-NOV26,EM5050,Decision Modelling,1.00,Dr. Lohithaksha Maniraj Maiyar,Dr. Lohithaksha Maniraj Maiyar,45,59,5-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MAE-LH-10-Capacity:68
+Entrepreneurship and Management,JUL26-NOV26,EM5090,Accounting and Finance for Entrepreneurs,3.00,Dr. Ranapratap Maradana,Dr. Ranapratap Maradana,19,59,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-6-Capacity:68
+Entrepreneurship and Management,JUL26-NOV26,EM5110,Foundations of Techno-Entrepreneurship,3.00,Dr. Jayshree Patnaik,Dr. Jayshree Patnaik,31,59,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-10-Capacity:68
+Entrepreneurship and Management,JUL26-NOV26,EM5120,Economics for Technocrats,1.00,Dr. Ranapratap Maradana,Dr. Ranapratap Maradana,50,59,1-4,,,
+Entrepreneurship and Management,JUL26-NOV26,EM5180,Finance for Engineers,1.00,Dr. Ranapratap Maradana,Dr. Ranapratap Maradana,95,99,5-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-11-Capacity:120
+Entrepreneurship and Management,JUL26-NOV26,EM5270,Entrepreneurial Marketing,3.00,Dr. Rajesh Ittamalla,Dr. Rajesh Ittamalla,23,59,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",LHC-11-Capacity:120
+Entrepreneurship and Management,JUL26-NOV26,EM5330,Fundamentals of ESG for Entrepreneurs,1.00,Dr. M P Ganesh,Dr. M P Ganesh,58,59,3-4,"05-09-2026, 09-10-2026, 31-10-2026, 11-11-2026, 21-11-2026 ",14:00 to 17:00,LHC-10
+Entrepreneurship and Management,JUL26-NOV26,EM5350,Corporate Finance,3.00,Dr. Ranapratap Maradana,Dr. Ranapratap Maradana,14,59,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM5650,Introduction to Sales and Marketing,1.00,Dr. Rajesh Ittamalla,Dr. Rajesh Ittamalla,40,69,3-4,Unspecific,,
+Entrepreneurship and Management,JUL26-NOV26,EM6050,Business Finance,3.00,Dr. Ranapratap Maradana,Dr. Ranapratap Maradana,0,,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM6085,Project Stage I,12.00,Unspecified,Unspecified,20,,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM6900,Advanced Topics in Strategy and Competition,3.00,Dr. Nakul Parameswar,Dr. Nakul Parameswar,2,,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM6920,Advanced Topics in Logistics and Supply Chain Management,3.00,Dr. Lohithaksha Maniraj Maiyar,Dr. Lohithaksha Maniraj Maiyar,2,59,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM6960,Advanced Topics in Entrepreneurship Research,3.00,Dr. Jayshree Patnaik,Dr. Jayshree Patnaik,2,,1-6,,,
+Entrepreneurship and Management,JUL26-NOV26,EM6980,Advanced Research Methodology,3.00,Dr. Puram Praveen,Dr. Puram Praveen,10,10,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",Not Required classroom
+Physics,JUL26-NOV26,EP1108,Modern Physics,2.00,Dr. Vandana Sharma,"Dr. Vandana Sharma, Dr. Divya Sachdeva, Dr. Archak Purkayastha, Dr.",534,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-06-Capacity:320
+Physics,JUL26-NOV26,EP1108,Modern Physics,2.00,Dr. Vandana Sharma,"Dr. Vandana Sharma, Dr. Divya Sachdeva, Dr. Archak Purkayastha, Dr.",,,3-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-05-Capacity:800
+Physics,JUL26-NOV26,EP1118,Maths for Physics,2.00,Dr. Alok Kumar Pan,Dr. Alok Kumar Pan,249,,1-4,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-13-Capacity:320
+Physics,JUL26-NOV26,EP1128,Basic Electric Circuits,2.00,Dr. Mayukh Pahari,Dr. Mayukh Pahari,36,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",PH-3(50)
+Physics,JUL26-NOV26,EP2041,Physics Lab EP-2,2.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,36,,1-6,AN5_JUL26-NOV26,Friday-14:30-17:25,LHC-04-Capacity:
+Engineering Physics,JUL26-NOV26,EP2100,Classical Mechanics,3.00,Dr. Yogesh Kumar Srivastava,Dr. Yogesh Kumar Srivastava,50,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",PH-3(50)
+Engineering Physics,JUL26-NOV26,EP2108,Special Relativity,2.00,Dr. Narendra Sahu,Dr. Narendra Sahu,66,,3-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-10- Capacity 72
+Engineering Physics,JUL26-NOV26,EP2118,Analog Electronics,2.00,Dr. Saket Asthana,Dr. Saket Asthana,40,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",PH-3(50)
+Physics,JUL26-NOV26,EP2130,Mathematical Physics,2.00,Dr. Sangkha Borah,Dr. Sangkha Borah,42,,3-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-09-Capacity:72
+Engineering Physics,JUL26-NOV26,EP3110,Electrodynamics,3.00,Dr. Shantanu Desai,Dr. Shantanu Desai,36,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",PH-2(60)
+Engineering Physics,JUL26-NOV26,EP3120,Statistical Mechanics,3.00,Dr. Kiritkumar Makwana,Dr. Kiritkumar Makwana,35,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",PH-3(50)
+Engineering Physics,JUL26-NOV26,EP3200,Solid State Physics,3.00,Dr. Arabinda Haldar,Dr. Arabinda Haldar,39,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",PH-1-(80)
+Engineering Physics,JUL26-NOV26,EP3205,Project-2,3.00,Unspecified,Unspecified,4,,1-6,,,
+Engineering Physics,JUL26-NOV26,EP3210,Quantum Mechanics-II,3.00,Dr. Manish Kumar Niranjan,Dr. Manish Kumar Niranjan,39,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",PH-1-(80)
+Engineering Physics,JUL26-NOV26,EP3230,Atomic and Molecular Physics,3.00,Dr. Jyoti Ranjan Mohanty,Dr. Jyoti Ranjan Mohanty,34,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",PH-2(60)
+Engineering Physics,JUL26-NOV26,EP4071,Physics Lab (EP),2.00,Dr. Kanchana V,Dr. Kanchana V,31,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Physics,JUL26-NOV26,EP4108,Nuclear Physics,2.00,Dr. Saurabh Sandilya,Dr. Saurabh Sandilya,32,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",PH-2(60)
+Engineering Physics,JUL26-NOV26,EP4185,EP Honors Project,3.00,Unspecified,Unspecified,14,,1-6,,,
+Engineering Physics,JUL26-NOV26,EP4210,Computational Physics,3.00,Dr. Nithyanandan Kanagaraj,"Dr. Srabani Kar, Dr. Nithyanandan Kanagaraj, Dr. Kiritkumar Makwana",40,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",PH-3(50)
+Physics,JUL26-NOV26,EP4285,Honors Project II,3.00,Unspecified,Unspecified,1,,1-6,,,
+Physics,JUL26-NOV26,EP4350,Gravitation and Cosmology,3.00,Dr. Shubho Ranjan Roy,Dr. Shubho Ranjan Roy,7,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-9-Capdaity:68
+Physics,JUL26-NOV26,EP4590,Plasma Physics and MHD,3.00,Dr. Bhuvanesh Ramakrishna,Dr. Bhuvanesh Ramakrishna,0,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",PH-2(60)
+Engineering Physics,JUL26-NOV26,EP4710,Particle Physics,3.00,Prof. Anjan Kumar Giri,Prof. Anjan Kumar Giri,33,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",PH-2(60)
+Engineering Physics,JUL26-NOV26,EP47150,Open quantum systems,3.00,Dr. Archak Purkayastha,Dr. Archak Purkayastha,0,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-2-Capopity:68
+Physics,JUL26-NOV26,EP5201,Core-EP Lab-5,2.00,Dr. Jyoti Ranjan Mohanty,"Dr. Mayukh Pahari, Dr. Jyoti Ranjan Mohanty",28,,1-6,FN3_JUL26-NOV26,Wednesday-09:00-11:55,LHC-04-Capacity:
+Engineering Science,JUL26-NOV26,ES3305,ES Project,3.00,Unspecified,Unspecified,5,,1-6,,,
+Engineering Science,JUL26-NOV26,ES3315,ES Project,3.00,Unspecified,Unspecified,2,,1-6,,,
+Engineering Science,JUL26-NOV26,ES4305,ES Project,3.00,Unspecified,Unspecified,1,,1-6,,,
+Engineering Science,JUL26-NOV26,ES4315,ES Project,3.00,Unspecified,Unspecified,0,,1-6,,,
+Energy Science and Technology,JUL26-NOV26,ET5010,Fundamentals of Electrochemistry,2.00,Dr. Narendra Kurra,Dr. Narendra Kurra,11,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-9-Capdaity:68
+Energy Science and Technology,JUL26-NOV26,ET5020,"Electrochemical Energy Storage Systems: Batteries, Fuel Cells and",3.00,Dr. Surendra Kumar Martha,Dr. Surendra Kumar Martha,12,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-9-Capdaity:68
+Energy Science and Technology,JUL26-NOV26,ET5030,Non-Conventional Energy Sources and Environment,2.00,Dr. Sivakumar Vaidyanathan,Dr. Sivakumar Vaidyanathan,6,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-9-Capdaity:68
+Energy Science and Technology,JUL26-NOV26,ET5040,Energy Management,1.00,Dr. Yemula Pradeep Kumar,Dr. Yemula Pradeep Kumar,148,,5-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-9-Capdaity:68
+Energy Science and Technology,JUL26-NOV26,ET5050,Material Synthesis and Characterization,1.00,Dr. Suresh Perumal,Dr. Suresh Perumal,10,,5-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-9-Capdaity:68
+Energy Science and Technology,JUL26-NOV26,ET5060,Bio-Energy,2.00,Dr. Debaprasad Shee,Dr. Debaprasad Shee,10,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-9-Capdaity:68
+Energy Science and Technology,JUL26-NOV26,ET5280,Industrial Lecture Series,1.00,Dr. Suresh Perumal,Dr. Suresh Perumal,22,,1-6,,,
+Energy Science and Technology,JUL26-NOV26,ET6015,Thesis Stage 1,12.00,Unspecified,Unspecified,15,,1-6,,,
+Academic,JUL26-NOV26,EV5019,Mechanical Design of EV,2.00,Dr. Prabhat Kumar,Dr. Prabhat Kumar,2,,3-6,,,
+Academic,JUL26-NOV26,EV5029,Testing and Certification of EV,1.00,Dr. Nishanth Dongari,Dr. Nishanth Dongari,6,,1-6,,,
+Academic,JUL26-NOV26,EV5049,Power Converter Design,3.00,Dr. Jose Titus,Dr. Jose Titus,5,,1-6,,,
+Academic,JUL26-NOV26,EV5089,Embedded Programming,3.00,Dr. Shishir Kumar,Dr. Shishir Kumar,2,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,EV5099,"Electrochemical Energy Storage Systems: Batteries, Fuel Cells and",3.00,Dr. Surendra Kumar Martha,Dr. Surendra Kumar Martha,1,,1-6,,,
+Academic,JUL26-NOV26,EV5109,Energy Management,1.00,Dr. Yemula Pradeep Kumar ,Dr. Yemula Pradeep Kumar ,4,,1-6,,,
+Academic,JUL26-NOV26,EV5199,Vehicle Dynamics and Modelling,3.00,Dr. Prabhat Kumar,Dr. Prabhat Kumar,0,,1-6,ID1171_JUL26-NOV26_3,"Thursday-14:30-15:55,Thursday-13:01-14:25",LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,EV6115,M.Tech Thesis Stage-I,12.00,Unspecified,Unspecified,5,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,EV6125,M.Tech Thesis Stage-II,12.00,Unspecified,Unspecified,2,,1-6,,,
+E-Waste Resource and Engineering Management,JUL26-NOV26,EW5010,Introduction to Waste Management,3.00,Dr. Gande Vamsi Vikram,Dr. Gande Vamsi Vikram,6,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CHE-Class Room 112-Capacity:80
+E-Waste Resource and Engineering Management,JUL26-NOV26,EW5015,Thesis Stage-I,12.00,Unspecified,Unspecified,8,,1-6,,,
+E-Waste Resource and Engineering Management,JUL26-NOV26,EW5033,Life Cycle Analysis in Waste Management,2.00,Dr. Ambika S,Dr. Ambika S,12,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CHE-Class Room 111-Capacity:70
+E-Waste Resource and Engineering Management,JUL26-NOV26,EW5140,Physical Separation Technique for Recycling,2.00,Dr. Amit Barnwal,Dr. Amit Barnwal,5,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-Class Room 111-Capacity:70
+E-Waste Resource and Engineering Management,JUL26-NOV26,EW6101,E-Waste Laboratory,1.00,Dr. Ambika S,"Dr. Amit Barnwal, Dr. Ambika S, Dr. Gande Vamsi Vikram",6,,5-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CHE-Class Room 119-Capacity:108
+Heritage Science & Technology,JUL26-NOV26,HT5000,Elements of Indian Heritage,2.00,Dr. Mohan Raghavan,Dr. Mohan Raghavan,19,,1-4,,,
+Heritage Science & Technology,JUL26-NOV26,HT5010,Control Systems and Human Body,1.00,Dr. Kousik Sarathy Sridharan,Dr. Kousik Sarathy Sridharan,6,,5-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5013,Introductory Mathematics for Engineers,2.00,Dr. Mohd Suhail Rizvi,Dr. Mohd Suhail Rizvi,17,,1-4,,,
+Heritage Science & Technology,JUL26-NOV26,HT5015,Thesis Stage-1,12.00,Unspecified,Unspecified,2,,1-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5020,Human Anatomy & Physiology,1.00,Dr. Aravind Kumar Rengan,Dr. Aravind Kumar Rengan,7,,1-2,,,
+Heritage Science & Technology,JUL26-NOV26,HT5023,Introduction to Software Programming,1.00,Dr. Upadrasta Ramakrishna,Dr. Upadrasta Ramakrishna,4,,1-2,,,
+Heritage Science & Technology,JUL26-NOV26,HT5025,Thesis Stage-2,12.00,Unspecified,Unspecified,3,,1-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5030,Brain & Neuroscience,1.00,Dr. Mohan Raghavan,Dr. Mohan Raghavan,8,,1-2,,,
+Heritage Science & Technology,JUL26-NOV26,HT5033,Machine Learning Fundamentals,2.00,Dr. Nagarajan Ganapathy,Dr. Nagarajan Ganapathy,18,,3-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5040,Sāṃkhya,1.00,Dr. Mohan Raghavan,Unspecified,7,,3-4,,,
+Heritage Science & Technology,JUL26-NOV26,HT5043,Instrumentation for Human Electrophysiology,1.00,Dr. Kousik Sarathy Sridharan,Dr. Kousik Sarathy Sridharan,5,,5-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5063,Automata & Compilers,2.00,Dr. Upadrasta Ramakrishna,Dr. Upadrasta Ramakrishna,2,,3-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5080,Neuroimaging,1.00,Dr. Mohan Raghavan,Unspecified,7,,3-4,,,
+Heritage Science & Technology,JUL26-NOV26,HT5100,Paninian Grammar,2.00,Dr. Upadrasta Ramakrishna,Unspecified,2,,3-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5110,Phonetics and Prosody in Indic Heritage Texts,1.00,Dr. Upadrasta Ramakrishna,Unspecified,3,,5-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5113,Digital Documentation of Heritage Structures,2.00,Dr. Shiva Ji,Dr. Shiva Ji,10,,1-4,,,
+Heritage Science & Technology,JUL26-NOV26,HT5140,Principles of Town Planning,2.00,Dr. Mohan Raghavan,Unspecified,9,,3-6,,,
+Heritage Science & Technology,JUL26-NOV26,HT5190,Building Materials in Heritage Structures,2.00,Dr. Mohan Raghavan,Unspecified,11,,3-6,,,
+Chemistry,JUL26-NOV26,IC1010,Industrial Organic Chemistry-I,3.00,Prof. Faiz Ahmed Khan,Prof. Faiz Ahmed Khan,34,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CY-LH-2-Capacity:40
+Chemistry,JUL26-NOV26,IC2010,Industrial Organic Chemistry-II,3.00,Dr. Natte Kishore,"Dr. Natte Kishore, Dr. Satyanarayana G",28,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-12-Capacity:200
+Chemistry,JUL26-NOV26,IC2011,Industrial Chemistry Lab-I,2.00,Dr. Ashish Kulkarni,"Dr. Ashish Kulkarni, Dr. Surendra Kumar Martha",30,,1-6,AN1_JUL26-NOV26,Monday-14:30-17:25,LHC-04-Capacity:
+Chemistry,JUL26-NOV26,IC2020,Introduction to Biochemistry,2.00,Dr. Abhijit Sau,"Dr. Anup Bhunia, Dr. Abhijit Sau",31,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CY-LH-1-Capacity:30
+Chemistry,JUL26-NOV26,IC2030,Thermodynamics-II,3.00,Dr. Ashish Kulkarni,Dr. Ashish Kulkarni,28,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-02-Capacity:72
+Chemistry,JUL26-NOV26,IC2060,Petroleum and Petrochemicals,2.00,Dr. Anup Bhunia,Dr. Anup Bhunia,15,,1-4,,,CY-LH-1-Capacity:30
+Chemistry,JUL26-NOV26,IC3010,Material Science-I,3.00,Dr. Jai Prakash,Dr. Jai Prakash,25,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",CY-LH-2-Capacity:40
+Chemistry,JUL26-NOV26,IC3011,Industrial Chemical Methods Lab,1.00,Dr. M Annadhasan,Dr. M Annadhasan,24,,1-6,AN3_JUL26-NOV26,Wednesday-15:30-17:25,LHC-04-Capacity:
+Chemistry,JUL26-NOV26,IC3013,Numerical and Computational Chemistry,3.00,Dr. Debasish Koner,"Dr. Saurabh Kumar Singh, Dr. Arup Mahata, Dr. Debasish Koner",26,,1-6,FN2_JUL26-NOV26,Tuesday-09:00-11:55,LHC-04-Capacity:
+Chemistry,JUL26-NOV26,IC3020,Electrochemical Energy Conversion,3.00,Dr. Koyel Banerjee Ghosh,Dr. Koyel Banerjee Ghosh,13,,1-6,,,CY-LH-1-Capacity:30
+Chemistry,JUL26-NOV26,IC3023,Machine Learning in Chemistry,3.00,Dr. Debasish Koner,Dr. Debasish Koner,27,,1-6,FN5_JUL26-NOV26,Friday-09:00-11:55,LHC-04-Capacity:
+Chemistry,JUL26-NOV26,IC3030,Chemical Kinetics and Surface Chemistry,3.00,Dr. Sudarsanam Putla,"Dr. Surendra Kumar Martha, Dr. Sudarsanam Putla",25,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",CY-LH-2-Capacity:40
+Chemistry,JUL26-NOV26,IC4010,Introduction to Drug Design,2.00,Dr. Ashutosh Kumar Mishra,Dr. Ashutosh Kumar Mishra,22,,1-4,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",CY-LH-2-Capacity:40
+Chemistry,JUL26-NOV26,IC4011,Techniques in Industrial Chemistry Lab,2.00,Dr. Krishna Gavvala,"Dr. Krishna Gavvala, Dr. Tarali Devi",22,,1-4,AN2_JUL26-NOV26,Tuesday-14:30-17:25,
+Chemistry,JUL26-NOV26,IC4016,Industry Lecture Series,1.00,Dr. Venkata Rao Kotagiri,"Dr. Venkata Rao Kotagiri, Prof. C Malla Reddy",23,,1-6,AN3_JUL26-NOV26,Wednesday-15:30-17:25,LHC-04-Capacity:
+Chemistry,JUL26-NOV26,IC4020,Materials Science-II,3.00,Dr. M Annadhasan,"Dr. M Annadhasan, Dr. Sivakumar Vaidyanathan",22,,6-Jan,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CY-LH-2-Capacity:40
+Chemistry,JUL26-NOV26,IC4030,Polymer Science-II,3.00,Dr. Priyadarshi Chakraborty,Dr. Priyadarshi Chakraborty,22,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-09-Capacity:72
+Materials Science & Metallurgical Engineering,JUL26-NOV26,IC5016,Thesis Stage I,12.00,Unspecified,Unspecified,0,,1-6,,,
+Materials Science & Metallurgical Engineering,JUL26-NOV26,IC5116,Thesis Stage II,12.00,Unspecified,Unspecified,0,,1-6,,,
+Electrical Engineering,JUL26-NOV26,ID1006,Ethics for Engineering Education,1.00,Dr. Siva Rama Krishna Vanjari,Dr. Siva Rama Krishna Vanjari,39,,5-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-08-Capacity:120
+Academic,JUL26-NOV26,ID1036.,Mental Well-Being & Resilience,1.00,Dr. Neeraj . Kumar,Dr. Neeraj . Kumar,507,,1-2,,,
+Civil Engineering,JUL26-NOV26,ID1041,Engineering Drawing,2.00,Dr. Shruti Upadhyaya,Dr. Shruti Upadhyaya,233,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,LHC-06-Capacity:320
+Computer Science and Engineering,JUL26-NOV26,ID1063,Introduction to Programming,3.00,Dr. N R Aravind,"Dr. N R Aravind, Dr. Rakesh Venkat",655,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-05-Capacity:800
+Mechanical and Aerospace Engineering,JUL26-NOV26,ID1171,Fabrication Lab - I,2.00,Dr. Anirban Naskar,Dr. Anirban Naskar,157,,1-6,ID1171_JUL26-NOV26_2,"Thursday-11:00-12:55,Thursday-13:00-14:00",LHC-04-Capacity:
+Computer Science and Engineering,JUL26-NOV26,ID2230,Data Structures & Applications,3.00,Dr. Subrahmanyam Kalyanasundaram,"Dr. Subrahmanyam Kalyanasundaram, Dr. Maunendra Sankar Desarkar",351,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-05-Capacity:800
+Integrated Circuits & Microsystems Packaging,JUL26-NOV26,IP5010,Fatigue and Fracture in Electronic Packaging,3.00,Unspecified,Unspecified,10,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",
+Integrated Circuits & Microsystems Packaging,JUL26-NOV26,IP5015,MTech Thesis-I,12.00,Unspecified,Unspecified,11,,1-6,,,
+Integrated Sensor System,JUL26-NOV26,IS5015,Thesis Stage 1,12.00,Unspecified,Unspecified,0,,1-6,,,
+Integrated Sensor System,JUL26-NOV26,IS5035,Thesis Stage 1,6.00,Unspecified,Unspecified,0,,1-6,,,
+Integrated Sensor System,JUL26-NOV26,IS5055,Thesis Stage 3,6.00,Unspecified,Unspecified,0,,1-6,,,
+Liberal Arts,JUL26-NOV26,LA1030,Introductory Economics,1.00,Dr. Badri Narayan Rath,Dr. Badri Narayan Rath,149,149,3-4,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHc-07-Capacity:200
+Liberal Arts,JUL26-NOV26,LA1210,Spoken Japanese Basics,1.00,Dr. Anandita Pan,Unspecified,200,200,1-2,LA1210_JUL26-NOV26,"Tuesday-17:31-19:00,Wednesday-17:31-19:00,Friday-17:31-19:00,Thursday-17:31-19:00,",LHC-04-Capacity:200
+Liberal Arts,JUL26-NOV26,LA1260,Fundamentals of Organizational Structure,1.00,Dr. M P Ganesh,Dr. M P Ganesh,120,120,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-08-Capacity:120
+Liberal Arts,JUL26-NOV26,LA1760,Communication Skills,2.00,Dr. Srirupa Chatterjee,Dr. Srirupa Chatterjee,708,,3-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-13- Capacity -320
+Liberal Arts,JUL26-NOV26,LA1760,Communication Skills,2.00,Dr. Shuhita Bhattacharjee,Dr. Shuhita Bhattacharjee,708,,3-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-06- Capacity -320
+Liberal Arts,JUL26-NOV26,LA1760,Communication Skills,2.00,Dr. Anandita Pan,Dr. Anandita Pan,708,,3-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-05-Capacity:800
+Liberal Arts,JUL26-NOV26,LA1830,Introduction to Cognitive Science,1.00,Dr. Neeraj . Kumar,Dr. Neeraj . Kumar,150,151,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-04-Capacity:200
+Liberal Arts,JUL26-NOV26,LA1860,Psychology for Everyday Life,1.00,Dr. Amrita Deb,Dr. Amrita Deb,131,100,3-4,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-08-Capacity:120
+Liberal Arts,JUL26-NOV26,LA1910,Introduction to Queer Studies,1.00,Dr. Chandan Bose,Dr. Chandan Bose,127,127,5-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-08-Capacity:120
+Liberal Arts,JUL26-NOV26,LA1920,Courts and Lawyers,1.00,Dr. Anindita Majumdar,Dr. Anindita Majumdar,120,121,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-11-Capacity:120
+Liberal Arts,JUL26-NOV26,LA1930,The Biology of Language,1.00,Dr. Prakash Chandra Mondal,Dr. Prakash Chandra Mondal,120,120,3-4,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-11-Capacity:120
+Liberal Arts,JUL26-NOV26,LA2010,Biodiversity Conservation in Contemporary India,1.00,Dr. Rashmi Singh,Dr. Rashmi Singh,111,111,1-2,LA2010_JUL26-NOV26,Saturday-10:00-12:55,LHC-07-Capacity:200
+Liberal Arts,JUL26-NOV26,LA2200,Introduction to Health Economics,1.00,Dr. Gaurav Dhamija,Dr. Gaurav Dhamija,150,150,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-06-Capacity:320
+Liberal Arts,JUL26-NOV26,LA4110,"Work, Technology and Society: Assembly Lines to Algorithms",3.00,Dr. Aardra Surendran,Dr. Aardra Surendran,67,71,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",LHC-10-Capacity:72
+Liberal Arts,JUL26-NOV26,LA4120,Working in Cross-Cultural Context,1.00,Dr. M P Ganesh,Dr. M P Ganesh,50,50,3-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-09-Capacity:72
+Liberal Arts,JUL26-NOV26,LA4130,Ancient and Medieval Plitical Philosohpy and the Questions of,3.00,Dr. Indira Jalli,Dr. Indira Jalli,147,150,1-6,LA4130_JUL26-NOV26,"Tuesday-14:30-15:55,Monday-14:30-15:55",LA-003 (Capacity -80)
+Liberal Arts,JUL26-NOV26,LA5010,Macroeconomics,3.00,Dr. Prabheesh K P,Dr. Prabheesh K P,73,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-02 (Capacity-72)
+Liberal Arts,JUL26-NOV26,LA5025,MA Internship,6.00,Unspecified,Unspecified,8,,1-6,,,
+Liberal Arts,JUL26-NOV26,LA5030,Basic Econometrics and Forecasting,3.00,Dr. Badri Narayan Rath,Dr. Badri Narayan Rath,28,40,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LA-003 (Capacity -80)
+Liberal Arts,JUL26-NOV26,LA5035,Research Proposal Development,2.00,Unspecified,Unspecified,8,,1-6,,,
+Liberal Arts,JUL26-NOV26,LA5045,Seminar Series,1.00,Unspecified,Unspecified,8,,1-6,,,
+Liberal Arts,JUL26-NOV26,LA5080,"Cultural Perspectives on Development: Race, Class, Gender",3.00,Dr. Shuhita Bhattacharjee,Dr. Shuhita Bhattacharjee,2,,1-6,LA5080_JUL26-NOV26,Tuesday-09:00-11:55,LA-005 (Capacity - 75)
+Liberal Arts,JUL26-NOV26,LA5090,Media and Development,3.00,Dr. Haripriya Narasimhan,Dr. Haripriya Narasimhan,12,,1-6,LA 5090_JUL26-NOV26,Friday-10:00-13:00,LHC-14-Capacity:200
+Liberal Arts,JUL26-NOV26,LA5110,Principles of Economics,3.00,Dr. Badri Narayan Rath,Dr. Badri Narayan Rath,15,22,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-7-Capacity:70
+Liberal Arts,JUL26-NOV26,LA5120,Health and Society,3.00,Dr. Shubha Ranganathan,Dr. Shubha Ranganathan,10,,1-6,LA5120_JUL26-NOV26,"Friday-10:31-11:55,Wednesday-10:31-11:55",CHE-114
+Liberal Arts,JUL26-NOV26,LA5190,Development Economics,3.00,Dr. Gaurav Dhamija,Dr. Gaurav Dhamija,1,10,1-6,"Every Tuesday and Friday
+10:30 to 11:55","Tuesday 10:30 to 11:55 
+Friday    10:30 to 11:55","LA-003 (Capacity-80)
+LA-005 (Capacity - 75)"
+Liberal Arts,JUL26-NOV26,LA6015,Advanced Topics in xxxxx (LA),3.00,Unspecified,Unspecified,7,,1-6,,,
+Liberal Arts,JUL26-NOV26,LA6065,Advanced Topics in xxxx II,3.00,Unspecified,Unspecified,0,,1-6,,,
+Liberal Arts,JUL26-NOV26,LA6090,Contemporary India,3.00,Dr. Aalok Dinkar Khandekar,Dr. Aalok Dinkar Khandekar,13,,1-6,LA6090_JUL26-NOV26,Monday-10:00-13:00,LA-003 (Capacity -80)
+Liberal Arts,JUL26-NOV26,LA6130,Issues in International Finance,3.00,Dr. Prabheesh K P,Dr. Prabheesh K P,0,,1-6,,,"Monday LA-005
+ Friday LA-003"
+Liberal Arts,JUL26-NOV26,LA6143,Quantitative Research Methods for Behavioural Sciences,3.00,Dr. Neeraj . Kumar,Dr. Neeraj . Kumar,12,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LA-005 (Capacity - 75)
+Liberal Arts,JUL26-NOV26,LA6150,Relational Influences on Health,3.00,Dr. Mahati Chittem,Dr. Mahati Chittem,9,,1-6,,,LA-005 (Capacity - 75)
+Liberal Arts,JUL26-NOV26,LA6270,Chronic Disease Management,3.00,Dr. Mahati Chittem,Dr. Mahati Chittem,3,,1-6,LA6270_JUL26-NOV26,"Wednesday-09:00-10:25,Wednesday-08:01-08:59",LA-003 (Capacity -80)
+Liberal Arts,JUL26-NOV26,LA6510,Development Theory and Practice,3.00,Dr. Amrita Datta,Dr. Amrita Datta,5,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LA-005 (Capacity - 75)
+Liberal Arts,JUL26-NOV26,LA6570,The Rise of Postsecular Studies in Literary Theory: Reviewing,3.00,Dr. Shuhita Bhattacharjee,Dr. Shuhita Bhattacharjee,2,,1-6,,,LA-003 (Capacity -80)
+Liberal Arts,JUL26-NOV26,LA6590,Natural Language and Natural Meaning,3.00,Dr. Prakash Chandra Mondal,Dr. Prakash Chandra Mondal,0,,1-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,MAE-LH-6-Capacity:60
+Liberal Arts,JUL26-NOV26,LA6610,Labour and Development,3.00,Dr. Aardra Surendran,Dr. Aardra Surendran,9,,1-6,LA6610_JUL26-NOV26,Wednesday-10:30-13:25,MAE-LH-8-Capacity-40
+Liberal Arts,JUL26-NOV26,LA6680,Public Finance and Public Policy,3.00,Dr. Dinabandhu Sethi,Dr. Dinabandhu Sethi,24,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-6-Capacity:60
+Liberal Arts,JUL26-NOV26,LA6770,Feminisms in India,3.00,Dr. Anandita Pan,Dr. Anandita Pan,10,,1-6,LA6770_JUL26-NOV26,"Tuesday-14:00-15:30,Wednesday-14:30-15:29",CHE-114-Capacity-36
+Liberal Arts,JUL26-NOV26,LA6880,Trauma informed research practices,3.00,Dr. Amrita Deb,Dr. Amrita Deb,2,,1-6,,,CHE-Class Room 114-Capacity:36
+Mechanical and Aerospace Engineering,JUL26-NOV26,LW5010,Introduction to Lightweighting,2.00,Dr. Muvvala Gopinath,"Dr. Ramji M, Dr. Gangadharan R, Dr. Muvvala Gopinath",6,,3-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE LH-4 (Capacity 60)
+Center for Interdisciplinary Programs,JUL26-NOV26,LW5015,M.Tech Thesis Stage 1,12.00,Unspecified,Unspecified,8,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,LW5016,Industry Lecture,1.00,Dr. Mayur Vaidya,Dr. Mayur Vaidya,4,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,LW5020,Topology Optimization,3.00,Dr. Prabhat Kumar,Dr. Prabhat Kumar,7,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-7
+Materials Science & Metallurgical Engineering,JUL26-NOV26,LW5030,Fundamentals of light weight alloys,3.00,Dr. Pinaki Prasad Bhattacharjee,Dr. Pinaki Prasad Bhattacharjee,6,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MSME-LH-2-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,LW5070,Automotive Materials Part-I,2.00,Unspecified,Unspecified,4,,3-6,,,
+Materials Science & Metallurgical Engineering,JUL26-NOV26,LW5130,Fracture Fatigue and Creep,2.00,Dr. Rajesh Korla,Dr. Rajesh Korla,5,,3-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MSME-LH-3-Capacity:106
+Mathematics,JUL26-NOV26,MA1000,Math Foundation,3.00,Dr. Mrinmoy Datta,Dr. Mrinmoy Datta,35,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA1110,Calculus-I,1.00,Dr. Prasun Roychowdhury,"Dr. Prasun Roychowdhury, Dr. Dhriti Sundar Patra",542,,1-2,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-06-Capacity:320
+,JUL26-NOV26,MA1110,Calculus-I,1.00,Dr. Prasun Roychowdhury,"Dr. Prasun Roychowdhury, Dr. Dhriti Sundar Patra",,,1-2,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-13-Capacity:320
+Mathematics,JUL26-NOV26,MA1130,Vector Calculus,1.00,Dr. Prasun Roychowdhury,Dr. Prasun Roychowdhury,43,,5-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-06-Capacity:320
+Mathematics,JUL26-NOV26,MA1220,Calculus-II,1.00,Dr. Sukumar D,Dr. Sukumar D,542,,3-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-06-Capacity:320
+,JUL26-NOV26,MA1220,Calculus-II,1.00,Dr. Sukumar D,Dr. Rajesh Khannan,,,3-4,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-13-Capacity:320
+Mathematics,JUL26-NOV26,MA2110,Introduction to Probability,1.00,Dr. Amit Tripathi,Dr. Amit Tripathi,285,,1-2,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-04-Capacity:200
+Mathematics,JUL26-NOV26,MA2120,Transform Techniques,1.00,Dr. Balasubramaniam Jayaram,Dr. Balasubramaniam Jayaram,343,,3-4,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-05-Capacity:800
+Mathematics,JUL26-NOV26,MA2150,Introduction to Metric Spaces,1.00,Unspecified,Unspecified,91,,5-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-04-Capacity:200
+Mathematics,JUL26-NOV26,MA2233,Data Structures and Applications Lab,3.00,Dr. Vikas Krishnamurthy,Dr. Vikas Krishnamurthy,39,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-9-Capdaity:68
+Mathematics,JUL26-NOV26,MA2540,Probability Theory,3.00,Dr. Arunabha Majumdar,Dr. Arunabha Majumdar,31,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-10-Capprity:68
+Mathematics,JUL26-NOV26,MA2550,Linear Algebra,3.00,Dr. Aiyappan S,Dr. Aiyappan S,111,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",LHC-03-Capacity:120
+Mathematics,JUL26-NOV26,MA3010,Real Analysis,3.00,Dr. Tanmoy Paul,Dr. Tanmoy Paul,31,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA3060,Numerical Analysis,3.00,Dr. Lakshmi Narayana P A,Dr. Lakshmi Narayana P A,127,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-04-Capacity:200
+Academic,JUL26-NOV26,MA3070,Algebra I - Groups and Rings,3.00,Dr. Pradipto Banerjee,Dr. Pradipto Banerjee,33,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4010,Real Analysis,3.00,Dr. Sukumar D,Dr. Sukumar D,36,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4020,Linear Algebra,3.00,Dr. Deepak Kumar Pradhan,Dr. Deepak Kumar Pradhan,52,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4040,Probability Theory,3.00,Dr. Arunabha Majumdar,Dr. Arunabha Majumdar,33,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4050,Combinatorics and Graph Theory,3.00,Dr. M Rajesh Kannan,Dr. M Rajesh Kannan,29,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4060,Complex Analysis,3.00,Dr. Venkata Ganapathi Narasimha Kumar Ch,Dr. Venkata Ganapathi Narasimha Kumar Ch,30,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4070,Algebra I - Groups and Rings,3.00,Dr. Sourjya Banerjee,Dr. Sourjya Banerjee,31,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA4520,Positive Definite Matrices,3.00,Dr. Ramesh G,Dr. Ramesh G,13,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MA-114 (Capacity -30)
+Mathematics,JUL26-NOV26,MA4715,Credited Research Project - II,3.00,Unspecified,Unspecified,10,,1-6,,,
+Mathematics,JUL26-NOV26,MA5010,Combinatorics and Graph theory,3.00,Dr. M Rajesh Kannan,Dr. M Rajesh Kannan,31,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA5020,Functional Analysis,3.00,Dr. Venku Naidu Dogga,Dr. Venku Naidu Dogga,57,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA5030,Partial Differential Equations,3.00,Dr. Jyotirmoy Rana,Dr. Jyotirmoy Rana,64,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA5060,Numerical Analysis,3.00,Dr. Lakshmi Narayana P A,Dr. Lakshmi Narayana P A,35,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-04-Capacity:200
+Mathematics,JUL26-NOV26,MA5120,Numerical Linear Algebra,3.00,Dr. Subrahmanya Sastry Challa,Dr. Subrahmanya Sastry Challa,27,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MA-01 (Capacity -56)
+Mathematics,JUL26-NOV26,MA5143,Predictive Modelling,3.00,Dr. Sayantee Jana,Dr. Sayantee Jana,59,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA5300,Algebraic Graph Theory,3.00,Dr. M Rajesh Kannan,Dr. M Rajesh Kannan,1,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",
+Mathematics,JUL26-NOV26,MA5315,Project I,3.00,Unspecified,Unspecified,17,,1-6,,,
+Mathematics,JUL26-NOV26,MA5570,Commutative Algebra,3.00,Dr. Neeraj Kumar,Dr. Neeraj Kumar,15,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA6040,Fuzzy Logic Connectives And Application,3.00,Dr. Balasubramaniam Jayaram,Dr. Balasubramaniam Jayaram,21,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA6200,Topics in Differential Equations,3.00,Dr. Bhakti Bhusan Manna,Dr. Bhakti Bhusan Manna,6,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MA-02 (Capacity -56)
+Mathematics,JUL26-NOV26,MA7020,Commutative Algebra II,3.00,Dr. Neeraj Kumar,Dr. Neeraj Kumar,1,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MA-114 (Capacity -30)
+Mathematics,JUL26-NOV26,MA7143,Topics in Statistics,3.00,Dr. Sameen Naqvi,Dr. Sameen Naqvi,6,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MA-114 (Capacity -30)
+Medical Device Innovation,JUL26-NOV26,MD5520,Physio-Anatomy and Patho-Physiology of Diseases,3.00,Dr. Aravind Kumar Rengan,Dr. Aravind Kumar Rengan,12,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",CHE-Class Room 117-Capacity:84
+Medical Device Innovation,JUL26-NOV26,MD6116,Design Thinking,2.00,Dr. Renu John,Dr. Renu John,11,,1-4,,,
+Medical Device Innovation,JUL26-NOV26,MD6155,Clinical Immersion (Stage I),2.00,Dr. Renu John,Dr. Renu John,10,,1-6,,,
+Medical Device Innovation,JUL26-NOV26,MD6193,3-D Rapid Prototyping and Modelling,3.00,Dr. Falguni Pati,Dr. Falguni Pati,16,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-08-Capacity:120
+Medical Device Innovation,JUL26-NOV26,MD6355,Capstone Project (Stage II),12.00,Unspecified,Unspecified,11,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME1060,Introduction to Mechanical and Aerospace Engineering,3.00,Prof. Suryakumar S,"Dr. Syed Nizamuddin Khaderi, Prof. Suryakumar S, Dr. Harish Nagaraj Dixit",65,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-15 - Capacity:120
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME2050,Instrumentation,2.00,Dr. Syed Nizamuddin Khaderi,Dr. Syed Nizamuddin Khaderi,66,,3-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-4-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME2110,Mechanics of Solids,3.00,Dr. Gangadharan R,Dr. Gangadharan R,138,,1-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-12-Capacity:200
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME2110,Mechanics of Solids,3.00,,"Dr. Prakhar Gupta,",,,5-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-12-Capacity:200
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME2240,Fluid Mechanics,3.00,Dr. Ranabir Dey,"Dr. Ranabir Dey,",170,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-12-Capacity:200
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME2240,Fluid Mechanics,3.00,,Dr. Neetu Tiwari,,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-08-Capacity:120
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME2431,Fluid Mechanics Lab,1.00,Dr. Neetu Tiwari,Dr. Neetu Tiwari,72,,4-6,AN3_JUL26-NOV26,Wednesday-15:30-17:25,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3010,Manufacturing Science - II,2.00,Dr. Muvvala Gopinath,Dr. Muvvala Gopinath,68,,1-4,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-3-Capacity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3030,Modelling and Simulation,3.00,Dr. Chandrika Prakash Vyasarayani,Dr. Chandrika Prakash Vyasarayani,89,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-03-Capacity:120
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3040,Mathematical Elements for Geometrical Modeling,1.50,Prof. Venkata Reddy N,Prof. Venkata Reddy N,66,,1-3,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3050,Computer Integrated Manufacturing,1.50,Dr. Anurup Datta,Dr. Anurup Datta,66,,4-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3140,IC Engines,3.00,Dr. Pankaj Sharadchandra Kolhe,Dr. Pankaj Sharadchandra Kolhe,63,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-2-Capicity:68
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3160,Power and Refrigeration System,2.00,Dr. Raja Banerjee,Dr. Raja Banerjee,74,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-4-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3170,Design of Machine Elements,3.00,Dr. G Thulsiram,Dr. G Thulsiram,66,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-3-Capdeity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3180,FEM and CFD Theory,3.00,Dr. Safvan Palathingal,"Dr. Nishanth Dongari, Dr. Safvan Palathingal",90,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",LHC-03-Capacity:120
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3210,Control Systems.,3.00,Dr. Vishnu Rajasekharan Unni,"Dr. Vishnu Rajasekharan Unni, Dr. Safvan Palathingal",78,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-4-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3220,Industrial Engineering and Operations Research,3.00,Dr. Muvvala Gopinath,"Dr. Muvvala Gopinath, Dr. Anirban Naskar",66,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-08 
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3445,Finite Element Methods Lab,1.00,Dr. Syed Nizamuddin Khaderi,Dr. Syed Nizamuddin Khaderi,97,,1-3,AN3_JUL26-NOV26,Wednesday-15:30-17:25,LHc-07-Capacity:200
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3455,Computational Fluid Dynamics Lab,1.00,Dr. Lakshmana Dora Chandrala,Dr. Lakshmana Dora Chandrala,94,,4-6,AN3_JUL26-NOV26,Wednesday-15:30-17:25,LHc-07-Capacity:200
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME3465,Manufacturing Lab,1.00,Prof. Suryakumar S,Prof. Suryakumar S,64,,1-3,FN2_JUL26-NOV26,Tuesday-09:00-11:55,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME4325,Project-2,3.00,Unspecified,Unspecified,22,,1-6,,,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME4435,Dynamics Lab,1.00,Dr. Kuchibhatla Sai Aditya Raman,Dr. Kuchibhatla Sai Aditya Raman,70,,4-6,AN3_JUL26-NOV26,Wednesday-15:30-17:25,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME4445,Heat Transfer Lab,1.00,Dr. Ankush Kumar Jaiswal,Dr. Ankush Kumar Jaiswal,65,,4-6,FN2_JUL26-NOV26,Tuesday-09:00-11:55,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME4705,Honors Project Stage 1,3.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5010,Mathematical Methods for Engineers,3.00,Dr. Chandra Prakash,Dr. Chandra Prakash,82,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",MAE-LH-10-Capmaity:68
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5011,Data Acquisition and Control Lab,1.00,Dr. R.Prasanth Kumar,Dr. R.Prasanth Kumar,14,,4-6,AN2_JUL26-NOV26,Tuesday-14:30-17:25,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5020,Elasticity & Plasticity,1.50,Dr. Anirban Naskar,Dr. Anirban Naskar,10,,1-3,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MAE-LH-y:00-Capelity:68
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5051,Sensors and Actuators,1.00,Dr. Allaka Himabindu,Dr. Allaka Himabindu,14,,1-3,AN5_JUL26-NOV26,Friday-14:30-17:25,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5061,Robotics and Automation Lab,1.00,Dr. R.Prasanth Kumar,Dr. R.Prasanth Kumar,14,,4-6,AN5_JUL26-NOV26,Friday-14:30-17:25,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5080,Scaling Laws & Multi-scale Manufacture,1.50,Prof. Suryakumar S,Prof. Suryakumar S,8,,4-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MAE-LH-4-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5110,Advanced Mechanics of Solids,3.00,Dr. Ramji M,Dr. Ramji M,31,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MAE-LH-4-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5120,Dynamics and Vibration,3.00,Dr. Venkatesham Balide,"Dr. Venkatesham Balide, Dr. Kuchibhatla Sai Aditya Raman",20,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-3-Capacity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5130,Finite Element Method,3.00,Dr. Viswanath Chinthapenta,Dr. Viswanath Chinthapenta,51,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-6-Capfiity:68
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5139,Finite Element Method,3.00,Dr. Sai Sidhardh,Dr. Sai Sidhardh,17,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5210,CAD/CAM,3.00,Prof. Venkata Reddy N,"Dr. Anurup Datta, Prof. Venkata Reddy N",9,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-0-Capcaity:68
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5310,Incompressible Fluid Flow,3.00,Dr. Harish Nagaraj Dixit,Dr. Harish Nagaraj Dixit,29,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5320,Advanced Heat Transfer,3.00,Dr. Sachidananda Behera,Dr. Sachidananda Behera,15,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-3-Capacity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5330,Computational Fluid Dynamics,3.00,Dr. Niranjan Shrinivas Ghaisas,Dr. Niranjan Shrinivas Ghaisas,53,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5339,Computational Fluid Dynamics,3.00,Prof. Venkata Subbaiah K,Prof. Venkata Subbaiah K,14,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5340,IC Engine Combustion and Pollution,3.00,Dr. Saravanan Balusamy,Dr. Saravanan Balusamy,9,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-3-Capacity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5480,"Sustainable Energy Technology: Energy Sources, Energy Efficiency,",3.00,Dr. Sayak Banerjee.,Dr. Sayak Banerjee.,45,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-3-Capacity:100
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5769,Applied Solid Mechanics,1.50,Dr. Chandra Prakash,Dr. Chandra Prakash,11,,1-3,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5770,Fundamentals of Robotics,3.00,Dr. Allaka Himabindu,Dr. Allaka Himabindu,33,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MAE-LH-6-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5779,Applied Fluid Mechanics,1.50,Dr. Karri Badarinath,Dr. Karri Badarinath,11,,4-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5780,Control Systems Design,3.00,Dr. Ashok Kumar Pandey,Dr. Ashok Kumar Pandey,17,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",LHC-11-Capacity:120
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5880,Probability and Optimization,3.00,Dr. Karri Badarinath,"Dr. Karri Badarinath, Dr. Niranjan Shrinivas Ghaisas",25,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5890,Advanced Refrigeration and Thermal Systems,3.00,Dr. Ankush Kumar Jaiswal,Dr. Ankush Kumar Jaiswal,8,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-4-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5909,Additive Manufacturing,2.00,Dr. Muvvala Gopinath,Dr. Muvvala Gopinath,24,,3-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5915,Thesis,30.00,Unspecified,Unspecified,3,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5920,Experimental Methods in Fluid Mechanics,3.00,Dr. Lakshmana Dora Chandrala,Dr. Lakshmana Dora Chandrala,19,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-5-Capacity:60
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5925,Thesis,30.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5935,Dual Degree Thesis (Stage 1),5.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5945,Dual Degree Thesis (Stage-2),18.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5975,MTech (3-year) Thesis (Sem-1)-2,2.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME5985,MTech (3-year) Thesis (Sem-1)-3,3.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6005,M.Tech. Project (Stage-1),14.00,Unspecified,Unspecified,61,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6035,M.Tech (3-year) Thesis (sem-2)-3,3.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6040,Machine Learning and its Applications,3.00,Dr. R.Prasanth Kumar,"Dr. Venkatesham Balide, Dr. R.Prasanth Kumar",76,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-2-Capacity:138
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6125,M.tech (3-year) Thesis (sem-3)-2,2.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6145,M.tech (3-year) Thesis (sem-3)-6,6.00,Unspecified,Unspecified,2,,1-6,LA6090_JUL26-NOV26,Monday-10:00-13:00,LHC-04-Capacity:
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6205,M.Tech Thesis Stage II,8.00,Unspecified,Unspecified,7,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6215,M.Tech (3-year) Thesis (sem-4)-1,1.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6225,M.Tech (3-year) Thesis (sem-4)-2,2.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6235,M.Tech (3-year) Thesis (sem-4)-3,3.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6245,M.Tech (3-year) Thesis (sem-4)-6,6.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6255,M.Tech (3-year) Thesis (sem-4)-9,9.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6315,M.tech (3-year) Thesis (sem-5)-1,1.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6325,M.tech (3-year) Thesis (sem-5)-2,2.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6335,M.tech (3-year) Thesis (sem-5)-3,3.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6345,M.tech (3-year) Thesis (sem-5)-6,6.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6415,M.tech (3-year) Thesis (sem-6)-1,1.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6435,M.tech (3-year) Thesis (sem-6)-3,3.00,Unspecified,Unspecified,1,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6445,M.tech (3-year) Thesis (sem-6)-6,6.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6915,Thesis,12.00,Unspecified,Unspecified,6,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME6925,Thesis,30.00,Unspecified,Unspecified,3,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME7915,Thesis,30.00,Unspecified,Unspecified,5,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,ME7925,Thesis,30.00,Unspecified,Unspecified,0,,1-6,,,
+Medical Physics,JUL26-NOV26,MP5001,MSc Physics Lab,2.00,Dr. Suryanarayana Jammalamadaka,Dr. Suryanarayana Jammalamadaka,4,,1-6,AN4_JUL26-NOV26,Thursday-14:30-17:25,LHC-04-Capacity:
+Medical Physics,JUL26-NOV26,MP5010,Nuclear and Radiation Physics and Radiation Sources,3.00,Prof. Anjan Kumar Giri,Prof. Anjan Kumar Giri,4,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-9-Capnuity:68
+Medical Physics,JUL26-NOV26,MP5100,Radiation Biology,1.00,Dr. Aravind Kumar Rengan,Dr. Aravind Kumar Rengan,11,,5-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-0-Capraity:68
+Physics,JUL26-NOV26,MP5130,Radiation Measuring & Monitoring Instruments,1.00,Unspecified,Unspecified,4,,5-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-10-Capraity:68
+Medical Physics,JUL26-NOV26,MP6000,Radiological Mathematics,2.00,Dr. Saranya Samik Ghosh,Dr. Saranya Samik Ghosh,4,,1-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-6-Capraity:68
+Medical Physics,JUL26-NOV26,MP6001,Biomedical Devices (Lab),2.00,Dr. Renu John,Dr. Renu John,6,,1-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-10-Capbiity:68
+Academic,JUL26-NOV26,MP6005,Medical Physics Internship I,12.00,Unspecified,Unspecified,3,,1-6,,,
+Medical Physics,JUL26-NOV26,MP6010,Lasers and Photonics in Medicine,2.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,5,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-10-Caplaity:68
+Physics,JUL26-NOV26,MP6020,Computational Modeling of Biological Systems,2.00,Dr. Anupam Gupta,Dr. Anupam Gupta,4,,1-4,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MAE-LH-4-Capcoity:68
+Medical Physics,JUL26-NOV26,MP6030,Biological Basis of Radiotherapy & Biological Models,1.00,Unspecified,Unspecified,4,,5-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MAE-LH-9-Capbiity:68
+Medical Physics,JUL26-NOV26,MP6040,Clinical Radiation Oncology,1.00,Unspecified,Unspecified,4,,5-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-0-Capclity:68
+Medical Physics,JUL26-NOV26,MP6060,Brachytherapy Physics & Treatment Planning,1.00,Unspecified,Unspecified,4,,5-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MAE-LH-y:00-Capbrity:68
+Medical Physics,JUL26-NOV26,MP6070,Physics of Nuclear Medicine,1.00,Unspecified,Unspecified,4,,5-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MAE-LH-2-Capphity:68
+MSME,JUL26-NOV26,MS1830,Physical Metallurgy,2.00,Dr. Varanasi Rama Srinivas,Dr. Varanasi Rama Srinivas,104,,3-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHc-07-Capacity:200
+MSME,JUL26-NOV26,MS1980,Fundamentals of Scientific Computing,2.00,Dr. Saswata Bhattacharya,"Dr. Saswata Bhattacharya, Dr. Anuj Goyal",77,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",LHC-14-Capacity:200
+MSME,JUL26-NOV26,MS1990,Introduction to Materials Science and Engineering,1.00,Dr. Hemam Rachna Devi,Dr. Hemam Rachna Devi,149,,1-2,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHc-07-Capacity:200
+MSME,JUL26-NOV26,MS2031,Microstructure and Properties Lab,2.00,Dr. Suresh Perumal,"Dr. Suhash Ranjan Dey, Dr. Suresh Perumal",35,,1-6,Wednesday-14:30-17:30,Wednesday-14:30-17:30,MSME-LH-1-Capacity:36
+MSME,JUL26-NOV26,MS2110,Semiconductor Materials,2.00,Dr. Hemam Rachna Devi,Dr. Hemam Rachna Devi,49,,3-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS2120,Iron Making,1.00,Dr. Mayur Vaidya,Dr. Mayur Vaidya,43,,5-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS2280,Transport Phenomena in Materials Processing,2.00,Dr. Saswata Bhattacharya,Dr. Saswata Bhattacharya,35,,3-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MSME-LH-1-Capacity:36
+MSME,JUL26-NOV26,MS2330,Fundamentals of Extractive Metallurgy,2.00,Dr. Amit Barnwal,Dr. Amit Barnwal,36,,1-2,W_JUL26-NOV26,"Monday-17:30-18:55,Thursday-17:30-18:55",LHC-03-Capacity:120
+MSME,JUL26-NOV26,MS2330,Fundamentals of Extractive Metallurgy,2.00,,,,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",LHC-03-Capacity:120
+MSME,JUL26-NOV26,MS2860,Computational Methods in Materials Science,2.00,Dr. Anuj Goyal,Dr. Anuj Goyal,65,,3-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-04-Capacity:200
+MSME,JUL26-NOV26,MS2930,Imaging in Materials Science,2.00,Dr. Shourya Dutta Gupta,Dr. Shourya Dutta Gupta,35,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS2970,Materials Thermodynamics and Kinetics,3.00,Dr. Subhradeep Chatterjee,Dr. Subhradeep Chatterjee,39,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-03-Capacity:120
+MSME,JUL26-NOV26,MS3013,Soft and Porous Materials,3.00,Dr. Mudrika Khandelwal,"Dr. Deepu J. Babu, Dr. Mudrika Khandelwal",34,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS3041,"Mechanical Behavior, Deformation Processing and Heat Treatment",2.00,Dr. Pinaki Prasad Bhattacharjee,"Dr. Ashok K, Dr. Pinaki Prasad Bhattacharjee, Dr. Rajesh Korla",32,,1-6,,,MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS3150,Corrosion,1.00,Dr. Atul Suresh Deshpande,Dr. Atul Suresh Deshpande,44,,5-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS3363,Powder Metallurgy Processing,1.00,Dr. Bharat Bhooshan Panigrahi,Dr. Bharat Bhooshan Panigrahi,32,,1-2,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS3410,Electrochemical Processing of Materials,2.00,Dr. Suhash Ranjan Dey,Dr. Suhash Ranjan Dey,33,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-0-Capelity:68
+MSME,JUL26-NOV26,MS3890,Properties of Materials,2.00,Dr. Suresh Perumal,Dr. Suresh Perumal,31,,3-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS4021,Functional Device Fabrication and Electrochemical Characterization,2.00,Dr. Suresh Kumar Garlapati,"Dr. Shourya Dutta Gupta, Dr. Suresh Kumar Garlapati, Dr. Chandrasekhar",31,,1-6,MS4021_JUL26-NOV26,"Wednesday-17:30-18:55,Wednesday-16:01-17:25",
+MSME,JUL26-NOV26,MS5015,M. Tech Thesis Stage-I,12.00,Unspecified,Unspecified,17,,1-6,,,
+MSME,JUL26-NOV26,MS5150,Biomaterials- Materials in Medicine,3.00,Dr. Atul Suresh Deshpande,Dr. Atul Suresh Deshpande,33,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MSME-LH-1-Capacity:36
+MSME,JUL26-NOV26,MS5195,Thesis Stage I,12.00,Unspecified,Unspecified,5,,1-6,,,
+MSME,JUL26-NOV26,MS5295,Thesis Stage II,12.00,Unspecified,Unspecified,2,,1-6,,,
+MSME,JUL26-NOV26,MS5330,Role of Microstructure in Materials Selection,2.00,Prof. B S Murty,Prof. B S Murty,35,,3-6,MS5330_JUL26-NOV26,"Tuesday-18:00-19:25,Thursday-18:00-19:25",LHC-02-Capacity:72
+MSME,JUL26-NOV26,MS5390,Electrometallurgy,3.00,Dr. Suhash Ranjan Dey,Dr. Suhash Ranjan Dey,10,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",LHC-03-Capacity:120
+MSME,JUL26-NOV26,MS5460,Metal Additive Manufacturing,3.00,Dr. Janaki Ram G D,Dr. Janaki Ram G D,51,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS5753,Sustainable Chemical Metallurgy,2.00,Dr. Amit Barnwal,Dr. Amit Barnwal,22,,1-2,W_JUL26-NOV26,"Monday-17:30-18:55,Thursday-17:30-18:55",MAE-LH-9-Capsuity:68
+MSME,JUL26-NOV26,MS5760,Elements of Metallurgy and Manufacturing of Superalloys and,2.00,Dr. K. Bhanu Sankara Rao,Dr. K. Bhanu Sankara Rao,32,,1-4,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS5770,"Powder Metallurgy of Nano, Micro and Additive Manufacturing",3.00,Dr. Bharat Bhooshan Panigrahi,Dr. Bharat Bhooshan Panigrahi,23,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS5810,Theory and Practice of Atom Probe Tomography,3.00,Dr. Varanasi Rama Srinivas,Dr. Varanasi Rama Srinivas,29,29,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",LHC-01-Capacity:72
+MSME,JUL26-NOV26,MS5820,Emerging Spin Based Memories,1.00,Dr. Chandrasekhar Murapaka,Dr. Chandrasekhar Murapaka,4,,5-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",MSME-LH-1-Capacity:36
+MSME,JUL26-NOV26,MS5830,Physical Metallurgy,2.00,Dr. Varanasi Rama Srinivas,Dr. Varanasi Rama Srinivas,21,,3-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",LHC-08-Capacity:120
+MSME,JUL26-NOV26,MS5860,Computational Methods in Materials Science,2.00,Dr. Anuj Goyal,Dr. Anuj Goyal,15,,3-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",LHC-04-Capacity:200
+MSME,JUL26-NOV26,MS5880,Imperfections in Crystalline solids,3.00,Dr. Rajesh Korla,Dr. Rajesh Korla,19,,1-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS5890,Functional Properties of Materials,2.00,Dr. Suresh Perumal,Dr. Suresh Perumal,16,,3-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",
+MSME,JUL26-NOV26,MS5920,Fundamentals of Electronic Packaging Materials,2.00,Dr. Chandrasekhar Murapaka,Dr. Chandrasekhar Murapaka,32,,3-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",MSME-LH-2-Capacity:60
+MSME,JUL26-NOV26,MS5930,Imaging in Materials Science,2.00,Dr. Shourya Dutta Gupta,Dr. Shourya Dutta Gupta,38,,1-4,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",MAE-LH-10-Capacity:68
+MSME,JUL26-NOV26,MS5970,Materials Thermodynamics and Kinetics,3.00,Dr. Subhradeep Chatterjee,Dr. Subhradeep Chatterjee,12,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",LHC-03-Capacity:120
+MSME,JUL26-NOV26,MS5980,Fundamentals of Scientific Computing,2.00,Dr. Saswata Bhattacharya,"Dr. Saswata Bhattacharya, Dr. Anuj Goyal",18,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",
+MSME,JUL26-NOV26,MS5990,Introduction to Materials Science and Engineering,1.00,Dr. Sai Rama Krishna Malladi,Dr. Sai Rama Krishna Malladi,62,,1-2,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS5991,Materials PG Lab,2.00,Dr. Suresh Perumal,Dr. Suresh Perumal,18,,1-6,MS5991_JUL26-NOV26,Wednesday-16:00-19:00,MSME-LH-3-Capacity:106
+MSME,JUL26-NOV26,MS9010,Techniques of Materials Characterization,3.00,Dr. Shourya Dutta Gupta,Dr. Shourya Dutta Gupta,1,,1-6,,,
+MSME,JUL26-NOV26,MS9020,Thermodynamics and Kinetics of Materials,3.00,Dr. Saswata Bhattacharya,Dr. Saswata Bhattacharya,0,,1-6,,,
+MSME,JUL26-NOV26,MS9030,Advanced Materials and Processes,3.00,Dr. Mayur Vaidya,Dr. Mayur Vaidya,0,,1-6,,,
+MSME,JUL26-NOV26,MS9040,Physics of Materials,3.00,Dr. Chandrasekhar Murapaka,Dr. Chandrasekhar Murapaka,0,,1-6,,,
+MSME,JUL26-NOV26,MS9050,Powder Metallurgy,3.00,Dr. Bharat Bhooshan Panigrahi,Dr. Bharat Bhooshan Panigrahi,0,,1-6,,,
+MSME,JUL26-NOV26,MS9060,Mechanical behaviours of materials,3.00,Dr. Rajesh Korla,Dr. Rajesh Korla,0,,1-6,,,
+MSME,JUL26-NOV26,MS9070,Aqueous Corrosion and its control,3.00,Dr. Bharat Bhooshan Panigrahi,Dr. Bharat Bhooshan Panigrahi,0,,1-6,,,
+MSME,JUL26-NOV26,MS9080,Diffusion in multicomponent Solids,3.00,Dr. Mayur Vaidya,Dr. Mayur Vaidya,0,,1-6,,,
+Academic,JUL26-NOV26,NC1013,National Cadet Corps,1.00,Unspecified,Unspecified,0,,1-6,,,
+Academic,JUL26-NOV26,NS1001,National Sports Organization,0.00,Unspecified,Unspecified,3,,1-6,,,
+Academic,JUL26-NOV26,NS1002,National Service Scheme,0.00,Unspecified,Unspecified,10,,1-6,,,
+Ophthalmic Engineering,JUL26-NOV26,OP5010,Introduction to Engineering Principles,1.00,Dr. Gande Vamsi Vikram,Dr. Gande Vamsi Vikram,1,,1-2,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-8-Capacity:40
+Ophthalmic Engineering,JUL26-NOV26,OP5013,Introduction to Ophthalmology and Optometry,1.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,7,,1-2,,,
+Ophthalmic Engineering,JUL26-NOV26,OP5015,MTech Thesis Stage – I,12.00,Unspecified,Unspecified,9,,1-6,,,
+Ophthalmic Engineering,JUL26-NOV26,OP5016,Industrial Lecture,1.00,Unspecified,Unspecified,15,,1-6,,,
+Ophthalmic Engineering,JUL26-NOV26,OP5023,The Cornea & Crystalline Lens,3.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,8,,1-6,,,
+Ophthalmic Engineering,JUL26-NOV26,OP5043,Intraocular Pressure Control,2.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,8,,3-6,,,
+Ophthalmic Engineering,JUL26-NOV26,OP5130,AI in Ophthalmic Informatics,2.00,Dr. Nagarajan Ganapathy,Dr. Nagarajan Ganapathy,9,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",MAE-LH-8-Capacity:40
+Ophthalmic Engineering,JUL26-NOV26,OP5133,Stress Analysis & Biomechanics,2.00,Dr. Syed Nizamuddin Khaderi,Dr. Syed Nizamuddin Khaderi,8,,1-4,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",MAE-LH-8-Capacity:40
+Ophthalmic Engineering,JUL26-NOV26,OP5153,Lasers for Ophthalmic Engineering,1.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,9,,1-2,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-8-Capacity:40
+Ophthalmic Engineering,JUL26-NOV26,OP5163,Optoelectronics,1.00,Dr. Nithyanandan Kanagaraj,Dr. Nithyanandan Kanagaraj,8,,3-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-8-Capacity:40
+Polymers and Biosystems Engineering,JUL26-NOV26,PB5015,MTech Thesis Stage I,12.00,Unspecified,Unspecified,0,,1-6,,,
+Mechanical and Aerospace Engineering,JUL26-NOV26,PH5015,M.Tech Thesis Stage -I,12.00,Unspecified,Unspecified,15,,1-6,,,
+Physics,JUL26-NOV26,PH5101,Physics Lab (MSc1),2.00,Dr. Yogesh Kumar Srivastava,Dr. Yogesh Kumar Srivastava,38,,1-6,AN1_JUL26-NOV26,Monday-14:30-17:25,
+Physics,JUL26-NOV26,PH5110,Classical Mechanics,3.00,Dr. Priyotosh Bandyopadhyay,Dr. Priyotosh Bandyopadhyay,39,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",PH-1-(80)
+Physics,JUL26-NOV26,PH5120,Mathematical Physics - I,3,Dr. Anurag Tripathi,Dr. Anurag Tripathi,43,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",PH-1-(80)
+Physics,JUL26-NOV26,PH5130,Quantum Mechanics - I,3,Dr. Atanu Rajak,Dr. Atanu Rajak,49,,1-6,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",PH-1-(80)
+Physics,JUL26-NOV26,PH5140,Electronics,3,Dr. Mahesh Peddigari,Dr. Mahesh Peddigari,37,,1-6,PH5140_JUL26-NOV26,"Wednesday-10:00-10:55,Tuesday-11:00-11:55,Friday-10:00-10:55",LHC-04-Capacity:
+Physics,JUL26-NOV26,PH5210,Electrodynamics,3,Dr. Raghavendra Srikanth Hundi,Dr. Raghavendra Srikanth Hundi,44,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",PH-1-(80)
+Physics,JUL26-NOV26,PH5240,Statistical Mechanics,3,Dr. Anupam Gupta,Dr. Anupam Gupta,40,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",PH-1-(80)
+Physics,JUL26-NOV26,PH5250,Optics & Photonics,3,Dr. Srabani Kar,Dr. Srabani Kar,49,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",PH-1-(80)
+Physics,JUL26-NOV26,PH5311,Physics Lab (MSc2),2,Dr. Vandana Sharma,Dr. Vandana Sharma,37,,1-6,PH5311_JUL26-NOV26,"Monday-09:00-11:55,Wednesday-14:30-17:30",LHC-04-Capacity:
+Physics,JUL26-NOV26,PH5315,Project,2,Dr. Sangkha Borah,Dr. Sangkha Borah,37,,1-6,,,
+Physics,JUL26-NOV26,PH53170,Nanophotonic Devices,3,Dr. Shinde Satish Laxman,Dr. Shinde Satish Laxman,13,,1-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",PH-1-(80)
+Physics,JUL26-NOV26,PH5380,Fundamentals of Semiconductors Physics and Devices,3,Dr. Prem Pal,Dr. Prem Pal,22,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",PH-1-(80)
+Physics,JUL26-NOV26,PH5393,Machine Learning for Physical Sciences,3,Dr. Sangkha Borah,Dr. Sangkha Borah,66,,1-6,W_JUL26-NOV26,"Monday-17:30-18:55,Thursday-17:30-18:55",LHC-11-Capacity:120
+Physics,JUL26-NOV26,PH5430,Spintronics,3,Dr. Suryanarayana Jammalamadaka,Dr. Suryanarayana Jammalamadaka,6,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",PH-3(50)
+Physics,JUL26-NOV26,PH5460,Open Quantum Systems,3,Dr. Archak Purkayastha,Dr. Archak Purkayastha,19,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",PH-2(60)
+Physics,JUL26-NOV26,PH5490,Fiber Optics,3,Dr. Srabani Kar,Dr. Srabani Kar,7,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",CHE- Class Room 320-Capacity: 80
+Physics,JUL26-NOV26,PH5510,Laser Engineering and Technology,3,Dr. Vandana Sharma,Dr. Vandana Sharma,8,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CHE- Class Room 320-Capacity: 80
+Physics,JUL26-NOV26,PH5600,Quantum Physics for Engineers,2,Dr. Narendra Sahu,Dr. Narendra Sahu,15,,1-4,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",PH-2(60)
+Physics,JUL26-NOV26,PH5601,QSD Lab 1,2,Dr. Sangkha Borah,"Dr. Sangkha Borah, Dr. Alok Kumar Pan",12,,1-6,AN1_JUL26-NOV26,Monday-14:30-17:25,
+Physics,JUL26-NOV26,PH5610,Mathematical and Computational Methods for Quantum Devices,2,Dr. Alok Kumar Pan,Dr. Alok Kumar Pan,22,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",PH-2(60)
+Physics,JUL26-NOV26,PH5620,Quantum devices - II (Quantum optical devices),2,Dr. Raavi Sai Santosh Kumar,Dr. Raavi Sai Santosh Kumar,11,,3-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",PH-2(60)
+Physics,JUL26-NOV26,PH5630,Solid State Devices,2,Dr. Prem Pal,Dr. Prem Pal,9,,1-4,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",PH-2(60)
+Physics,JUL26-NOV26,PH5720,Quantum devices - I (Physics of low dimensional systems and quantum,2,Dr. Suryanarayana Jammalamadaka,Dr. Suryanarayana Jammalamadaka,18,,3-6,B_JUL26-NOV26,"Monday-10:00-10:55,Wednesday-09:00-09:55,Thursday-11:00-11:55",PH-2(60)
+Physics,JUL26-NOV26,PH5850,Machine Learning for High Energy Physics,3,Dr. Saranya Samik Ghosh,Dr. Saranya Samik Ghosh,31,,1-6,P_JUL26-NOV26,"Monday-14:30-15:55,Thursday-16:00-17:25",PH-3(50)
+Physics,JUL26-NOV26,PH6120,Introduction to Astrophysics,2,Dr. Mayukh Pahari,"Dr. Shantanu Desai, Dr. Mayukh Pahari",10,,3-6,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MAE-LH-6-Capacity:60
+Physics,JUL26-NOV26,PH6270,Particle Physics,3,Prof. Anjan Kumar Giri,Prof. Anjan Kumar Giri,42,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-10-Capacity:68
+Physics,JUL26-NOV26,PH6278,Nuclear Physics,2,Dr. Saurabh Sandilya,Dr. Saurabh Sandilya,37,,1-4,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MAE-LH-10-Capacity:68
+Physics,JUL26-NOV26,PH6360,Advanced Topics in High energy,3,Dr. Shubho Ranjan Roy,Dr. Shubho Ranjan Roy,1,,1-6,,,
+Physics,JUL26-NOV26,PH6450,Gravitation and Cosmology,3,Dr. Shubho Ranjan Roy,Dr. Shubho Ranjan Roy,19,,1-6,G_JUL26-NOV26,"Tuesday-12:00-12:55,Wednesday-12:00-12:55,Friday-12:00-12:55",MAE-LH-9-Capdaity:68
+Physics,JUL26-NOV26,PH6710,High Energy Particle Astrophysics,3,Dr. Divya Sachdeva,Dr. Divya Sachdeva,23,,1-6,D_JUL26-NOV26,"Monday-12:00-12:55,Tuesday-09:00-09:55,Friday-11:00-11:55",PH-3(50)
+Physics,JUL26-NOV26,PH6730,Plasma Physics and MHD,3,Dr. Bhuvanesh Ramakrishna,Dr. Bhuvanesh Ramakrishna,4,,1-6,E_JUL26-NOV26,"Tuesday-10:00-10:55,Thursday-12:00-12:55,Friday-09:00-09:55",PH-2(60)
+Materials Science & Metallurgical Engineering,JUL26-NOV26,SD5010,Fundamentals of Semiconductor Materials,3,Dr. Suresh Kumar Garlapati,Dr. Suresh Kumar Garlapati,36,,1-6,R_JUL26-NOV26,"Tuesday-14:30-15:55,Friday-16:00-17:25",MSME-LH-1-Capacity:36
+Materials Science & Metallurgical Engineering,JUL26-NOV26,SD5011,Semiconductor Materials Characterization Lab,1,Dr. Suresh Perumal,Dr. Suresh Perumal,14,,1-4,Wednesday-14:30-17:30,Wednesday-14:30-17:30,LHC-04-Capacity:
+Materials Science & Metallurgical Engineering,JUL26-NOV26,SD5020,"Semiconductor Extraction, Purification and Growth",2,Dr. Suhash Ranjan Dey,Dr. Suhash Ranjan Dey,33,,1-4,Q_JUL26-NOV26,"Monday-16:00-17:25,Thursday-14:30-15:55",MSME-LH-2-Capacity:60
+Semiconductor Materials and Devices,JUL26-NOV26,SD5025,Thesis Stage - I,12,Unspecified,Unspecified,20,,1-6,,,
+Materials Science & Metallurgical Engineering,JUL26-NOV26,SD5113,Vaccum Technology in Semiconductor,3,Dr. Ranjith Ramadurai,Dr. Ranjith Ramadurai,24,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",MSME-LH-3-Capacity:106
+Greenko School of Sustainability,JUL26-NOV26,SE5100,Sustainable Building Materials,3,Prof. Subramaniam K V L,"Prof. Asif Qureshi, Prof. Subramaniam K V L",14,,1-6,C_JUL26-NOV26,"Wednesday-10:00-10:55,Thursday-09:00-09:55,Monday-11:01-11:55",CHE-Class Room 117-Capacity:84
+Greenko School of Sustainability,JUL26-NOV26,SE5500,Green Chemistry and Industrial Processes,2,Dr. Satyanarayana G,"Dr. Satyanarayana G, Dr. Natte Kishore",10,,1-4,F_JUL26-NOV26,"Tuesday-11:00-11:55,Friday-10:00-10:55,Wednesday-14:30-15:29",CHE-Class Room 117-Capacity:84
+Greenko School of Sustainability,JUL26-NOV26,SE5713,Analysis and Methods for Sustainable Engineering,2,Dr. Maheswaran Rathinasamy,Dr. Maheswaran Rathinasamy,10,,3-6,AN4_JUL26-NOV26,Thursday-14:30-17:25,CHE-Class Room 117-Capacity:84
+Greenko School of Sustainability,JUL26-NOV26,SE5723,Concepts in Sustainable Engineering,3,Dr. Ambika S,Dr. Ambika S,22,,1-6,A_JUL26-NOV26,"Monday-09:00-09:55,Wednesday-11:00-11:55,Thursday-10:00-10:55",CHE-Class Room 117-Capacity:84
+Center for Interdisciplinary Programs,JUL26-NOV26,SE6015,M Tech Thesis Stage I,12,Unspecified,Unspecified,18,,1-6,,,
+Smart Mobility,JUL26-NOV26,SM5033,Internet of Things (IoT),2,Dr. Rajalakshmi P,Dr. Rajalakshmi P,0,,1-4,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",CHE-Class Room 221-Capacity:120
+Smart Mobility,JUL26-NOV26,SM5043,Traffic Engineering & Intelligent Transportation Systems,3,Dr. Digvijay S Pawar,Dr. Digvijay S Pawar,2,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",EE-004(GF) (80)
+Smart Mobility,JUL26-NOV26,SM5206,SM Industry Lectures,1,Dr. Rajalakshmi P,Dr. Rajalakshmi P,0,,1-6,S_JUL26-NOV26,"Tuesday-16:00-17:25,Friday-14:30-15:55",MAE-LH-8-Capacity:40
+Smart Mobility,JUL26-NOV26,SM6035,Thesis Stage II,10,Unspecified,Unspecified,11,,1-6,,,
+Smart Mobility,JUL26-NOV26,SM6125,Thesis Stage I,2,Unspecified,Unspecified,2,,1-6,,,
+Smart Mobility,JUL26-NOV26,SM6145,Thesis Stage III,8,Unspecified,Unspecified,2,,1-6,,,
